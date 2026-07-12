@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+
+# dependencies (none currently, future-proof)
+node_modules/
+
+# local secrets / env
+*.local
+.env
+
+# workbuddy project memory (not part of the published project)
+.workbuddy/
