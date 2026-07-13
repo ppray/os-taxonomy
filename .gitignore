@@ -13,3 +13,6 @@ node_modules/
 
 # workbuddy project memory (not part of the published project)
 .workbuddy/
+
+# EdgeOne 本地令牌与构建缓存（不入库）
+site/.edgeone/
