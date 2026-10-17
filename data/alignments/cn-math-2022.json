@@ -1325,12 +1325,13 @@
       "topicName": "计算平均数",
       "status": "aligned",
       "standards": [
-        "cn-math-2022:S2.SP.SJ.05"
+        "cn-math-2022:S2.SP.SJ.05",
+        "cn-math-2022:S2.SP.SJ.06"
       ],
       "relation": "exact",
       "cnStage": "S2",
       "confidence": 0.85,
-      "rationale": "平均数的计算与意义（中国第二学段）",
+      "rationale": "平均数的计算与意义（中国第二学段）；补：在实际情境中应用平均数",
       "review": "llm-draft"
     },
     {
@@ -1338,12 +1339,13 @@
       "topicName": "折线图（10 岁+）",
       "status": "aligned",
       "standards": [
-        "cn-math-2022:S3.SP.SJ.02"
+        "cn-math-2022:S3.SP.SJ.02",
+        "cn-math-2022:S3.SP.SJ.05"
       ],
       "relation": "exact",
       "cnStage": "S3",
       "confidence": 0.85,
-      "rationale": "扇形统计图与折线统计图",
+      "rationale": "扇形统计图与折线统计图；补：用扇形图、折线图解决问题",
       "review": "llm-draft"
     },
     {
@@ -1374,12 +1376,13 @@
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.SP.SJ.02",
-        "cn-math-2022:S2.SP.SJ.03"
+        "cn-math-2022:S2.SP.SJ.03",
+        "cn-math-2022:S3.SP.SJ.01"
       ],
       "relation": "partial",
       "cnStage": "S2",
       "confidence": 0.55,
-      "rationale": "按数据类型选统计图；分组数据的频数分布属初中",
+      "rationale": "按数据类型选统计图；分组数据的频数分布属初中；补：按数据类型选择统计图属于第三学段的收集、整理与分析",
       "review": "llm-draft"
     },
     {
@@ -2654,12 +2657,13 @@
       "topicName": "立体图形的展开图",
       "status": "aligned",
       "standards": [
-        "cn-math-2022:S3.GG.RC.05"
+        "cn-math-2022:S3.GG.RC.05",
+        "cn-math-2022:HX.KJ"
       ],
       "relation": "partial",
       "cnStage": "S3",
       "confidence": 0.75,
-      "rationale": "长方体、正方体、圆柱的展开图；棱柱棱锥展开图属初中",
+      "rationale": "长方体、正方体、圆柱的展开图；棱柱棱锥展开图属初中；补：展开图与立体图形互相想象是空间观念",
       "review": "llm-draft"
     },
     {
@@ -2720,12 +2724,13 @@
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.06",
-        "cn-math-2022:S3.GG.RC.06"
+        "cn-math-2022:S3.GG.RC.06",
+        "cn-math-2022:HX.KJ"
       ],
       "relation": "partial",
       "cnStage": "S2",
       "confidence": 0.7,
-      "rationale": "由平面表示识别立体图形",
+      "rationale": "由平面表示识别立体图形；补：由平面表示想象立体图形是空间观念",
       "review": "llm-draft"
     },
     {

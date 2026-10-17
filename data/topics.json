@@ -11541,7 +11541,8 @@
       ],
       "assessmentPrompt": "如果一家人在一局桌游的五轮中分别得了 6、8、7、5、9 分，{{name}} 能算出平均（分）得分吗？",
       "standards": [
-        "cn-math-2022:S2.SP.SJ.05"
+        "cn-math-2022:S2.SP.SJ.05",
+        "cn-math-2022:S2.SP.SJ.06"
       ]
     },
     {
@@ -11561,7 +11562,8 @@
       ],
       "assessmentPrompt": "{{name}} 能看懂一张扇形图——比如展示一个家庭每周开销怎么花——并用它来回答问题、解决问题吗？",
       "standards": [
-        "cn-math-2022:S3.SP.SJ.02"
+        "cn-math-2022:S3.SP.SJ.02",
+        "cn-math-2022:S3.SP.SJ.05"
       ]
     },
     {
@@ -11625,7 +11627,8 @@
         "ccss-math:7.SP.2",
         "uk-nc-2013:KS3.Maths.Stat.2",
         "cn-math-2022:S3.SP.SJ.02",
-        "cn-math-2022:S2.SP.SJ.03"
+        "cn-math-2022:S2.SP.SJ.03",
+        "cn-math-2022:S3.SP.SJ.01"
       ]
     },
     {
@@ -13648,7 +13651,8 @@
       ],
       "assessmentPrompt": "如果给 {{name}} 一张有六个正方形、呈 T 形的平面卡片，他能在折叠前就告诉你它会折成立方体，并指出哪个正方形会变成哪个面吗？",
       "standards": [
-        "cn-math-2022:S3.GG.RC.05"
+        "cn-math-2022:S3.GG.RC.05",
+        "cn-math-2022:HX.KJ"
       ]
     },
     {
@@ -13749,7 +13753,8 @@
       "assessmentPrompt": "如果你给 {{name}} 看一个盒或金字塔的平面建筑草图，他能告诉你它所代表的立体图形的名字吗？",
       "standards": [
         "cn-math-2022:S2.GG.RC.06",
-        "cn-math-2022:S3.GG.RC.06"
+        "cn-math-2022:S3.GG.RC.06",
+        "cn-math-2022:HX.KJ"
       ]
     },
     {

@@ -1,0 +1,139 @@
+{
+  "version": "v1",
+  "note": "中国课标特有节点（cn_*）的显式依赖边，含它们与原有 mt_* 节点之间的边。`topicId` 依赖于 `prerequisiteId`。build_graph.mjs 不再对这些节点做关键词自动连线。",
+  "edgeCount": 22,
+  "dependencies": [
+    {
+      "topicId": "cn_math_suanpan",
+      "prerequisiteId": "mt_aPBzD28_mT",
+      "strength": "hard",
+      "reason": "先要理解三位数各数位表示的值，才能在算盘各档上表示数"
+    },
+    {
+      "topicId": "cn_math_bianma",
+      "prerequisiteId": "mt_lC_Q5mSL_I",
+      "strength": "soft",
+      "reason": "能认读多位数后才便于理解编码中各位数字的含义"
+    },
+    {
+      "topicId": "cn_math_shuliangguanxi",
+      "prerequisiteId": "mt_gtTl3R5buH",
+      "strength": "hard",
+      "reason": "总价、路程等关系都是乘法模型，需要先理解乘法的意义"
+    },
+    {
+      "topicId": "cn_math_shuliangguanxi",
+      "prerequisiteId": "mt_Zdv-b-iW5K",
+      "strength": "soft",
+      "reason": "有用乘除解决简单问题的经验，才能概括出数量关系"
+    },
+    {
+      "topicId": "mt_kLQOzZYrd5",
+      "prerequisiteId": "cn_math_shuliangguanxi",
+      "strength": "soft",
+      "reason": "速度、单价等复合单位建立在常见数量关系之上"
+    },
+    {
+      "topicId": "mt_Jvg8X0N5u0",
+      "prerequisiteId": "cn_math_shuliangguanxi",
+      "strength": "soft",
+      "reason": "用字母写公式之前先要认识数量关系本身"
+    },
+    {
+      "topicId": "cn_math_dengliang",
+      "prerequisiteId": "mt_oIzycTBeE4",
+      "strength": "hard",
+      "reason": "先要理解等号表示两边相等"
+    },
+    {
+      "topicId": "cn_math_dengliang",
+      "prerequisiteId": "mt_zd0YkB3xNj",
+      "strength": "soft",
+      "reason": "曹冲称象的情境需要质量和称重的经验"
+    },
+    {
+      "topicId": "cn_math_dengshixingzhi",
+      "prerequisiteId": "mt_oIzycTBeE4",
+      "strength": "hard",
+      "reason": "等式性质以理解等号表示相等为前提"
+    },
+    {
+      "topicId": "cn_math_dengshixingzhi",
+      "prerequisiteId": "cn_math_dengliang",
+      "strength": "soft",
+      "reason": "等量代换是理解等式性质的经验基础"
+    },
+    {
+      "topicId": "cn_math_dengshixingzhi",
+      "prerequisiteId": "mt_ehGS_uVSJv",
+      "strength": "soft",
+      "reason": "加减互逆的经验帮助理解两边同时加减"
+    },
+    {
+      "topicId": "mt_QhFEDyIwSO",
+      "prerequisiteId": "cn_math_dengshixingzhi",
+      "strength": "hard",
+      "reason": "解方程的每一步都依据等式的基本性质"
+    },
+    {
+      "topicId": "cn_math_bafang",
+      "prerequisiteId": "mt_qeZYF6HZ4o",
+      "strength": "hard",
+      "reason": "先会用上下前后左右描述相对位置"
+    },
+    {
+      "topicId": "cn_math_fangxiangjuli",
+      "prerequisiteId": "cn_math_bafang",
+      "strength": "hard",
+      "reason": "方向加距离以认识八个方向为前提"
+    },
+    {
+      "topicId": "cn_math_fangxiangjuli",
+      "prerequisiteId": "mt_4MFUAsbx_6",
+      "strength": "hard",
+      "reason": "\"北偏东30°\"需要会量角和画角"
+    },
+    {
+      "topicId": "cn_math_fangxiangjuli",
+      "prerequisiteId": "mt_1badik7iKJ",
+      "strength": "soft",
+      "reason": "在地图上确定距离要用到比例尺"
+    },
+    {
+      "topicId": "cn_math_gongqing",
+      "prerequisiteId": "mt_6xNmQLzuqm",
+      "strength": "hard",
+      "reason": "先要理解面积和面积单位的意义"
+    },
+    {
+      "topicId": "cn_math_gongqing",
+      "prerequisiteId": "mt_Zks8xyInSG",
+      "strength": "soft",
+      "reason": "有了单位换算的经验才能在公顷与平方米之间换算"
+    },
+    {
+      "topicId": "cn_math_yuanzhuyuanzhui",
+      "prerequisiteId": "mt_svFa6_mjO_",
+      "strength": "hard",
+      "reason": "圆柱底面积和侧面长都要用到圆的面积和周长"
+    },
+    {
+      "topicId": "cn_math_yuanzhuyuanzhui",
+      "prerequisiteId": "mt_nTL-owFJTF",
+      "strength": "hard",
+      "reason": "圆柱、圆锥体积由长方体体积\"底面积×高\"推广而来"
+    },
+    {
+      "topicId": "cn_math_yuanzhuyuanzhui",
+      "prerequisiteId": "mt_REwgr0d_ss",
+      "strength": "soft",
+      "reason": "表面积要借助展开图理解"
+    },
+    {
+      "topicId": "cn_math_duliangheng",
+      "prerequisiteId": "mt_jHv4BgRK8B",
+      "strength": "hard",
+      "reason": "先体会用不同单位量同一物体结果不同"
+    }
+  ]
+}

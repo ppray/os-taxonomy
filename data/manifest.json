@@ -17,9 +17,9 @@
       "语文（读写素养）": 286,
       "道德与法治·综合实践": 88
     },
-    "cnTopics": 46,
+    "cnTopics": 56,
     "dependencies": 3221,
-    "cnDependencies": 0,
+    "cnDependencies": 22,
     "curricula": 7,
     "cnMath2022Standards": 92,
     "clusters": 183,
@@ -33,8 +33,8 @@
   },
   "files": {
     "topics.json": {
-      "bytes": 1512085,
-      "sha256": "b20c6875a87bb72a748cb718c5a1b57b4b51c493db3a39693f3870f54c2925cf"
+      "bytes": 1512253,
+      "sha256": "de334c0965377214cc152bd9eeb0c3a384c2899cb2308d5e36f9858c18ef10b9"
     },
     "dependencies.json": {
       "bytes": 667837,
@@ -53,16 +53,20 @@
       "sha256": "3712bda0deec28223a3d8d7d39b7ce297dd473d1fe8ed2f4b1722ad4c1d1bfd6"
     },
     "cn-topics.json": {
-      "bytes": 26877,
-      "sha256": "03abbb7456169fc4f93ff82b9d5f7ae92bb971a04797444e3c26bbc6489ce436"
+      "bytes": 33760,
+      "sha256": "4585566847ed47d3caa62d9f1e434060fd2a1e6ca723c70d9ae128d5d5e11c07"
+    },
+    "cn-dependencies.json": {
+      "bytes": 4546,
+      "sha256": "85bcf9af63a6c29c8330eb878b518d4245192bb0efb6fef85f1ffd696e186899"
     },
     "cn-math-2022.json": {
       "bytes": 54652,
       "sha256": "6a35583bc4064e51f6d0e6845793910f8ed2374717f5264b589a1e84655c3ba6"
     },
     "alignments/cn-math-2022.json": {
-      "bytes": 181175,
-      "sha256": "341bfe296044873705d006a4eec7910663ce9c4c2265ddab5c9781995753b1b7"
+      "bytes": 181631,
+      "sha256": "b20d7a9a9acde286ac5954b48c6bd7015a39576f31b63344006608e4fbc327e3"
     }
   }
 }

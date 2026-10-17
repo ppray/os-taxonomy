@@ -6,15 +6,26 @@
 //   domains.json   : 学科→领域 索引（用于「学科百科」导航）
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
-const SRC = 'F:/Documents/notey/002-Area/AI时代的教育/os-taxonomy-zh-art/data';
-const OUT = 'F:/Documents/notey/002-Area/AI时代的教育/os-taxonomy-zh-art/site/data';
+// 默认读写仓库内的 data/ 与 site/data/；可用环境变量覆盖（如把输出写到临时目录做试跑）
+const ROOT = path.dirname(fileURLToPath(import.meta.url));
+const SRC = process.env.TAXONOMY_DATA || path.join(ROOT, 'data');
+const OUT = process.env.SITE_DATA_OUT || path.join(ROOT, 'site', 'data');
 
 const topics = JSON.parse(fs.readFileSync(path.join(SRC, 'topics.json'), 'utf8')).topics;
 const deps   = JSON.parse(fs.readFileSync(path.join(SRC, 'dependencies.json'), 'utf8')).dependencies;
 const clusters = JSON.parse(fs.readFileSync(path.join(SRC, 'clusters.json'), 'utf8')).clusters;
-const standardsRaw = JSON.parse(fs.readFileSync('F:/Documents/notey/002-Area/AI时代的教育/os-taxonomy-zh/data/curriculum-standards.json', 'utf8'));
+// bewho 版站点用的是一份中文译本的 curriculum-standards.json（不在仓库内）；没有时退回仓库里的英文原版
+const standardsRaw = JSON.parse(fs.readFileSync(process.env.STANDARDS_JSON || path.join(SRC, 'curriculum-standards.json'), 'utf8'));
 const cnStdRaw = JSON.parse(fs.readFileSync(path.join(SRC, 'cn-standards.json'), 'utf8'));
+// 细粒度课标（data/cn-math-2022.json）：补上站点需要的 subject / keyStage 字段；条目没有 matchSubject，不参与启发式挂载
+const cnMath = JSON.parse(fs.readFileSync(path.join(SRC, 'cn-math-2022.json'), 'utf8'));
+for (const t of cnMath.topics) t.data = { ...t.data, subject: '数学', keyStage: `${t.data.stage}(${t.data.grades})` };
+// cn_* 节点的显式依赖边（data/cn-dependencies.json）；出现在这里的节点不再做关键词自动连线
+const cnDeps = fs.existsSync(path.join(SRC, 'cn-dependencies.json'))
+  ? JSON.parse(fs.readFileSync(path.join(SRC, 'cn-dependencies.json'), 'utf8')).dependencies : [];
+const explicitIds = new Set(cnDeps.flatMap(d => [d.topicId, d.prerequisiteId]).filter(id => id.startsWith('cn_')));
 
 // ── 学科顺序与精选配色（暗色底上发光、浅色底上可读）──────────────
 const SUBJECTS = ["科学","数学","语文（读写素养）","英语","信息科技","历史","生活与劳动","道德与法治·综合实践","学会学习（跨学科素养）"];
@@ -66,7 +77,7 @@ for (const d of deps) {
 }
 
 // ── 中国课标(2022) 集成 ───────────────────────────────
-const cnCurricula = cnStdRaw.curricula || [];
+const cnCurricula = [...(cnStdRaw.curricula || []), cnMath];
 // 1) 启发式对应：把中国课标条目挂到现有节点（同主题 + 年龄重叠 + 领域/名称关键词）
 for (const cur of cnCurricula) for (const t of cur.topics || []) {
   if (t.selfOnly || t.supersededBy || !t.matchSubject) continue; // 已被细粒度课标取代的条目不再启发式挂载
@@ -93,7 +104,17 @@ for (const t of cnTopics) {
     x: 0, y: 0, vx: 0, vy: 0, deg: 0, prereqs: [], deps: []
   });
 }
+for (const d of cnDeps) {
+  const s = idIndex.get(d.prerequisiteId);
+  const t = idIndex.get(d.topicId);
+  if (s === undefined || t === undefined) continue;
+  links.push({ s, t, strength: d.strength });
+  nodes[s].deg++; nodes[t].deg++;
+  nodes[t].prereqs.push(s);
+  nodes[s].deps.push(t);
+}
 for (const t of cnTopics) {
+  if (explicitIds.has(t.id)) continue;
   const ni = idIndex.get(t.id); if (ni === undefined) continue;
   const cand = nodes.filter(n => n.i !== ni && n.subject === (t.linkSubject || t.subject)
     && (!t.linkKeyword || (n.domain || '').includes(t.linkKeyword) || (n.name || '').includes(t.linkKeyword)));
@@ -294,8 +315,11 @@ for (const [sa, ta, sb, tb] of CROSS) {
 }
 
 // ── 精简课标映射（仅被引用条目）─────────────────────────
+// 外国课标条目的中文显示名（抽取自 bewho 版站点），叠加在英文原版之上
+const overlayPath = path.join(SRC, 'i18n', 'zh-CN', 'standards-overlay.json');
+const zhOverlay = fs.existsSync(overlayPath) ? JSON.parse(fs.readFileSync(overlayPath, 'utf8')).entries : {};
 const stdMap = new Map();
-for (const cur of [...(standardsRaw.curricula || []), ...(cnStdRaw.curricula || [])]) {
+for (const cur of [...(standardsRaw.curricula || []), ...cnCurricula]) {
   for (const t of cur.topics || []) {
     if (!t.key) continue;
     const dd = t.data || {};
@@ -305,7 +329,8 @@ for (const cur of [...(standardsRaw.curricula || []), ...(cnStdRaw.curricula || 
       domain: dd.domain || '',
       subject: dd.subject || '',
       keyStage: dd.keyStage || '',
-      curriculum: cur.slug || ''
+      curriculum: cur.slug || '',
+      ...zhOverlay[t.key]
     });
   }
 }
