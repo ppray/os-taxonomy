@@ -1,0 +1,68 @@
+{
+  "dataset": "Marble Skill Taxonomy · 中文版（对齐中国课标）",
+  "taxonomyVersion": "v1",
+  "upstream": [
+    "https://github.com/withmarbleapp/os-taxonomy",
+    "https://github.com/bewho/os-taxonomy"
+  ],
+  "counts": {
+    "topics": 1590,
+    "topicsBySubject": {
+      "信息科技": 21,
+      "历史": 90,
+      "学会学习（跨学科素养）": 18,
+      "数学": 503,
+      "生活与劳动": 37,
+      "科学": 547,
+      "语文（读写素养）": 286,
+      "道德与法治·综合实践": 88
+    },
+    "cnTopics": 46,
+    "dependencies": 3221,
+    "cnDependencies": 0,
+    "curricula": 7,
+    "cnMath2022Standards": 92,
+    "clusters": 183,
+    "alignments": {
+      "cn-math-2022": {
+        "aligned": 446,
+        "beyond-primary": 50,
+        "cn-out-of-scope": 7
+      }
+    }
+  },
+  "files": {
+    "topics.json": {
+      "bytes": 1512085,
+      "sha256": "b20c6875a87bb72a748cb718c5a1b57b4b51c493db3a39693f3870f54c2925cf"
+    },
+    "dependencies.json": {
+      "bytes": 667837,
+      "sha256": "bb3c0bf4c4ff0c35995877aae339215d4764e76b461769375344fa666d14d30c"
+    },
+    "curriculum-standards.json": {
+      "bytes": 1621982,
+      "sha256": "33a835abaafa68ed736f2102d5502ff030d6448dc55ae45718be05a78f5fc73f"
+    },
+    "clusters.json": {
+      "bytes": 52377,
+      "sha256": "6181486163d03bc4db650bbb20a12718037cd7e8c879ee52e330d67d825192ff"
+    },
+    "cn-standards.json": {
+      "bytes": 50761,
+      "sha256": "3712bda0deec28223a3d8d7d39b7ce297dd473d1fe8ed2f4b1722ad4c1d1bfd6"
+    },
+    "cn-topics.json": {
+      "bytes": 26877,
+      "sha256": "03abbb7456169fc4f93ff82b9d5f7ae92bb971a04797444e3c26bbc6489ce436"
+    },
+    "cn-math-2022.json": {
+      "bytes": 54652,
+      "sha256": "6a35583bc4064e51f6d0e6845793910f8ed2374717f5264b589a1e84655c3ba6"
+    },
+    "alignments/cn-math-2022.json": {
+      "bytes": 181175,
+      "sha256": "341bfe296044873705d006a4eec7910663ce9c4c2265ddab5c9781995753b1b7"
+    }
+  }
+}
