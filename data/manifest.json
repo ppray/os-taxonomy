@@ -33,8 +33,8 @@
   },
   "files": {
     "topics.json": {
-      "bytes": 1512253,
-      "sha256": "de334c0965377214cc152bd9eeb0c3a384c2899cb2308d5e36f9858c18ef10b9"
+      "bytes": 1512792,
+      "sha256": "8b10e634a394baba70043d831ac8737a8daf4914914220c2da9aa6080995cdce"
     },
     "dependencies.json": {
       "bytes": 667837,
@@ -65,8 +65,8 @@
       "sha256": "6a35583bc4064e51f6d0e6845793910f8ed2374717f5264b589a1e84655c3ba6"
     },
     "alignments/cn-math-2022.json": {
-      "bytes": 181631,
-      "sha256": "b20d7a9a9acde286ac5954b48c6bd7015a39576f31b63344006608e4fbc327e3"
+      "bytes": 181547,
+      "sha256": "5cd47ae3a22bf51cca8649297ae25ca5490c361bb6b47a673dbbae804d9a4b30"
     }
   }
 }

@@ -223,6 +223,13 @@ const CHECKS = {
     return { errors };
   },
 
+  'alignments 中的 topicName 与 topics.json 一致（告警）': ({ alignments, topicById }) => ({
+    errors: [],
+    warnings: alignments.flatMap(({ file, doc }) => doc.alignments
+      .filter((a) => a.topicName && topicById.get(a.topicId) && topicById.get(a.topicId).name !== a.topicName)
+      .map((a) => `alignments/${file} ${a.topicId}: topicName "${a.topicName}" 已过时，topics.json 中为 "${topicById.get(a.topicId).name}"`)),
+  }),
+
   'assessmentPrompt 保留 {{name}} 占位符': ({ allTopics }) => ({
     errors: allTopics.filter((t) => t.assessmentPrompt && !t.assessmentPrompt.includes('{{name}}')).map((t) => `${t.id}: assessmentPrompt 缺少 {{name}} 占位符`),
   }),

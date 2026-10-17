@@ -309,7 +309,7 @@
     },
     {
       "topicId": "mt_AKAtWEwpcj",
-      "topicName": "两位数加减的心算（6岁+）",
+      "topicName": "两位数加减一位数的口算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.04"
@@ -375,7 +375,7 @@
     },
     {
       "topicId": "mt_SrrsLiJkr3",
-      "topicName": "加法与减法（7岁+）",
+      "topicName": "三位数加减法笔算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.04"
@@ -401,7 +401,7 @@
     },
     {
       "topicId": "mt_zxST3MarI9",
-      "topicName": "加法与减法策略（7岁+）",
+      "topicName": "说明加减法的算理",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.04"
@@ -466,7 +466,7 @@
     },
     {
       "topicId": "mt_oDU_8zMZjp",
-      "topicName": "两位数加减的心算（7岁+）",
+      "topicName": "三位数加减一位数的口算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.04"
@@ -505,7 +505,7 @@
     },
     {
       "topicId": "mt_XuHmIn2xje",
-      "topicName": "缺数问题（7岁+）",
+      "topicName": "加减法中求未知数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.03",
@@ -545,7 +545,7 @@
     },
     {
       "topicId": "mt_mpS-JK_p_m",
-      "topicName": "加法与减法（8岁+）",
+      "topicName": "四位数加减法笔算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.04"
@@ -599,7 +599,7 @@
     },
     {
       "topicId": "mt_-F_Lv_apzH",
-      "topicName": "加法与减法（9岁+）",
+      "topicName": "用加减法解决多步问题",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.03",
@@ -627,7 +627,7 @@
     },
     {
       "topicId": "mt_Yw1_4Nfsql",
-      "topicName": "熟练的加法与减法（9岁+）",
+      "topicName": "多位数加减法笔算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.04"
@@ -640,7 +640,7 @@
     },
     {
       "topicId": "mt_MWXPiaTnEu",
-      "topicName": "加法与减法的心算（9岁+）",
+      "topicName": "大数加减的口算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.04"
@@ -653,7 +653,7 @@
     },
     {
       "topicId": "mt_M1tnXqmYbn",
-      "topicName": "加法与减法（10岁+）",
+      "topicName": "大数和小数的加减解决问题",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.04",
@@ -667,7 +667,7 @@
     },
     {
       "topicId": "mt_JH_6RpNWjr",
-      "topicName": "加法与减法策略（10岁+）",
+      "topicName": "两位小数加减法",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.02",
@@ -809,7 +809,7 @@
     },
     {
       "topicId": "mt_hVpGOEz2kG",
-      "topicName": "坐标（11岁+）",
+      "topicName": "四个象限的坐标",
       "status": "beyond-primary",
       "standards": [],
       "relation": null,
@@ -945,7 +945,7 @@
     },
     {
       "topicId": "mt_Yw27nweoTj",
-      "topicName": "估算答案（13岁+）",
+      "topicName": "用函数图像估计近似解",
       "status": "beyond-primary",
       "standards": [],
       "relation": null,
@@ -1120,7 +1120,7 @@
     },
     {
       "topicId": "mt_OkSJfrmFb_",
-      "topicName": "正数与倒数（6岁+）",
+      "topicName": "从任意数起十个十个地数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.01"
@@ -1200,7 +1200,7 @@
     },
     {
       "topicId": "mt_u5HkSxZECM",
-      "topicName": "象形统计图与统计表（6 岁+）",
+      "topicName": "数据收集与统计图的用语",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.SP.SJ.01",
@@ -1227,7 +1227,7 @@
     },
     {
       "topicId": "mt_1VSfm9yiLn",
-      "topicName": "把数据分类整理（6 岁+）",
+      "topicName": "根据分类结果回答问题",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.SP.FL.01",
@@ -1268,7 +1268,7 @@
     },
     {
       "topicId": "mt_r8XnXwRA6g",
-      "topicName": "用物体表示数（8 岁+）",
+      "topicName": "一格表示多个单位的统计图",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.SP.SJ.03"
@@ -1336,7 +1336,7 @@
     },
     {
       "topicId": "mt_bESTSBB0wK",
-      "topicName": "折线图（10 岁+）",
+      "topicName": "扇形统计图和折线统计图",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.SP.SJ.02",
@@ -1372,7 +1372,7 @@
     },
     {
       "topicId": "mt_eKJG-0eC6D",
-      "topicName": "象形统计图与统计表（11 岁+）",
+      "topicName": "按数据类型选择统计图",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.SP.SJ.02",
@@ -1409,7 +1409,7 @@
     },
     {
       "topicId": "mt_g3W0mdADVu",
-      "topicName": "找出二等分和四等分（5 岁+）",
+      "topicName": "认识四分之一",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.02"
@@ -1514,7 +1514,7 @@
     },
     {
       "topicId": "mt_SsLWS_APM7",
-      "topicName": "比较分数（7 岁+）",
+      "topicName": "分数的简单应用",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.02"
@@ -1567,7 +1567,7 @@
     },
     {
       "topicId": "mt_Xp-rj46S2w",
-      "topicName": "把图形分成相等的部分（7 岁+）",
+      "topicName": "把图形平均分成几份",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.02"
@@ -1620,7 +1620,7 @@
     },
     {
       "topicId": "mt_HnKbuCliNS",
-      "topicName": "比较分数（8 岁+）",
+      "topicName": "比较分子或分母相同的分数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.02"
@@ -1674,7 +1674,7 @@
     },
     {
       "topicId": "mt_IegHBHERVa",
-      "topicName": "小数位值（8 岁+）",
+      "topicName": "比较小数的大小",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.02",
@@ -1714,7 +1714,7 @@
     },
     {
       "topicId": "mt_FP-mjXaq3B",
-      "topicName": "等值分数（8 岁+）",
+      "topicName": "用图形找相等的分数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -1793,7 +1793,7 @@
     },
     {
       "topicId": "mt_AYzE1EAvI0",
-      "topicName": "整体的几分之几（8 岁+）",
+      "topicName": "分数与整数的关系",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -1806,7 +1806,7 @@
     },
     {
       "topicId": "mt_NoB20kVa4w",
-      "topicName": "数轴上的分数（8 岁+）",
+      "topicName": "在直线上表示分数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.02"
@@ -1819,7 +1819,7 @@
     },
     {
       "topicId": "mt_doX1BhmFgk",
-      "topicName": "十分之一（8 岁+）",
+      "topicName": "百分之一与两位小数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -1858,7 +1858,7 @@
     },
     {
       "topicId": "mt_ZLqYE7la4Z",
-      "topicName": "加法与减法文字题",
+      "topicName": "加法与减法应用题",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.02"
@@ -1884,7 +1884,7 @@
     },
     {
       "topicId": "mt_SXbZ3bC9z7",
-      "topicName": "比较分数（9 岁+）",
+      "topicName": "比较异分母分数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -1911,7 +1911,7 @@
     },
     {
       "topicId": "mt_Ii1hV4V5ql",
-      "topicName": "小数位值（9 岁+）",
+      "topicName": "两位小数的近似数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -1950,7 +1950,7 @@
     },
     {
       "topicId": "mt_ebPelt-qAl",
-      "topicName": "等值分数（9 岁+）",
+      "topicName": "分数的基本性质",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -1977,7 +1977,7 @@
     },
     {
       "topicId": "mt_HJA2Oz-Zh1",
-      "topicName": "整体的几分之几（9 岁+）",
+      "topicName": "分数乘整数解决问题",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.04"
@@ -2030,7 +2030,7 @@
     },
     {
       "topicId": "mt_kdWoAel3Zl",
-      "topicName": "十分之一（9 岁+）",
+      "topicName": "千分之一与三位小数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -2043,7 +2043,7 @@
     },
     {
       "topicId": "mt_09sySPqM9Z",
-      "topicName": "理解分数（9 岁+）",
+      "topicName": "几分之几里有几个分数单位",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.02"
@@ -2096,7 +2096,7 @@
     },
     {
       "topicId": "mt_PL9VkDwXfh",
-      "topicName": "比较分数（10 岁+）",
+      "topicName": "分数大小的比较与排序",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -2109,7 +2109,7 @@
     },
     {
       "topicId": "mt_4K1dr204Hi",
-      "topicName": "小数与分数（10 岁+）",
+      "topicName": "分数化小数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.03",
@@ -2163,7 +2163,7 @@
     },
     {
       "topicId": "mt_4Km38F4L-6",
-      "topicName": "整体的几分之几（10 岁+）",
+      "topicName": "分数与除法的关系",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.03"
@@ -2176,7 +2176,7 @@
     },
     {
       "topicId": "mt_e7filQgayF",
-      "topicName": "分数文字题",
+      "topicName": "分数应用题",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.04",
@@ -2203,7 +2203,7 @@
     },
     {
       "topicId": "mt_AabJisinfi",
-      "topicName": "分数乘法（10 岁+）",
+      "topicName": "分数乘分数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.04"
@@ -2244,7 +2244,7 @@
     },
     {
       "topicId": "mt_SBkTGjiZjZ",
-      "topicName": "小数与分数（11 岁+）",
+      "topicName": "小数与分数的互化",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -2283,7 +2283,7 @@
     },
     {
       "topicId": "mt_J339bO7qLe",
-      "topicName": "分数乘法（11 岁+）",
+      "topicName": "求一个数的几分之几或百分之几",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.04",
@@ -2336,7 +2336,7 @@
     },
     {
       "topicId": "mt_yGv8doDAmp",
-      "topicName": "立体图形（5 岁+）",
+      "topicName": "描述平面图形和立体图形的特征",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.GG.RC.01"
@@ -2414,7 +2414,7 @@
     },
     {
       "topicId": "mt_sBcRdUfAzV",
-      "topicName": "平面图形（6 岁+）",
+      "topicName": "平面图形的边和对称轴",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.GG.RC.01",
@@ -2428,7 +2428,7 @@
     },
     {
       "topicId": "mt_bfhng6mOuy",
-      "topicName": "三角形中的角（6 岁+）",
+      "topicName": "辨认图形的本质特征",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.GG.RC.01"
@@ -2521,7 +2521,7 @@
     },
     {
       "topicId": "mt_vJUa62bxeR",
-      "topicName": "平面图形（7 岁+）",
+      "topicName": "画平面图形、搭立体图形",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.06",
@@ -2535,7 +2535,7 @@
     },
     {
       "topicId": "mt_zuOGOGFAKb",
-      "topicName": "三角形中的角（7 岁+）",
+      "topicName": "认识多边形和正方体",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.GG.RC.01",
@@ -2588,7 +2588,7 @@
     },
     {
       "topicId": "mt_hRZyKvz1KN",
-      "topicName": "平面图形（8 岁+）",
+      "topicName": "轴对称图形的对称轴",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.WY.04",
@@ -2602,7 +2602,7 @@
     },
     {
       "topicId": "mt_i5_HnoFOYw",
-      "topicName": "坐标（8 岁+）",
+      "topicName": "在方格纸上描点画图形",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.WY.02"
@@ -2694,7 +2694,7 @@
     },
     {
       "topicId": "mt_e4V6hvcuEJ",
-      "topicName": "角的类型（8 岁+）",
+      "topicName": "几何图形的标记与角的记法",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.02"
@@ -2707,7 +2707,7 @@
     },
     {
       "topicId": "mt_Xt1cRqaBOW",
-      "topicName": "理解角（8 岁+）",
+      "topicName": "四边形的分类",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.04"
@@ -2720,7 +2720,7 @@
     },
     {
       "topicId": "mt_wUSbRt3-qw",
-      "topicName": "立体图形（9 岁+）",
+      "topicName": "根据平面图辨认立体图形",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.06",
@@ -2814,7 +2814,7 @@
     },
     {
       "topicId": "mt_89riIKwGYp",
-      "topicName": "测量角（9 岁+）",
+      "topicName": "角的和与差",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.02"
@@ -2851,7 +2851,7 @@
     },
     {
       "topicId": "mt_KFKUR_gBg_",
-      "topicName": "理解角（9 岁+）",
+      "topicName": "用长方形的特征求边和角",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.04",
@@ -2878,7 +2878,7 @@
     },
     {
       "topicId": "mt_hdrMoiTgqu",
-      "topicName": "平面图形（10 岁+）",
+      "topicName": "用直尺和量角器画图形",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.02",
@@ -2892,7 +2892,7 @@
     },
     {
       "topicId": "mt_REwgr0d_ss",
-      "topicName": "立体图形（10 岁+）",
+      "topicName": "立体图形的展开图",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.RC.05"
@@ -2905,7 +2905,7 @@
     },
     {
       "topicId": "mt_cdMlC7EpTJ",
-      "topicName": "三角形中的角（10 岁+）",
+      "topicName": "求多边形中的未知角",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.RC.01"
@@ -2931,7 +2931,7 @@
     },
     {
       "topicId": "mt_R4AY0LKxfl",
-      "topicName": "坐标（10 岁+）",
+      "topicName": "含负数的坐标",
       "status": "beyond-primary",
       "standards": [],
       "relation": null,
@@ -2995,7 +2995,7 @@
     },
     {
       "topicId": "mt_QDTO3GAgcq",
-      "topicName": "理解角（10 岁+）",
+      "topicName": "平角、周角与对顶角",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.02"
@@ -3008,7 +3008,7 @@
     },
     {
       "topicId": "mt_nRksLqt-iR",
-      "topicName": "立体图形（11 岁+）",
+      "topicName": "立体图形的面、棱、顶点与截面",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.RC.05"
@@ -3021,7 +3021,7 @@
     },
     {
       "topicId": "mt_tAJH5BrpOx",
-      "topicName": "三角形中的角（11 岁+）",
+      "topicName": "面积与体积公式的推导",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.RC.03",
@@ -3059,7 +3059,7 @@
     },
     {
       "topicId": "mt_Jf8xcX4UTq",
-      "topicName": "测量角（11 岁+）",
+      "topicName": "量角画角与比例尺图",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.02",
@@ -3084,7 +3084,7 @@
     },
     {
       "topicId": "mt_WtIFJSCQIT",
-      "topicName": "角的类型（11 岁+）",
+      "topicName": "几何术语与记法",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.01",
@@ -3098,7 +3098,7 @@
     },
     {
       "topicId": "mt_tedML_iu4Y",
-      "topicName": "理解角（11 岁+）",
+      "topicName": "多步求未知角",
       "status": "beyond-primary",
       "standards": [],
       "relation": null,
@@ -3109,7 +3109,7 @@
     },
     {
       "topicId": "mt_167X6Ax8P7",
-      "topicName": "三角形中的角（12 岁+）",
+      "topicName": "全等三角形的判定",
       "status": "beyond-primary",
       "standards": [],
       "relation": null,
@@ -3144,7 +3144,7 @@
     },
     {
       "topicId": "mt_y-BuQAfw4B",
-      "topicName": "坐标（12 岁+）",
+      "topicName": "图形的放大与相似",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.WY.03"
@@ -3157,7 +3157,7 @@
     },
     {
       "topicId": "mt_ZrsqGVG-Wt",
-      "topicName": "理解角（12 岁+）",
+      "topicName": "尺规作图：垂直平分线与角平分线",
       "status": "beyond-primary",
       "standards": [],
       "relation": null,
@@ -3179,7 +3179,7 @@
     },
     {
       "topicId": "mt_1VmTUxBrNd",
-      "topicName": "角的类型（13 岁+）",
+      "topicName": "勾股定理",
       "status": "beyond-primary",
       "standards": [],
       "relation": null,
@@ -3466,7 +3466,7 @@
     },
     {
       "topicId": "mt_FAXjFkgG6X",
-      "topicName": "图形规律（7 岁+）",
+      "topicName": "利用数学结构计算和分类",
       "status": "aligned",
       "standards": [
         "cn-math-2022:HX.YS",
@@ -3494,7 +3494,7 @@
     },
     {
       "topicId": "mt_HY8Yycu_rz",
-      "topicName": "理解分数（7 岁+）",
+      "topicName": "准确使用位值与分数用语",
       "status": "aligned",
       "standards": [
         "cn-math-2022:HX.FH"
@@ -3549,7 +3549,7 @@
     },
     {
       "topicId": "mt_a3dov8CZkq",
-      "topicName": "论证数学推理（8岁以上）",
+      "topicName": "陈述并评价数学推理",
       "status": "aligned",
       "standards": [
         "cn-math-2022:HX.TL"
@@ -3603,7 +3603,7 @@
     },
     {
       "topicId": "mt_aivrWs6jrS",
-      "topicName": "乘法口诀表（8岁以上）",
+      "topicName": "从已知事实推出新规律",
       "status": "aligned",
       "standards": [
         "cn-math-2022:HX.TL",
@@ -3673,7 +3673,7 @@
     },
     {
       "topicId": "mt_CUmjcE7W6c",
-      "topicName": "数轴上的分数（9岁以上）",
+      "topicName": "在分数、小数、百分数的多种表示间转换",
       "status": "aligned",
       "standards": [
         "cn-math-2022:HX.JH",
@@ -3727,7 +3727,7 @@
     },
     {
       "topicId": "mt_2ESZh70NyS",
-      "topicName": "理解分数（9岁以上）",
+      "topicName": "有条理地论证并评价思路",
       "status": "aligned",
       "standards": [
         "cn-math-2022:HX.TL"
@@ -3809,7 +3809,7 @@
     },
     {
       "topicId": "mt_hImiKNiaNh",
-      "topicName": "运算顺序（10岁以上）",
+      "topicName": "利用运算与图形的结构解决问题",
       "status": "aligned",
       "standards": [
         "cn-math-2022:HX.TL",
@@ -3837,7 +3837,7 @@
     },
     {
       "topicId": "mt_9KmVWCuh5_",
-      "topicName": "理解分数（10岁以上）",
+      "topicName": "在表格、图和式子之间转换",
       "status": "aligned",
       "standards": [
         "cn-math-2022:HX.JH",
@@ -3905,7 +3905,7 @@
     },
     {
       "topicId": "mt_-P1kdZhHbL",
-      "topicName": "测量质量与重量（4岁以上）",
+      "topicName": "比较轻重",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.IP.ZT.02",
@@ -3945,7 +3945,7 @@
     },
     {
       "topicId": "mt_cPZwlUk8Nd",
-      "topicName": "硬币的面值",
+      "topicName": "认识人民币的面值",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.IP.ZT.02"
@@ -3972,7 +3972,7 @@
     },
     {
       "topicId": "mt_KaF0SQvaiu",
-      "topicName": "测量长度与高度（5岁以上）",
+      "topicName": "测量长度和高度",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.GG.RC.02",
@@ -4080,7 +4080,7 @@
     },
     {
       "topicId": "mt_cqSf213hSa",
-      "topicName": "测量长度（6岁以上）",
+      "topicName": "用同样的单位首尾相接地测量",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.GG.RC.02",
@@ -4121,7 +4121,7 @@
     },
     {
       "topicId": "mt_pbuhUQJjtt",
-      "topicName": "英镑与便士的记法",
+      "topicName": "人民币的记法",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.IP.ZT.02"
@@ -4217,7 +4217,7 @@
     },
     {
       "topicId": "mt_3XJkeIn6J6",
-      "topicName": "估算答案（7岁以上）",
+      "topicName": "估计和认读时间",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.IP.ZT.03"
@@ -4256,7 +4256,7 @@
     },
     {
       "topicId": "mt_3tz3Otap5j",
-      "topicName": "二分之一与四分之一（7岁以上）",
+      "topicName": "人民币的计算（元、角、分）",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.IP.ZT.02"
@@ -4269,7 +4269,7 @@
     },
     {
       "topicId": "mt_e4x3l2JeLI",
-      "topicName": "测量长度（7岁以上）",
+      "topicName": "选择工具测量长度",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.GG.RC.02"
@@ -4322,7 +4322,7 @@
     },
     {
       "topicId": "mt_4m8BimI4G5",
-      "topicName": "认识时间：精确到分钟（7岁以上）",
+      "topicName": "认识几时几分与24时记时法",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.IP.ZT.03",
@@ -4363,7 +4363,7 @@
     },
     {
       "topicId": "mt_y1n0Zwhoca",
-      "topicName": "面积（8岁以上）",
+      "topicName": "用面积单位测量面积",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.03",
@@ -4433,7 +4433,7 @@
     },
     {
       "topicId": "mt_mFJ-2ZF6Tk",
-      "topicName": "估算与比较货币",
+      "topicName": "估计和比较钱数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.IP.ZT.02",
@@ -4447,7 +4447,7 @@
     },
     {
       "topicId": "mt_ghK1mnEstc",
-      "topicName": "二分之一与四分之一（8岁以上）",
+      "topicName": "以几分之一英寸为单位测量并作点状图",
       "status": "cn-out-of-scope",
       "standards": [],
       "relation": null,
@@ -4499,7 +4499,7 @@
     },
     {
       "topicId": "mt_UNzojLkNdm",
-      "topicName": "认识时间：精确到分钟（8岁以上）",
+      "topicName": "认识几时几分",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.IP.ZT.03"
@@ -4512,7 +4512,7 @@
     },
     {
       "topicId": "mt_GzcJEVkNRn",
-      "topicName": "理解角（8岁以上）",
+      "topicName": "长方形面积等于长乘宽",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.05"
@@ -4539,7 +4539,7 @@
     },
     {
       "topicId": "mt_Zks8xyInSG",
-      "topicName": "换算测量单位（9岁以上）",
+      "topicName": "长度、质量、容积和时间单位的换算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.03",
@@ -4554,7 +4554,7 @@
     },
     {
       "topicId": "mt_eiB3-6pu6a",
-      "topicName": "估算答案（9岁以上）",
+      "topicName": "长方形和正方形的周长与面积公式",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.05"
@@ -4629,7 +4629,7 @@
     },
     {
       "topicId": "mt_2yas4Unc8o",
-      "topicName": "认识时间：精确到分钟（9岁以上）",
+      "topicName": "时间单位的换算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.IP.ZT.01",
@@ -4683,7 +4683,7 @@
     },
     {
       "topicId": "mt_nTL-owFJTF",
-      "topicName": "估算答案（10岁以上）",
+      "topicName": "长方体的体积公式",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.RC.05"
@@ -4710,7 +4710,7 @@
     },
     {
       "topicId": "mt_IuHa5UI5od",
-      "topicName": "测量长度（10岁以上）",
+      "topicName": "体积与体积单位",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.RC.04"
@@ -4734,7 +4734,7 @@
     },
     {
       "topicId": "mt_MJZA90uc6H",
-      "topicName": "周长（10岁以上）",
+      "topicName": "面积与周长的关系",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.GG.RC.05"
@@ -4813,7 +4813,7 @@
     },
     {
       "topicId": "mt_wh3UqnWsa7",
-      "topicName": "乘法即连加（6岁以上）",
+      "topicName": "用连加和口诀解决乘除问题",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.05",
@@ -4866,7 +4866,7 @@
     },
     {
       "topicId": "mt_B1zj1RwQ3a",
-      "topicName": "用阵列表示乘法（7岁以上）",
+      "topicName": "用点子图理解乘法",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.03"
@@ -4906,7 +4906,7 @@
     },
     {
       "topicId": "mt_wQ89AEXhz3",
-      "topicName": "乘法口诀表（7岁以上）",
+      "topicName": "3、4、8的乘法口诀",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.05"
@@ -5117,7 +5117,7 @@
     },
     {
       "topicId": "mt_MCu_SNg_OW",
-      "topicName": "用阵列表示乘法（9岁以上）",
+      "topicName": "除数是一位数的除法",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.01"
@@ -5157,7 +5157,7 @@
     },
     {
       "topicId": "mt_0Wg5F97osg",
-      "topicName": "因数、倍数与质数（9岁以上）",
+      "topicName": "因数、倍数、平方数与立方数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.01"
@@ -5183,7 +5183,7 @@
     },
     {
       "topicId": "mt_8A3pZNOp7Z",
-      "topicName": "心算乘除（9岁以上）",
+      "topicName": "乘除法的口算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.01"
@@ -5341,7 +5341,7 @@
     },
     {
       "topicId": "mt_WsM4EmdOLe",
-      "topicName": "带余数的除法（10岁以上）",
+      "topicName": "除数是两位数的除法与余数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.01",
@@ -5368,7 +5368,7 @@
     },
     {
       "topicId": "mt_XLP1IM3Qbb",
-      "topicName": "长乘法（10岁以上）",
+      "topicName": "多位数乘两位数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.01"
@@ -5381,7 +5381,7 @@
     },
     {
       "topicId": "mt_wPgpMJ0-PA",
-      "topicName": "乘除与小数点移位（10岁以上）",
+      "topicName": "小数点移动引起小数大小的变化",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02",
@@ -5422,7 +5422,7 @@
     },
     {
       "topicId": "mt_vmW2cb5c7A",
-      "topicName": "比（10岁以上）",
+      "topicName": "混合运算的口算与简便计算",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.03",
@@ -5463,7 +5463,7 @@
     },
     {
       "topicId": "mt_xhoOWnhtHq",
-      "topicName": "因数、倍数与质数（11岁以上）",
+      "topicName": "公因数、公倍数与分解质因数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.01"
@@ -5476,7 +5476,7 @@
     },
     {
       "topicId": "mt_X5cypSGoGU",
-      "topicName": "比（11岁以上）",
+      "topicName": "含乘方的运算顺序",
       "status": "beyond-primary",
       "standards": [],
       "relation": null,
@@ -5512,7 +5512,7 @@
     },
     {
       "topicId": "mt_9IzhGUZ30z",
-      "topicName": "二十以内的数字写法",
+      "topicName": "用汉字读写20以内的数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.01"
@@ -5603,7 +5603,7 @@
     },
     {
       "topicId": "mt_76SPWvdI7r",
-      "topicName": "100 以内的数字写法",
+      "topicName": "用汉字读写100以内的数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S1.NA.SY.01"
@@ -5892,7 +5892,7 @@
     },
     {
       "topicId": "mt_tAtMET4EIU",
-      "topicName": "正着数与倒着数（9岁以上）",
+      "topicName": "按10、100、1000……数数",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.01"
@@ -5931,7 +5931,7 @@
     },
     {
       "topicId": "mt_JwP9QFv6gQ",
-      "topicName": "读数与写数（9 岁及以上）",
+      "topicName": "万以上数的读写与比较",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S2.NA.SY.01"
@@ -6048,7 +6048,7 @@
     },
     {
       "topicId": "mt_Ac7oMWhyPw",
-      "topicName": "读数与写数（10 岁及以上）",
+      "topicName": "小数的读写与比较",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -6087,7 +6087,7 @@
     },
     {
       "topicId": "mt_U9sme87C32",
-      "topicName": "小数位值（11 岁及以上）",
+      "topicName": "近似数与有效数字",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SY.02"
@@ -6111,7 +6111,7 @@
     },
     {
       "topicId": "mt_uDJY0X0hgo",
-      "topicName": "数轴上的分数（11 岁及以上）",
+      "topicName": "在数轴上比较有理数",
       "status": "beyond-primary",
       "standards": [],
       "relation": null,
@@ -6367,7 +6367,7 @@
     },
     {
       "topicId": "mt_ESgc4YBw-a",
-      "topicName": "百分数（9 岁及以上）",
+      "topicName": "比、比例与百分数的用语",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.NA.SL.04",
@@ -6527,7 +6527,7 @@
     },
     {
       "topicId": "mt_1badik7iKJ",
-      "topicName": "比例尺与相似图形（11 岁及以上）",
+      "topicName": "比例尺",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.GG.WY.03"
@@ -6556,7 +6556,7 @@
     },
     {
       "topicId": "mt_iEXqN48w3x",
-      "topicName": "百分数（12 岁及以上）",
+      "topicName": "百分数的增减、折扣与利息",
       "status": "aligned",
       "standards": [
         "cn-math-2022:S3.SP.SJ.04"
