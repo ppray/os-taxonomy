@@ -9333,7 +9333,9 @@
       "assessmentPrompt": "如果你说“栅栏上有7只鸟，飞走3只——还剩几只？”，{{name}}能用手指、计数器或快速画图算出来吗？",
       "standards": [
         "ccss-math:K.OA.2",
-        "uk-nc-2013:Maths/Y1/AS/4"
+        "uk-nc-2013:Maths/Y1/AS/4",
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9354,7 +9356,8 @@
       "assessmentPrompt": "如果{{name}}有4辆玩具车，朋友又带来3辆，他明白加法就是把两组合起来吗——并且能告诉你现在一共有7辆车吗？",
       "standards": [
         "ccss-math:K.OA.1",
-        "uk-nc-2013:Maths/Y1/AS/1"
+        "uk-nc-2013:Maths/Y1/AS/1",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -9375,7 +9378,8 @@
       "assessmentPrompt": "如果{{name}}有6颗草莓，食谱需要10颗，他能不从头一个个数、马上告诉你还差4颗吗？",
       "standards": [
         "ccss-math:K.OA.4",
-        "uk-nc-2013:Maths/Y1/AS/2"
+        "uk-nc-2013:Maths/Y1/AS/2",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9396,7 +9400,9 @@
       "assessmentPrompt": "如果{{name}}有8颗葡萄，能把它分成不同的两组——比如3和5，或4和4——并解释说两组合起来仍是8吗？",
       "standards": [
         "ccss-math:K.OA.3",
-        "uk-nc-2013:Maths/Y1/AS/2"
+        "uk-nc-2013:Maths/Y1/AS/2",
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9417,7 +9423,8 @@
       "assessmentPrompt": "如果{{name}}有3个苹果，你再给他2个，他能借助手指、小物件或画图，向你表示一共有多少吗？",
       "standards": [
         "ccss-math:K.OA.1",
-        "uk-nc-2013:Maths/Y1/AS/4"
+        "uk-nc-2013:Maths/Y1/AS/4",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -9438,7 +9445,8 @@
       "assessmentPrompt": "如果{{name}}有9块饼干，吃了3块，他明白减法就是拿走一些吗——并且能告诉你还剩6块吗？",
       "standards": [
         "ccss-math:K.OA.1",
-        "uk-nc-2013:Maths/Y1/AS/1"
+        "uk-nc-2013:Maths/Y1/AS/1",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -9458,7 +9466,8 @@
       ],
       "assessmentPrompt": "{{name}}能在心里或纸上算“14+5”或“18−6”吗，并且知道加0或减0数字都不变吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/AS/3"
+        "uk-nc-2013:Maths/Y1/AS/3",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9479,7 +9488,8 @@
       "assessmentPrompt": "如果你说“我有一些糖，吃了5颗，还剩9颗——我原来有几颗？”，{{name}}能算出缺的数吗？",
       "standards": [
         "ccss-math:1.OA.1",
-        "uk-nc-2013:Maths/Y1/AS/4"
+        "uk-nc-2013:Maths/Y1/AS/4",
+        "cn-math-2022:S1.NA.SL.01"
       ]
     },
     {
@@ -9499,7 +9509,8 @@
       ],
       "assessmentPrompt": "{{name}}能立刻答出“2+3”或“5−2”这样的算式，而不必每次都数手指吗？",
       "standards": [
-        "ccss-math:K.OA.5"
+        "ccss-math:K.OA.5",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9519,7 +9530,8 @@
       ],
       "assessmentPrompt": "{{name}}能快速记住“8+7=15”，并立刻知道“15−7=8”——而不必从头算减法吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/AS/2"
+        "uk-nc-2013:Maths/Y1/AS/2",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9540,7 +9552,8 @@
       "assessmentPrompt": "如果你在纸上写“4+3=7”，{{name}}能说出加号、减号和等号各是什么意思吗？",
       "standards": [
         "ccss-math:K.OA.1",
-        "uk-nc-2013:Maths/Y1/AS/1"
+        "uk-nc-2013:Maths/Y1/AS/1",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -9560,7 +9573,8 @@
       ],
       "assessmentPrompt": "{{name}}能快速心算“54+30”或“78−20”吗——知道只有十位数字在变？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/AS/5"
+        "uk-nc-2013:Maths/Y2/AS/5",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9581,7 +9595,8 @@
       "assessmentPrompt": "如果{{name}}要算4+6+8，能先看出4和6凑成10，再加8得18吗——而不是机械地从左到右加？",
       "standards": [
         "ccss-math:1.OA.2",
-        "uk-nc-2013:Maths/Y2/AS/7"
+        "uk-nc-2013:Maths/Y2/AS/7",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9601,7 +9616,8 @@
       ],
       "assessmentPrompt": "{{name}}能借助计数器、画图或在心里，对“43+28”这样的两个两位数做加减吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/AS/6"
+        "uk-nc-2013:Maths/Y2/AS/6",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9621,7 +9637,8 @@
       ],
       "assessmentPrompt": "{{name}}能分开思考几十和几个，算出“47+8”或“35+50”吗——而不是一个一个数上去？",
       "standards": [
-        "ccss-math:1.NBT.4"
+        "ccss-math:1.NBT.4",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9641,7 +9658,8 @@
       ],
       "assessmentPrompt": "如果{{name}}要算“8+5”，能从8开始往上数5个吗——而不是每次都从1开始？",
       "standards": [
-        "ccss-math:1.OA.5"
+        "ccss-math:1.OA.5",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9661,7 +9679,8 @@
       ],
       "assessmentPrompt": "如果{{name}}要算“8+6”，能把6拆成2+4，用2补到10，再加剩下4得14吗？",
       "standards": [
-        "ccss-math:1.OA.6"
+        "ccss-math:1.OA.6",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9682,7 +9701,9 @@
       "assessmentPrompt": "{{name}}知道6+4与4+6得数相同，所以总能选让加法更轻松的顺序吗？",
       "standards": [
         "ccss-math:1.OA.3",
-        "uk-nc-2013:Maths/Y2/AS/8"
+        "uk-nc-2013:Maths/Y2/AS/8",
+        "cn-math-2022:S1.NA.SY.04",
+        "cn-math-2022:S2.NA.SY.04"
       ]
     },
     {
@@ -9702,7 +9723,8 @@
       ],
       "assessmentPrompt": "{{name}}能看出“10−8=?”就是问“8加什么到10？”——从而用加法知识帮自己算减法吗？",
       "standards": [
-        "ccss-math:1.OA.4"
+        "ccss-math:1.OA.4",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -9722,7 +9744,8 @@
       ],
       "assessmentPrompt": "{{name}}能几乎脱口而出“7+3”或“9−4”这样的算式——而不必停下数手指吗？",
       "standards": [
-        "ccss-math:1.OA.6"
+        "ccss-math:1.OA.6",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9742,7 +9765,8 @@
       ],
       "assessmentPrompt": "{{name}}能快速记住“9+7=16”和“16−7=9”，并由此帮自己算“90+70”这样的大数吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/AS/3"
+        "uk-nc-2013:Maths/Y2/AS/3",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9762,7 +9786,8 @@
       ],
       "assessmentPrompt": "如果{{name}}要算3+7+6，能先看出3和7凑成10更轻松吗——而不是总按从左到右？",
       "standards": [
-        "ccss-math:1.OA.3"
+        "ccss-math:1.OA.3",
+        "cn-math-2022:S2.NA.SY.04"
       ]
     },
     {
@@ -9783,7 +9808,8 @@
       "assessmentPrompt": "如果{{name}}算出13+5=18，能马上据此说出“18−5=13”吗——而不必把减法重算一遍？",
       "standards": [
         "ccss-math:1.OA.4",
-        "uk-nc-2013:Maths/Y2/AS/9"
+        "uk-nc-2013:Maths/Y2/AS/9",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -9803,7 +9829,8 @@
       ],
       "assessmentPrompt": "{{name}}能心算“36+7”或“42−5”吗——保持十位不动，只调整个位？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/AS/4"
+        "uk-nc-2013:Maths/Y2/AS/4",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9824,7 +9851,9 @@
       "assessmentPrompt": "如果给{{name}}一道涉及长度、重量或价格的问题，他能判断该加还是该减，并正确算出来吗？",
       "standards": [
         "uk-nc-2013:Maths/Y2/AS/1",
-        "uk-nc-2013:Maths/Y2/AS/2"
+        "uk-nc-2013:Maths/Y2/AS/2",
+        "cn-math-2022:S1.NA.SY.04",
+        "cn-math-2022:S1.NA.SL.01"
       ]
     },
     {
@@ -9844,7 +9873,8 @@
       ],
       "assessmentPrompt": "{{name}}能心算“80−50”或“70−40”吗——想想还剩几个十？",
       "standards": [
-        "ccss-math:1.NBT.6"
+        "ccss-math:1.NBT.6",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9864,7 +9894,8 @@
       ],
       "assessmentPrompt": "如果{{name}}看到纸上写的“?+6=14”或“9−?=4”，能算出空格里填什么数吗？",
       "standards": [
-        "ccss-math:1.OA.8"
+        "ccss-math:1.OA.8",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -9884,7 +9915,8 @@
       ],
       "assessmentPrompt": "{{name}}理解“=”表示“相等”，所以能告诉你“4+3=8−1”是真还是假吗？",
       "standards": [
-        "ccss-math:1.OA.7"
+        "ccss-math:1.OA.7",
+        "cn-math-2022:S1.NA.SY.02"
       ]
     },
     {
@@ -9904,7 +9936,8 @@
       ],
       "assessmentPrompt": "{{name}}能把“347+265”或“512−278”列成竖式，一步步算下去，需要时进位或借位吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/AS/2"
+        "uk-nc-2013:Ma/KS2/Y3/AS/2",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9924,7 +9957,8 @@
       ],
       "assessmentPrompt": "{{name}}能把“14+23+32+19”这样四个两位数巧妙地分组相加吗——而不是只机械地从左到右？",
       "standards": [
-        "ccss-math:2.NBT.6"
+        "ccss-math:2.NBT.6",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9944,7 +9978,8 @@
       ],
       "assessmentPrompt": "如果{{name}}把“67+24”拆成“60+20”和“7+4”，能向你用话说明这种做法为什么正确吗？",
       "standards": [
-        "ccss-math:2.NBT.9"
+        "ccss-math:2.NBT.9",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9964,7 +9999,8 @@
       ],
       "assessmentPrompt": "{{name}}能分开想几百、几十、几个，或用画图帮忙，对“347+256”这样几百的数做加减吗？",
       "standards": [
-        "ccss-math:2.NBT.7"
+        "ccss-math:2.NBT.7",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -9988,7 +10024,8 @@
       "assessmentPrompt": "在{{name}}算出结果之前，能先做一个合理的粗略估计——再用相反的运算验算吗？",
       "standards": [
         "uk-nc-2013:Ma/KS2/Y3/AS/3",
-        "uk-nc-2013:Ma/KS2/Y4/AS/2"
+        "uk-nc-2013:Ma/KS2/Y4/AS/2",
+        "cn-math-2022:S2.NA.SL.01"
       ]
     },
     {
@@ -10008,7 +10045,8 @@
       ],
       "assessmentPrompt": "{{name}}能可靠地对“68+27”或“91−45”这样的两位数做加减，并为每道题选最佳策略吗？",
       "standards": [
-        "ccss-math:2.NBT.5"
+        "ccss-math:2.NBT.5",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -10028,7 +10066,8 @@
       ],
       "assessmentPrompt": "{{name}}能瞬间记住所有个位数加法事实——比如“7+8=15”——而不必数或想超过一秒吗？",
       "standards": [
-        "ccss-math:2.OA.2"
+        "ccss-math:2.OA.2",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -10048,7 +10087,8 @@
       ],
       "assessmentPrompt": "{{name}}能心算“436+7”或“521−8”吗——保持百位和十位不变，只调个位？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/AS/1a"
+        "uk-nc-2013:Ma/KS2/Y3/AS/1a",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -10068,7 +10108,8 @@
       ],
       "assessmentPrompt": "{{name}}能心算“342+200”或“756−300”吗——知道只有百位数字在变？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/AS/1c"
+        "uk-nc-2013:Ma/KS2/Y3/AS/1c",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -10088,7 +10129,8 @@
       ],
       "assessmentPrompt": "{{name}}能心算“354+40”或“628−30”吗——知道只有十位数字在变？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/AS/1b"
+        "uk-nc-2013:Ma/KS2/Y3/AS/1b",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -10108,7 +10150,9 @@
       ],
       "assessmentPrompt": "{{name}}能算出藏着一个数的算式——如“?−38=24”或“53+?=91”——仔细想清楚等式在问什么吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/AS/4"
+        "uk-nc-2013:Ma/KS2/Y3/AS/4",
+        "cn-math-2022:S1.NA.SY.03",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -10128,7 +10172,8 @@
       ],
       "assessmentPrompt": "{{name}}能在数轴上标出数字，并展示加减时发生了什么——比如从48向前跳35格？",
       "standards": [
-        "ccss-math:2.MD.6"
+        "ccss-math:2.MD.6",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -10148,7 +10193,8 @@
       ],
       "assessmentPrompt": "如果应用题说“萨姆有78张贴纸，送出一些后还剩45张——他送出了几张？”，{{name}}能判断该用哪种运算并算出答案吗？",
       "standards": [
-        "ccss-math:2.OA.1"
+        "ccss-math:2.OA.1",
+        "cn-math-2022:S1.NA.SL.01"
       ]
     },
     {
@@ -10168,7 +10214,8 @@
       ],
       "assessmentPrompt": "{{name}}能把“3,842+1,765”或“4,301−2,658”对齐成竖式并正确算下去——跨多列进位借位吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/AS/1"
+        "uk-nc-2013:Ma/KS2/Y4/AS/1",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -10188,7 +10235,8 @@
       ],
       "assessmentPrompt": "{{name}}能可靠地对“672−348”这样的三位数做加减，选最适合自己的方法吗？",
       "standards": [
-        "ccss-math:3.NBT.2"
+        "ccss-math:3.NBT.2",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -10208,7 +10256,9 @@
       ],
       "assessmentPrompt": "如果{{name}}读到一道两步应用题——比如算买两样东西的找零——能规划该做哪些计算、按什么顺序吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/AS/3"
+        "uk-nc-2013:Ma/KS2/Y4/AS/3",
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S2.NA.SL.05"
       ]
     },
     {
@@ -10228,7 +10278,9 @@
       ],
       "assessmentPrompt": "{{name}}能写出像“n+25=60”这样的方程表示应用题，再解出n等于多少吗？",
       "standards": [
-        "ccss-math:3.OA.8"
+        "ccss-math:3.OA.8",
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S3.NA.SL.03"
       ]
     },
     {
@@ -10247,7 +10299,10 @@
         "解决涉及五位数加减的三步问题"
       ],
       "assessmentPrompt": "如果给{{name}}一道多步问题——比如规划一笔分几步收入和支出的预算——他能决定每步用什么运算，并说明思路吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S2.NA.SL.05"
+      ]
     },
     {
       "id": "mt_G3sVFQNCme",
@@ -10265,7 +10320,10 @@
         "识别出4,213这样的答案不可能对，因为估算约为50,000"
       ],
       "assessmentPrompt": "如果{{name}}算出的加法答案是4,213，他能四舍五入来复查——比如“4,000+1,000≈5,000”——并发现答案似乎差太远吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SL.01",
+        "cn-math-2022:S3.NA.SL.02"
+      ]
     },
     {
       "id": "mt_Yw1_4Nfsql",
@@ -10283,7 +10341,9 @@
         "在单个竖式里加三个五位数"
       ],
       "assessmentPrompt": "{{name}}能准确地用竖式对“23,846+14,579”这样的大数做加减，无论几列都正确进位借位吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ]
     },
     {
       "id": "mt_MWXPiaTnEu",
@@ -10301,7 +10361,9 @@
         "用近倍数：2,500+2,600=5,100"
       ],
       "assessmentPrompt": "{{name}}能借助位值知识，心算“4,700−1,300”这样的大数——而不必全写出来吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ]
     },
     {
       "id": "mt_M1tnXqmYbn",
@@ -10319,7 +10381,10 @@
         "解读真实情境，识别跨多步需要哪些加减运算"
       ],
       "assessmentPrompt": "如果给{{name}}一道含大数或小数的复杂应用题——比如算几样东西的总价——他能规划并正确完成所有步骤吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.06"
+      ]
     },
     {
       "id": "mt_JH_6RpNWjr",
@@ -10337,7 +10402,10 @@
         "通过联系位值理解，解释标准算法为何适用于小数加法"
       ],
       "assessmentPrompt": "{{name}}能对齐小数点，正确逐列计算“4.73+2.68”或“10.00−3.47”这样小数加减吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_9QzSnn8m80",
@@ -10364,7 +10432,8 @@
         "ccss-math:7.NS.1b",
         "ccss-math:7.NS.1c",
         "ccss-math:7.NS.1d",
-        "uk-nc-2013:KS3.Maths.Num.2"
+        "uk-nc-2013:KS3.Maths.Num.2",
+        "cn-math-2022:S3.IP.ZT.01"
       ]
     },
     {
@@ -10383,7 +10452,9 @@
         "系统地说明如何在给定范围内生成某二元方程的所有整数解"
       ],
       "assessmentPrompt": "{{name}}能找出同时满足某条规则的不同数对——比如所有相加得10的整数对吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.03"
+      ]
     },
     {
       "id": "mt_hBZwbst0ow",
@@ -10401,7 +10472,9 @@
         "描述给定线性数列的项间规律，并预测第10项"
       ],
       "assessmentPrompt": "如果{{name}}看到数列3、7、11、15……，能说出规律、续写它，并预测第10个数是什么吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SL.05"
+      ]
     },
     {
       "id": "mt_fxPtngwUfz",
@@ -10419,7 +10492,10 @@
         "非正式地解释两数列之间的关系为何成立"
       ],
       "assessmentPrompt": "{{name}}能同时遵循两个数字规律——比如“加2”和“加4”——把对应项配对，再把这些数对作为点描在图上吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.05",
+        "cn-math-2022:S3.GG.WY.02"
+      ]
     },
     {
       "id": "mt_gu0NPDvlhY",
@@ -10437,7 +10513,10 @@
         "解释为何组合总数等于各类选项数之积"
       ],
       "assessmentPrompt": "如果{{name}}可以从3种T恤颜色和2种裤子颜色中任选搭配，能不漏不重地列出每种可能的穿搭吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.SP.KN.01",
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_Jvg8X0N5u0",
@@ -10455,7 +10534,9 @@
         "解读用文字表达的公式并用它算出结果"
       ],
       "assessmentPrompt": "如果告诉{{name}}矩形周长用公式“周长=2×(长+宽)”，他能代入尺寸算出答案吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.03"
+      ]
     },
     {
       "id": "mt_i9rJbuFO3p",
@@ -10473,7 +10554,9 @@
         "把一道应用题写成代数方程并求出未知值"
       ],
       "assessmentPrompt": "如果{{name}}读到“我想到一个数，乘2再加5得17”，能用字母表示未知数写成方程并解出来吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.03"
+      ]
     },
     {
       "id": "mt_KwdjWEmMNo",
@@ -10500,7 +10583,8 @@
         "uk-nc-2013:KS3.Maths.Alg.1c",
         "uk-nc-2013:KS3.Maths.Alg.1d",
         "uk-nc-2013:KS3.Maths.Alg.1e",
-        "uk-nc-2013:KS3.Maths.Alg.1f"
+        "uk-nc-2013:KS3.Maths.Alg.1f",
+        "cn-math-2022:S3.NA.SL.03"
       ]
     },
     {
@@ -10699,7 +10783,8 @@
       "assessmentPrompt": "如果公式说三角形面积是½×底×高，{{name}}能代入尺寸并正确算出答案吗？",
       "standards": [
         "ccss-math:6.EE.2c",
-        "uk-nc-2013:KS3.Maths.Alg.2"
+        "uk-nc-2013:KS3.Maths.Alg.2",
+        "cn-math-2022:S3.NA.SL.03"
       ]
     },
     {
@@ -10809,7 +10894,8 @@
       ],
       "assessmentPrompt": "如果公式把速度给成“距离÷时间”，{{name}}能重排它，在距离或时间未知时求距离或时间吗？",
       "standards": [
-        "uk-nc-2013:KS3.Maths.Alg.5"
+        "uk-nc-2013:KS3.Maths.Alg.5",
+        "cn-math-2022:S3.NA.SL.03"
       ]
     },
     {
@@ -10917,7 +11003,8 @@
       "assessmentPrompt": "如果你一只手放6颗葡萄干、另一只放4颗，问{{name}}哪只手多，他能算出来吗——数一数或只看一眼都行？",
       "standards": [
         "ccss-math:K.CC.6",
-        "uk-nc-2013:Maths/Y1/NPV/4"
+        "uk-nc-2013:Maths/Y1/NPV/4",
+        "cn-math-2022:S1.NA.SY.02"
       ]
     },
     {
@@ -10938,7 +11025,8 @@
       "assessmentPrompt": "如果{{name}}数出7辆玩具车，你问“那一共有几辆车？”，他会马上说“7”——还是从头再数一遍？",
       "standards": [
         "ccss-math:K.CC.4",
-        "ccss-math:K.CC.4.b"
+        "ccss-math:K.CC.4.b",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -10959,7 +11047,8 @@
       "assessmentPrompt": "如果{{name}}有5张贴纸，你再给他一张，他能马上知道现在是6张——而不必重新从头数吗？",
       "standards": [
         "ccss-math:K.CC.4.c",
-        "uk-nc-2013:Maths/Y1/NPV/3"
+        "uk-nc-2013:Maths/Y1/NPV/3",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -10980,7 +11069,8 @@
       "assessmentPrompt": "如果{{name}}在数一堆葡萄，会边说每个数边恰好指或触每一个——不跳过也不重复数同一个吗？",
       "standards": [
         "ccss-math:K.CC.4",
-        "ccss-math:K.CC.4.a"
+        "ccss-math:K.CC.4.a",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -11000,7 +11090,8 @@
       ],
       "assessmentPrompt": "如果你让{{name}}展示数字5长什么样，他能不止一种方式做到吗——比如画五个点、举起五指，或指向数轴上的5？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/NPV/4"
+        "uk-nc-2013:Maths/Y1/NPV/4",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -11022,7 +11113,9 @@
       "standards": [
         "ccss-math:K.CC.1",
         "uk-nc-2013:Maths/Y1/NPV/2",
-        "uk-nc-2013:Maths/Y2/NPV/1"
+        "uk-nc-2013:Maths/Y2/NPV/1",
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SL.02"
       ]
     },
     {
@@ -11042,7 +11135,8 @@
       ],
       "assessmentPrompt": "如果你把15颗纽扣随意摊在桌上，问{{name}}有几颗，他能仔细数清并给你正确答案吗？",
       "standards": [
-        "ccss-math:K.CC.5"
+        "ccss-math:K.CC.5",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -11064,7 +11158,8 @@
       "standards": [
         "ccss-math:K.CC.1",
         "ccss-math:K.CC.2",
-        "uk-nc-2013:Maths/Y1/NPV/1"
+        "uk-nc-2013:Maths/Y1/NPV/1",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -11083,7 +11178,8 @@
       ],
       "assessmentPrompt": "如果你在两张纸上写“3”和“8”，问{{name}}哪个数更大，他能答对吗——并且能说出为什么？",
       "standards": [
-        "ccss-math:K.CC.7"
+        "ccss-math:K.CC.7",
+        "cn-math-2022:S1.NA.SY.02"
       ]
     },
     {
@@ -11103,7 +11199,8 @@
       ],
       "assessmentPrompt": "{{name}}能三个三个数——3、6、9、12、15——一直数到30而不跟丢或从头开始吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/NPV/1"
+        "uk-nc-2013:Maths/Y2/NPV/1",
+        "cn-math-2022:S1.NA.SL.02"
       ]
     },
     {
@@ -11123,7 +11220,8 @@
       ],
       "assessmentPrompt": "如果{{name}}从37开始，你让他十个十个往上数，他能说出37、47、57、67——跨进下一个百也不卡住吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/NPV/1"
+        "uk-nc-2013:Maths/Y2/NPV/1",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -11143,7 +11241,8 @@
       ],
       "assessmentPrompt": "{{name}} 能从容地数到 1000 吗——如果你让他从 200 开始按百数，或从 650 开始按十数，他能不数错吗？",
       "standards": [
-        "ccss-math:2.NBT.2"
+        "ccss-math:2.NBT.2",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -11163,7 +11262,9 @@
       ],
       "assessmentPrompt": "{{name}} 能一直按 4 数到 48，或按 8 数，或从任意起点按百往上数——例如 350、450、550 吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/NPV/1"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/1",
+        "cn-math-2022:S1.NA.SY.05",
+        "cn-math-2022:S1.NA.SL.02"
       ]
     },
     {
@@ -11183,7 +11284,8 @@
       ],
       "assessmentPrompt": "{{name}} 能按 7 数吗——7、14、21、28——或者按 9 数，或者想到硬币时按 25 数，或者说到以公里计的路程时按 1000 数吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/NPV/1"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/1",
+        "cn-math-2022:S1.NA.SY.05"
       ]
     },
     {
@@ -11203,7 +11305,8 @@
       ],
       "assessmentPrompt": "{{name}} 能把一堆东西——比如纽扣、硬币或玩具动物——分成几组，并数出每组各有多少个吗？",
       "standards": [
-        "ccss-math:K.MD.3"
+        "ccss-math:K.MD.3",
+        "cn-math-2022:S1.SP.FL.01"
       ]
     },
     {
@@ -11224,7 +11327,9 @@
       "assessmentPrompt": "{{name}} 能看懂一张简单的图表或象形图——比如展示多少个孩子选了哪种最喜欢的水果——并回答“哪种最受欢迎”之类的问题吗？",
       "standards": [
         "uk-nc-2013:Ma/KS2/Y3/S/1",
-        "uk-nc-2013:Maths/Y2/S/1"
+        "uk-nc-2013:Maths/Y2/S/1",
+        "cn-math-2022:S1.SP.FL.01",
+        "cn-math-2022:S2.SP.SJ.01"
       ]
     },
     {
@@ -11243,7 +11348,10 @@
         "在描述如何记录和呈现数据时，正确使用“统计符号”“频数”“象形图”"
       ],
       "assessmentPrompt": "如果 {{name}} 想向你展示班里不同孩子上个月各读了多少本书，他能画一张条形图、标出轴，并说明每根条形代表什么吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.01",
+        "cn-math-2022:S2.SP.SJ.03"
+      ]
     },
     {
       "id": "mt_ylXdiVRAYv",
@@ -11264,7 +11372,8 @@
       "standards": [
         "ccss-math:1.MD.4",
         "uk-nc-2013:Ma/KS2/Y3/S/2",
-        "uk-nc-2013:Maths/Y2/S/2"
+        "uk-nc-2013:Maths/Y2/S/2",
+        "cn-math-2022:S1.SP.FL.01"
       ]
     },
     {
@@ -11286,7 +11395,9 @@
       "standards": [
         "ccss-math:1.MD.4",
         "uk-nc-2013:Ma/KS2/Y3/S/3",
-        "uk-nc-2013:Maths/Y2/S/3"
+        "uk-nc-2013:Maths/Y2/S/3",
+        "cn-math-2022:S1.SP.FL.01",
+        "cn-math-2022:S2.SP.SJ.02"
       ]
     },
     {
@@ -11306,7 +11417,8 @@
       ],
       "assessmentPrompt": "{{name}} 能画一张简单的条形图或图片统计图来展示信息——比如一袋糖里每种颜色各有多少——并从中回答问题吗？",
       "standards": [
-        "ccss-math:2.MD.10"
+        "ccss-math:2.MD.10",
+        "cn-math-2022:S2.SP.SJ.03"
       ]
     },
     {
@@ -11325,7 +11437,10 @@
         "解释条形图（离散）与折线图（连续）的区别"
       ],
       "assessmentPrompt": "{{name}} 能为某组数据选对图表类型——例如表现最喜欢颜色的用条形图，表现一周气温的用折线图——并正确地画出来吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.03",
+        "cn-math-2022:S3.SP.SJ.02"
+      ]
     },
     {
       "id": "mt_r8XnXwRA6g",
@@ -11343,7 +11458,9 @@
         "解决两步问题：前两名选项一共得到多少票？"
       ],
       "assessmentPrompt": "如果 {{name}} 看着一张条形图，展示不同孩子上个月读了多少本书，他能算出总数、找出最多和最少之间的差，并用“每个方格 = 2 本书”这样的刻度自己画一张图吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.03"
+      ]
     },
     {
       "id": "mt_H6LlpWgEYS",
@@ -11361,7 +11478,9 @@
         "解释时间序列图上上升/下降的线意味着什么"
       ],
       "assessmentPrompt": "如果 {{name}} 看到一张折线图，展示一株植物几周内高度的变化，他能读出数值、发现它长得最快的时候，并找出两点之间的差值吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.03"
+      ]
     },
     {
       "id": "mt_Cqm8iy48UI",
@@ -11379,7 +11498,10 @@
         "用时刻表算出一趟火车旅程花了多长时间"
       ],
       "assessmentPrompt": "{{name}} 能看懂一张时刻表——比如火车或公交时刻表——来弄清一趟旅程何时出发、何时到达，以及要花多久吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.04",
+        "cn-math-2022:S2.IP.ZT.01"
+      ]
     },
     {
       "id": "mt_fmm-P17Vka",
@@ -11397,7 +11519,10 @@
         "在描述散点图中显示的关系时正确使用“相关性”"
       ],
       "assessmentPrompt": "如果 {{name}} 看了班里一组考试成绩，他能找出平均数、中位数和极差——并解释每个数值说明了这个班考得怎么样吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.05",
+        "cn-math-2022:S3.SP.SJ.02"
+      ]
     },
     {
       "id": "mt_Cg8VPguS_V",
@@ -11415,7 +11540,9 @@
         "已知平均数和其余所有数值，求出缺失的数据值"
       ],
       "assessmentPrompt": "如果一家人在一局桌游的五轮中分别得了 6、8、7、5、9 分，{{name}} 能算出平均（分）得分吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.05"
+      ]
     },
     {
       "id": "mt_bESTSBB0wK",
@@ -11433,7 +11560,9 @@
         "在已知总数的情况下，用扇形图确定每个扇形所代表的实际数量"
       ],
       "assessmentPrompt": "{{name}} 能看懂一张扇形图——比如展示一个家庭每周开销怎么花——并用它来回答问题、解决问题吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.02"
+      ]
     },
     {
       "id": "mt_IHipFGTFEY",
@@ -11494,7 +11623,9 @@
       "standards": [
         "ccss-math:7.SP.1",
         "ccss-math:7.SP.2",
-        "uk-nc-2013:KS3.Maths.Stat.2"
+        "uk-nc-2013:KS3.Maths.Stat.2",
+        "cn-math-2022:S3.SP.SJ.02",
+        "cn-math-2022:S2.SP.SJ.03"
       ]
     },
     {
@@ -11559,7 +11690,8 @@
       ],
       "assessmentPrompt": "如果你把一张正方形纸折成四等份，{{name}} 能告诉你每一份是四分之一——并只指出其中一份四分之一吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/F/2"
+        "uk-nc-2013:Maths/Y1/F/2",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11579,7 +11711,8 @@
       ],
       "assessmentPrompt": "如果 {{name}} 帮忙把三明治平均分给两个人，他能切得两块一样大——并告诉你每块都叫“一半”吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/F/1"
+        "uk-nc-2013:Maths/Y1/F/1",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11599,7 +11732,8 @@
       ],
       "assessmentPrompt": "如果一个披萨分给 2 个人，同一个披萨再分给 8 个人，{{name}} 能解释为什么人越多，每片就越小吗？",
       "standards": [
-        "ccss-math:1.G.3"
+        "ccss-math:1.G.3",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11618,7 +11752,10 @@
         "用自己的话解释为什么 2/4 和 1/2 是等值分数"
       ],
       "assessmentPrompt": "如果 {{name}} 看到写下来的分数 3/4，他能指出分子和分母——并解释这两个数字各自实际表示什么吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_cFltwUQi-d",
@@ -11637,7 +11774,8 @@
       ],
       "assessmentPrompt": "如果你把 12 颗葡萄放在桌上，{{name}} 能数出它的四分之一——然后给你看四分之三的葡萄是什么样吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/F/1"
+        "uk-nc-2013:Maths/Y2/F/1",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11657,7 +11795,8 @@
       ],
       "assessmentPrompt": "如果你给 {{name}} 一个圆形披萨或长方形巧克力，他能把它分成四等份，并告诉你每一份叫四分之一或四等分吗？",
       "standards": [
-        "ccss-math:1.G.3"
+        "ccss-math:1.G.3",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11677,7 +11816,8 @@
       ],
       "assessmentPrompt": "如果 {{name}} 有 6 颗草莓并吃了一半，他能写成“1/2 of 6 = 3”——并解释为什么 2/4 和 1/2 是一样多吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/F/2"
+        "uk-nc-2013:Maths/Y2/F/2",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11697,7 +11837,8 @@
       ],
       "assessmentPrompt": "如果 {{name}} 吃了蛋糕的 3/8，朋友吃了同一个蛋糕的 5/8，他能告诉你谁吃得多——并把这两个分数从小到大排好吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/F/6"
+        "uk-nc-2013:Ma/KS2/Y3/F/6",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11717,7 +11858,8 @@
       ],
       "assessmentPrompt": "如果一袋 20 颗糖平均分给 5 个朋友，{{name}} 能算出每人得到几分之几——以及是多少颗糖吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/F/7"
+        "uk-nc-2013:Ma/KS2/Y3/F/7",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11737,7 +11879,9 @@
       ],
       "assessmentPrompt": "如果 {{name}} 看到一个分成 4 等份、涂了 2 份的长条，他能告诉你那等同于 1/2——并画出另一个长条，用不同的方式表示相同数量吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/F/4"
+        "uk-nc-2013:Ma/KS2/Y3/F/4",
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
       ]
     },
     {
@@ -11757,7 +11901,8 @@
       ],
       "assessmentPrompt": "如果你画一条从 0 到 1 的数轴，{{name}} 能在不用任何帮助的情况下，标出 1/4、1/2 和 3/4 应该落在哪里吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/F/3"
+        "uk-nc-2013:Ma/KS2/Y3/F/3",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11777,7 +11922,8 @@
       ],
       "assessmentPrompt": "如果一个食谱需要 2/8 杯牛奶，接着又要 3/8 杯，{{name}} 能不靠计算器算出总量吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/F/5"
+        "uk-nc-2013:Ma/KS2/Y3/F/5",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11797,7 +11943,8 @@
       ],
       "assessmentPrompt": "如果你用两种不同的方式把长方形分成三等份（三条竖条 vs 三个方块），{{name}} 能认出这两种都给出相等的三分之一——即使切块看起来不一样吗？",
       "standards": [
-        "ccss-math:2.G.3"
+        "ccss-math:2.G.3",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11817,7 +11964,8 @@
       ],
       "assessmentPrompt": "如果 {{name}} 把一个有 10 等份的巧克力条分开，他能告诉你每一份是十分之一——并依次从 1/10 数到 10/10 吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/F/1"
+        "uk-nc-2013:Ma/KS2/Y3/F/1",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11837,7 +11985,8 @@
       ],
       "assessmentPrompt": "如果书架上有 15 本书，{{name}} 能算出其中的三分之二是几本——并通过把书分成三堆相等的办法来检验吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/F/2"
+        "uk-nc-2013:Ma/KS2/Y3/F/2",
+        "cn-math-2022:S2.NA.SY.02"
       ]
     },
     {
@@ -11856,7 +12005,10 @@
         "解决和超过整体的加法问题：7/8 + 3/8"
       ],
       "assessmentPrompt": "如果一个食谱用了 5/8 袋面粉，接着又用了 6/8，{{name}} 能算出总量，并把它作为带分数解释其含义吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_HnKbuCliNS",
@@ -11874,7 +12026,9 @@
         "用直观模型说明比较的根据，并解释两个分数必须指同一个整体"
       ],
       "assessmentPrompt": "如果 {{name}} 看到 3/5 和 3/8，他能只通过想想每份的大小——而不必画出来——就告诉你哪个更大吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ]
     },
     {
       "id": "mt_TqDq6jyOmL",
@@ -11892,7 +12046,10 @@
         "把 0.3 和 3/10 标在同一数轴的同一点上"
       ],
       "assessmentPrompt": "如果 {{name}} 在价签上看到 7/10，他能把它改写成小数——并对 43/100 做同样的事吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_W17Kbwm0-u",
@@ -11910,7 +12067,10 @@
         "在简单分数、小数和百分数之间转换（如 1/2 = 0.5 = 50%），并解释它们为什么相等"
       ],
       "assessmentPrompt": "如果 {{name}} 看到“0.5”和“50%”，他能解释它们表示相同数量——并也把它写成一个分数吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.SP.SJ.04"
+      ]
     },
     {
       "id": "mt_Fl7b8q9pI1",
@@ -11928,7 +12088,9 @@
         "对一组一位小数进行四舍五入，并解释四舍五入规则"
       ],
       "assessmentPrompt": "如果 {{name}} 量得某物长 3.7 米，他能告诉你它是四舍五入到 3 米还是 4 米——并解释为什么吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_IegHBHERVa",
@@ -11946,7 +12108,10 @@
         "把三个两位小数按顺序标在数轴上"
       ],
       "assessmentPrompt": "如果 {{name}} 在比较两种价格——£4.75 和 £4.57——他能不靠计算器就告诉你哪个更贵吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_wB-GBDkoNr",
@@ -11964,7 +12129,9 @@
         "求 1 千克的 3/10，用克表示，也用千克的小数表示"
       ],
       "assessmentPrompt": "如果一个瓶子装 1.5 升，{{name}} 喝了 0.75 升，他能算出还剩多少——并同时用小数和分数写出来吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ]
     },
     {
       "id": "mt_kDMKJ5Ztt6",
@@ -11982,7 +12149,9 @@
         "解释除以 10 使每一位数字向右移动一位"
       ],
       "assessmentPrompt": "如果 {{name}} 从数字 48 开始并除以 10，他能告诉你答案——并解释每个数字的位值发生了什么变化吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_FP-mjXaq3B",
@@ -12000,7 +12169,9 @@
         "完成等值链：1/4 = ?/8 = ?/12"
       ],
       "assessmentPrompt": "如果给 {{name}} 一个分成 3 份、涂了 1 份（= 1/3）的分数条，他能画出分了 6 份、涂出相同数量的等值的分数条吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_Ep7TDFuYUa",
@@ -12018,7 +12189,9 @@
         "用图形找出至少三个与 1/2 等值的分数"
       ],
       "assessmentPrompt": "如果 {{name}} 看到 2/4 和 1/2 落在数轴上完全相同的点，他能用自己的话解释为什么这两个分数相等吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_DRlbMok2lT",
@@ -12036,7 +12209,9 @@
         "用百分格解释为什么 1/4 = 25/100 = 0.25"
       ],
       "assessmentPrompt": "如果一个食谱需要 3/4 杯面粉，{{name}} 能不查表就告诉你它相当于多少小数吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_idbKDrf9qZ",
@@ -12054,7 +12229,9 @@
         "给出一个预先分好的图形，写出其中一份的单位分数"
       ],
       "assessmentPrompt": "如果你让 {{name}} 把一张正方形纸折成 8 等份，他能告诉你每一份占整个正方形的几分之几吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ]
     },
     {
       "id": "mt_3y7xKP9MjU",
@@ -12072,7 +12249,10 @@
         "解决问题：一袋有 24 颗糖，3/8 是红色的——红色的有几颗？"
       ],
       "assessmentPrompt": "如果全班 28 名学生中有 3/4 交了作业，{{name}} 能准确算出是多少名学生吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_ndGqFPWyen",
@@ -12090,7 +12270,9 @@
         "画一个模型，表示 2/6 是一个被切成 6 份的整体中的 2 片"
       ],
       "assessmentPrompt": "如果你把一个披萨切成 6 等片，{{name}} 能解释 1/6 是什么意思——然后再算出这个披萨的 4/6 是什么样吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ]
     },
     {
       "id": "mt_AYzE1EAvI0",
@@ -12108,7 +12290,9 @@
         "从一组分数中找出等于整数的：6/3、8/4、5/2"
       ],
       "assessmentPrompt": "如果你让 {{name}} 把数字 3 写成分数，他能写成 3/1——并能告诉你什么分数正好等于 1 个整体，如 4/4 或 5/5 吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_NoB20kVa4w",
@@ -12129,7 +12313,9 @@
         "识别预先分好数的数轴上某点所表示的分数"
       ],
       "assessmentPrompt": "如果 {{name}} 画一条从 0 到 1、分成 5 等份的数轴，他能标出 2/5 和 4/5 在哪里——并解释他是怎么算出来的吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ]
     },
     {
       "id": "mt_doX1BhmFgk",
@@ -12147,7 +12333,9 @@
         "把几个百分之一标在 0 和 1/10 之间的数轴上"
       ],
       "assessmentPrompt": "如果 {{name}} 有 £1 并花掉 37 便士，他能说 37 便士是 1 英镑的 37/100——并从 0/100 数到 100/100 吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_70qDTI14td",
@@ -12165,7 +12353,9 @@
         "通过给整数重新分组来解 4 2/6 − 1 5/6"
       ],
       "assessmentPrompt": "如果一个食谱需要 1 又 2/5 杯燕麦，另一批需要 2 又 3/5 杯，{{name}} 能把它们加在一起得到总数——包括在五分之几加起来超过一个整体时进行转换吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_-V7EnqU7gG",
@@ -12183,7 +12373,9 @@
         "计算 2/5 + 3/10，并把答案化简"
       ],
       "assessmentPrompt": "如果 {{name}} 需要把 1/3 和 1/6 相加，他能找到公分母并算出总数——并写出过程吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_ZLqYE7la4Z",
@@ -12201,7 +12393,9 @@
         "画一个分数模型来表示并解决一道分数文字题"
       ],
       "assessmentPrompt": "如果 {{name}} 读到一段自然步道的一段长 3/8 千米，另一段长 5/8 千米，他能不靠计算器算出总距离吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ]
     },
     {
       "id": "mt_933BohS9BH",
@@ -12219,7 +12413,9 @@
         "用位值推理说明 0.7 = 0.70 = 0.700"
       ],
       "assessmentPrompt": "如果 {{name}} 比较 0.45 和 0.54，他能用语位值解释哪个更大——而不去拿计算器吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_SXbZ3bC9z7",
@@ -12237,7 +12433,9 @@
         "用基准 1/2 判断 5/8 > 3/7"
       ],
       "assessmentPrompt": "如果 {{name}} 吃了午餐的 2/3，朋友吃了自己午餐的 3/4，他能通过找到一种共同的比较方式来算出谁吃得更多吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_NaqEP8xDhZ",
@@ -12255,7 +12453,10 @@
         "用百分格解释为什么 5/10 = 50/100"
       ],
       "assessmentPrompt": "如果 {{name}} 需要把 3/10 和 17/100 相加，他能先把 3/10 改写为百分之一为单位——然后把两个分数加在一起吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_Ii1hV4V5ql",
@@ -12273,7 +12474,9 @@
         "把 4.83 + 2.17 中的每个数四舍五入到最接近的整数来估算"
       ],
       "assessmentPrompt": "如果 {{name}} 量得长度为 4.67 米，他能把它四舍五入到最接近的整数米——也能四舍五入到最接近的十分之一米吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_Vi4Vo5xs_g",
@@ -12291,7 +12494,9 @@
         "读出 0.07 并表示为 7/100"
       ],
       "assessmentPrompt": "如果 {{name}} 看到价签上写着 £0.65，他能把它改写成一个分数——反过来也能把 47/100 变成小数吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_sA2OvTiech",
@@ -12309,7 +12514,9 @@
         "找出两个三位小数，相加得到 1"
       ],
       "assessmentPrompt": "如果 {{name}} 在往一个能装 5.000 升的箱子里注水，已经倒了 2.375 升，他能算出还需要多少才能装满吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_ebPelt-qAl",
@@ -12327,7 +12534,9 @@
         "生成三个与 3/5 等值的分数，并用图验证"
       ],
       "assessmentPrompt": "如果 {{name}} 需要让 2/3 看起来不同却不改变其值，他能分子分母同乘同一个数，并解释为什么分数保持不变吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_VgOePicFYK",
@@ -12345,7 +12554,10 @@
         "用直观模型说明 2 1/8 分解为整数部分和分数部分"
       ],
       "assessmentPrompt": "如果 {{name}} 有 7/8 块巧克力并送出 3/8，他能算出还剩几分之几——然后展示把 7/8 分成两份的两种不同方式吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_HJA2Oz-Zh1",
@@ -12363,7 +12575,9 @@
         "6 × 3/4 落在哪两个相邻整数之间？"
       ],
       "assessmentPrompt": "如果花园每一区块用掉 3/4 袋堆肥，共有 4 个区块，{{name}} 能算出一共需要多少袋吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_o_p-3tCxiM",
@@ -12381,7 +12595,9 @@
         "把 6/5 + 4/5 = 10/5 = 2 同时写成假分数和整数"
       ],
       "assessmentPrompt": "如果 {{name}} 看到分数 9/4，他能把它转换为带分数——然后再把 2 又 3/5 变回假分数吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_TgHxujL81r",
@@ -12399,7 +12615,9 @@
         "用直观模型说明为什么 5 × 1/4 = 5/4"
       ],
       "assessmentPrompt": "如果一个食谱用 2/3 杯黄油，{{name}} 想做三倍量，他能算出一共需要多少黄油吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_4ubP_RMg9o",
@@ -12417,7 +12635,10 @@
         "一件 £40 的商品打 25% 折扣——售价是多少？"
       ],
       "assessmentPrompt": "如果 {{name}} 知道 1/4 = 25% = 0.25，他能据此算出 £80 的 25%——并求出 60 颗糖的 4/5 吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.04",
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_kdWoAel3Zl",
@@ -12435,7 +12656,9 @@
         "把 0.345 标在 0.34 和 0.35 之间的数轴上"
       ],
       "assessmentPrompt": "如果 {{name}} 看到小数 0.003，他能把它写成一个分数，并大致告诉你在 0 到 0.01 的数轴上它位于哪里吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_09sySPqM9Z",
@@ -12453,7 +12676,9 @@
         "解释为什么 7/4 = 1/4 + 1/4 + 1/4 + 1/4 + 1/4 + 1/4 + 1/4"
       ],
       "assessmentPrompt": "如果你让 {{name}} 把 4/5 表示为若干更小的相等分数之和，他能写成 1/5 + 1/5 + 1/5 + 1/5 吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ]
     },
     {
       "id": "mt_ZM9mhHsyYZ",
@@ -12471,7 +12696,9 @@
         "解释 100% 表示整体，50% 表示一半"
       ],
       "assessmentPrompt": "如果一家商店打 5 折（50% off），{{name}} 能解释为这意味着半价——并把 50% 同时写成一个分数和小数吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.04"
+      ]
     },
     {
       "id": "mt_14T5yPXUq_",
@@ -12489,7 +12716,9 @@
         "解释找公分母的策略，并用直观模型验证"
       ],
       "assessmentPrompt": "如果一个食谱用了 2/3 杯一种配料和 3/4 杯另一种，{{name}} 能把这两个分数相加——即使分母不同吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_gx6KQK5-Kx",
@@ -12507,7 +12736,10 @@
         "用分数乘法计算边长分别为 1 1/2 和 2/3 的长方形面积"
       ],
       "assessmentPrompt": "如果一块布料长 2/3 米、宽 3/4 米，{{name}} 能算出它的面积——并解释用微小分数正方形平铺得到的结果为什么与相乘相同吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_PL9VkDwXfh",
@@ -12525,7 +12757,9 @@
         "把假分数和带分数按正确顺序标在数轴上"
       ],
       "assessmentPrompt": "如果 {{name}} 需要把 5/3、7/4 和 2/1 从小到大排序，他能把它们化为公分母并正确排列吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_4K1dr204Hi",
@@ -12543,7 +12777,10 @@
         "用分数—小数—百分数的等值关系比较 30%、1/3 和 0.35，并排序"
       ],
       "assessmentPrompt": "如果 {{name}} 在练习纸上看到 3/8，他能把它转换成小数——并大致说出它相当于百分之多少吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.03",
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_1PAWhRhpdg",
@@ -12561,7 +12798,9 @@
         "通过说明 20 × (1/5) = 4 来验证 4 ÷ (1/5) = 20"
       ],
       "assessmentPrompt": "如果你有 4 米丝带，每个蝴蝶结需要 1/5 米，{{name}} 能算出可以做多少个蝴蝶结——并解释为什么答案大于 4 吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_ifPDOYvUqm",
@@ -12579,7 +12818,9 @@
         "通过说明 (1/12) × 4 = 1/3 来验证 (1/3) ÷ 4 = 1/12"
       ],
       "assessmentPrompt": "如果 {{name}} 有 1/3 袋米并把它分成 4 等份，他能算出每一份占整袋的几分之几——并解释为什么答案小于 1/3 吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_rCMdwG-YOE",
@@ -12597,7 +12838,10 @@
         "为给定的单位分数除法算式创设情境故事"
       ],
       "assessmentPrompt": "如果 {{name}} 有半个披萨要平均分给 3 个人，他能算出每人得到整个披萨的几分之几——并解释他所采取的步骤吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.06"
+      ]
     },
     {
       "id": "mt_4Km38F4L-6",
@@ -12615,7 +12859,9 @@
         "用直观模型展示把 3 个整体分给 4 人，每人得 3/4"
       ],
       "assessmentPrompt": "如果 {{name}} 把 3 个披萨平均分给 4 个朋友，他能算出每人得到几分之几——并解释为什么 3 ÷ 4 给出的答案和 3/4 相同吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.03"
+      ]
     },
     {
       "id": "mt_e7filQgayF",
@@ -12633,7 +12879,10 @@
         "在计算前用基准（0、1/2、1）估算分数之和"
       ],
       "assessmentPrompt": "如果 {{name}} 走了 1 又 1/2 英里去学校，又走了 3/4 英里去朋友家，他能算出总距离——并检验答案是否合理吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.02"
+      ]
     },
     {
       "id": "mt_VKW8lOcFaw",
@@ -12651,7 +12900,9 @@
         "把 a/b 乘以 n/n = 1 与分数等值原理联系起来"
       ],
       "assessmentPrompt": "如果 {{name}} 把 20 乘以 1/4，他能在计算前预测答案是大于还是小于 20——并解释原因吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_AabJisinfi",
@@ -12669,7 +12920,9 @@
         "化简乘积 3/4 × 2/3 = 6/12 = 1/2"
       ],
       "assessmentPrompt": "如果一个食谱用 2/3 袋面粉，而 {{name}} 只想做 3/4 的量，他能把这些分数相乘来算出需要多少面粉吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_lvaSGHwvQ5",
@@ -12687,7 +12940,10 @@
         "在情境中用估算检验分数乘积的合理性"
       ],
       "assessmentPrompt": "如果一个食谱用 1 又 1/2 杯糖做 12 块饼干，而 {{name}} 只想做 2/3 的量，他能算出需要多少糖吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.06"
+      ]
     },
     {
       "id": "mt_b7T-CjOYUR",
@@ -12705,7 +12961,10 @@
         "解释分子分母同除以一个公因数为什么得到等值分数"
       ],
       "assessmentPrompt": "如果 {{name}} 有分数 12/16，他能把它约到最低项——并解释他分子分母同除了几吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01",
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_SBkTGjiZjZ",
@@ -12725,7 +12984,8 @@
       "assessmentPrompt": "如果 {{name}} 在计算器屏幕上看到 0.375，他能不借助计算器把它化为最简分数吗？",
       "standards": [
         "ccss-math:7.NS.2d",
-        "uk-nc-2013:KS3.Maths.Num.9"
+        "uk-nc-2013:KS3.Maths.Num.9",
+        "cn-math-2022:S3.NA.SY.02"
       ]
     },
     {
@@ -12746,7 +13006,8 @@
       "assessmentPrompt": "如果 {{name}} 有 3/4 升果汁，每个杯子装 3/8 升，他能运用分数除法算出能倒满几杯吗？",
       "standards": [
         "ccss-math:6.NS.1",
-        "uk-nc-2013:KS3.Maths.Num.4"
+        "uk-nc-2013:KS3.Maths.Num.4",
+        "cn-math-2022:S3.NA.SY.04"
       ]
     },
     {
@@ -12769,7 +13030,8 @@
         "ccss-math:6.NS.1",
         "ccss-math:6.NS.3",
         "ccss-math:7.NS.3",
-        "uk-nc-2013:KS3.Maths.Num.4"
+        "uk-nc-2013:KS3.Maths.Num.4",
+        "cn-math-2022:S3.NA.SY.04"
       ]
     },
     {
@@ -12789,7 +13051,9 @@
       ],
       "assessmentPrompt": "如果一件 £120 的夹克降价 35%，{{name}} 能先算出 £120 的 35%，再相减，从而算出售价吗？",
       "standards": [
-        "uk-nc-2013:KS3.Maths.Num.11"
+        "uk-nc-2013:KS3.Maths.Num.11",
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.SP.SJ.04"
       ]
     },
     {
@@ -12810,7 +13074,8 @@
       "assessmentPrompt": "{{name}} 能指着家里周围的东西——比如时钟、窗户或披萨——并正确说出每个是圆形、三角形、长方形还是正方形吗？",
       "standards": [
         "ccss-math:K.G.2",
-        "uk-nc-2013:Maths/Y1/GPS/1"
+        "uk-nc-2013:Maths/Y1/GPS/1",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -12832,7 +13097,8 @@
       "standards": [
         "ccss-math:K.G.1",
         "ccss-math:K.G.3",
-        "uk-nc-2013:Maths/Y1/GPS/2"
+        "uk-nc-2013:Maths/Y1/GPS/2",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -12853,7 +13119,8 @@
       "assessmentPrompt": "{{name}} 能用“上面”“下面”“旁边”“前面”或“后面”这样的词，给出在家里找东西的指引吗？",
       "standards": [
         "ccss-math:K.G.1",
-        "uk-nc-2013:Maths/Y1/GPD/1"
+        "uk-nc-2013:Maths/Y1/GPD/1",
+        "cn-math-2022:S1.IP.ZT.04"
       ]
     },
     {
@@ -12873,7 +13140,8 @@
       ],
       "assessmentPrompt": "{{name}} 能描述两个图形有什么不同吗——例如，解释三角形有 3 个角和 3 条边，而正方形各有 4 个？",
       "standards": [
-        "ccss-math:K.G.4"
+        "ccss-math:K.G.4",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -12893,7 +13161,8 @@
       ],
       "assessmentPrompt": "{{name}} 能搭建或画出一个展示给他的图形吗——例如，用折纸做一个立方体，或在点子图上照抄一个三角形？",
       "standards": [
-        "ccss-math:K.G.5"
+        "ccss-math:K.G.5",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -12913,7 +13182,8 @@
       ],
       "assessmentPrompt": "{{name}} 能把小图形拼在一起凑成大图形吗——比如把两个三角形组合成一个长方形？",
       "standards": [
-        "ccss-math:K.G.6"
+        "ccss-math:K.G.6",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -12933,7 +13203,8 @@
       ],
       "assessmentPrompt": "{{name}} 理解正方形这样的平面图形和立方体这样的立体图形之间的区别吗——并能把日常物品分成平面或立体吗？",
       "standards": [
-        "ccss-math:K.G.3"
+        "ccss-math:K.G.3",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -12953,7 +13224,8 @@
       ],
       "assessmentPrompt": "如果 {{name}} 在玩一个要向左转或向右转的游戏，他理解四分之一圈、半圈和整圈是什么意思吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/GPD/1"
+        "uk-nc-2013:Maths/Y1/GPD/1",
+        "cn-math-2022:S2.GG.WY.01"
       ]
     },
     {
@@ -12973,7 +13245,8 @@
       ],
       "assessmentPrompt": "{{name}} 能看着一个立体图形，说出它各个面上的平面图形吗——例如，说圆柱两端是圆、侧面围着一个长方形？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPS/3"
+        "uk-nc-2013:Maths/Y2/GPS/3",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -12993,7 +13266,9 @@
       ],
       "assessmentPrompt": "{{name}} 能数出一个图形的边数，并说它有没有对称轴吗——例如，知道长方形是对称的，而不等边三角形不是？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPS/1"
+        "uk-nc-2013:Maths/Y2/GPS/1",
+        "cn-math-2022:S1.GG.RC.01",
+        "cn-math-2022:S2.GG.WY.01"
       ]
     },
     {
@@ -13013,7 +13288,8 @@
       ],
       "assessmentPrompt": "{{name}} 理解一个图形之所以是三角形，是因为它有三个边和三个角——而不是看它的颜色或朝向吗？",
       "standards": [
-        "ccss-math:1.G.1"
+        "ccss-math:1.G.1",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -13033,7 +13309,8 @@
       ],
       "assessmentPrompt": "{{name}} 能组合立体图形——比如堆叠立方体和圆柱——来搭建一个新的组合体吗？",
       "standards": [
-        "ccss-math:1.G.2"
+        "ccss-math:1.G.2",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -13053,7 +13330,8 @@
       ],
       "assessmentPrompt": "{{name}} 能用三角形和长方形这样的平面图形拼在一起，做出一个更大的新图形——像拼图一样吗？",
       "standards": [
-        "ccss-math:1.G.2"
+        "ccss-math:1.G.2",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -13073,7 +13351,8 @@
       ],
       "assessmentPrompt": "{{name}} 能数出一个立方体或三棱柱这样的立体图形的面、棱和顶点吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPS/2"
+        "uk-nc-2013:Maths/Y2/GPS/2",
+        "cn-math-2022:S3.GG.RC.05"
       ]
     },
     {
@@ -13093,7 +13372,8 @@
       ],
       "assessmentPrompt": "{{name}} 能发现由图形或物体构成的重复规律并延续它，或者自己创作一个重复规律吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPD/1"
+        "uk-nc-2013:Maths/Y2/GPD/1",
+        "cn-math-2022:S1.NA.SL.02"
       ]
     },
     {
@@ -13113,7 +13393,9 @@
       ],
       "assessmentPrompt": "{{name}} 能在方格或简单的导航游戏里，听从“顺时针转四分之一圈”或“向右移三格”这样的指令吗？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPD/2"
+        "uk-nc-2013:Maths/Y2/GPD/2",
+        "cn-math-2022:S1.IP.ZT.04",
+        "cn-math-2022:S2.GG.WY.01"
       ]
     },
     {
@@ -13133,7 +13415,9 @@
       ],
       "assessmentPrompt": "{{name}} 能把一组图形分成几组吗——例如，把所有带曲线的图形和只有直线的图形分开？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/GPS/4"
+        "uk-nc-2013:Maths/Y2/GPS/4",
+        "cn-math-2022:S1.GG.RC.01",
+        "cn-math-2022:S1.SP.FL.01"
       ]
     },
     {
@@ -13153,7 +13437,9 @@
       ],
       "assessmentPrompt": "如果给 {{name}} 一个立方体看，他能在纸上把它画出来——然后用黏土或搭建材料做一个立方体模型吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/GPS/1"
+        "uk-nc-2013:Ma/KS2/Y3/GPS/1",
+        "cn-math-2022:S2.GG.RC.06",
+        "cn-math-2022:S1.GG.RC.01"
       ]
     },
     {
@@ -13173,7 +13459,9 @@
       ],
       "assessmentPrompt": "如果给 {{name}} “画一个 5 条边的图形”或“画一个各角都相等的图形”之类的指令，他能正确画出来吗？",
       "standards": [
-        "ccss-math:2.G.1"
+        "ccss-math:2.G.1",
+        "cn-math-2022:S1.GG.RC.01",
+        "cn-math-2022:S2.GG.RC.04"
       ]
     },
     {
@@ -13193,7 +13481,8 @@
       ],
       "assessmentPrompt": "如果 {{name}} 看着一组铁轨或窗框，他能指出哪些线是平行的（永不相交），哪些是垂直的（以直角相交）吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/GPS/4"
+        "uk-nc-2013:Ma/KS2/Y3/GPS/4",
+        "cn-math-2022:S2.GG.RC.01"
       ]
     },
     {
@@ -13213,7 +13502,8 @@
       ],
       "assessmentPrompt": "如果 {{name}} 看着一张纸的角，他能告诉你那是直角——并且知道转一整圈需要四个直角吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/GPS/3"
+        "uk-nc-2013:Ma/KS2/Y3/GPS/3",
+        "cn-math-2022:S2.GG.RC.02"
       ]
     },
     {
@@ -13233,7 +13523,8 @@
       ],
       "assessmentPrompt": "如果你让 {{name}} 指着书本或门框角上的一个角，他能找到——并解释说开门摆动的也是一种转动（角）吗？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/GPS/2"
+        "uk-nc-2013:Ma/KS2/Y3/GPS/2",
+        "cn-math-2022:S2.GG.RC.02"
       ]
     },
     {
@@ -13255,7 +13546,10 @@
         "识别一组图形中哪些不是轴对称的"
       ],
       "assessmentPrompt": "如果给 {{name}} 一只蝴蝶或星星形状的图，他能画出可以把图形正好对折、两边完全重合的那条（或那些）线吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04",
+        "cn-math-2022:S2.GG.WY.01"
+      ]
     },
     {
       "id": "mt_i5_HnoFOYw",
@@ -13273,7 +13567,9 @@
         "在给定坐标处标出第三个顶点并连出边，从而补全一个三角形"
       ],
       "assessmentPrompt": "如果给 {{name}} 网格上的三个坐标对，他能标出每个点，再把点连起来画出正确的三角形或长方形吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.WY.02"
+      ]
     },
     {
       "id": "mt_Uq5vYqboCR",
@@ -13291,7 +13587,9 @@
         "预测一个点在给定平移后会在哪里"
       ],
       "assessmentPrompt": "如果一个图形在网格 (2, 3) 处，你让 {{name}} 把它向右移四格、向上移两格，他能在不先画出来的情况下算出它的新位置吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ]
     },
     {
       "id": "mt_jBQS-CicNn",
@@ -13309,7 +13607,9 @@
         "识别画在网格上的图形所有顶点的坐标"
       ],
       "assessmentPrompt": "如果 {{name}} 在玩一个基于网格的藏宝地图游戏，他能正确地用两个数字——比如“向右 3、向上 4”——从角上说清宝藏在哪里吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.WY.02"
+      ]
     },
     {
       "id": "mt_hR2Y7NhMSY",
@@ -13327,7 +13627,9 @@
         "沿镜像线对折来检查补全后的图形"
       ],
       "assessmentPrompt": "如果你给 {{name}} 在方格纸上画了半个图形并标出镜像线，他能画出缺失的另一半，使整个图形完全对称吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ]
     },
     {
       "id": "mt_vnJEztczji",
@@ -13345,7 +13647,9 @@
         "识别几个给定展开图中哪些会折成某个立体图形，并解释其余的为什么不会"
       ],
       "assessmentPrompt": "如果给 {{name}} 一张有六个正方形、呈 T 形的平面卡片，他能在折叠前就告诉你它会折成立方体，并指出哪个正方形会变成哪个面吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ]
     },
     {
       "id": "mt_SH7QgFl8-v",
@@ -13363,7 +13667,9 @@
         "在网格上绕给定中心把图形旋转 90° 或 180°，并检查像与原图形全等"
       ],
       "assessmentPrompt": "如果 {{name}} 在方格纸上看到一个图形和它的镜像，他能画出确切的镜像线，并精确描述这次反射——包括反射线在哪里——而不只是说“它翻过去了”吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ]
     },
     {
       "id": "mt_h0CVtqI2xo",
@@ -13381,7 +13687,9 @@
         "在给定的三角形或四边形中识别所有锐角和钝角"
       ],
       "assessmentPrompt": "如果 {{name}} 看着时钟指针在不同时间所成的角，他能告诉你指针之间哪个角是锐角（比直角尖）、哪个是钝角（更宽）吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_e4V6hvcuEJ",
@@ -13399,7 +13707,9 @@
         "读取并理解角的记法（如角 ABC），识别图形中所指的那个角"
       ],
       "assessmentPrompt": "如果 {{name}} 的数学图在一个角上画了小正方形，在另外两个角上画了相同的弧线标记，他能告诉你每个标记的含义——并用它们不求重测就找出一个缺失的角吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_Xt1cRqaBOW",
@@ -13417,7 +13727,9 @@
         "画一个既不是长方形、菱形也不是正方形的四边形"
       ],
       "assessmentPrompt": "如果你给 {{name}} 看一个正方形、一个长方形和一个菱形，他能解释是什么让它们都成为四边形——又是什么让它们彼此不同吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.04"
+      ]
     },
     {
       "id": "mt_wUSbRt3-qw",
@@ -13435,7 +13747,10 @@
         "把二维表示与正确的立体图形对应起来"
       ],
       "assessmentPrompt": "如果你给 {{name}} 看一个盒或金字塔的平面建筑草图，他能告诉你它所代表的立体图形的名字吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.06",
+        "cn-math-2022:S3.GG.RC.06"
+      ]
     },
     {
       "id": "mt_oqziWKry-L",
@@ -13453,7 +13768,9 @@
         "把 270° 识别为三个直角"
       ],
       "assessmentPrompt": "如果三个角在一个点相遇，其中两个是 120° 和 95°，{{name}} 能借助所有共点的角加起来为 360° 来算出第三个角吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_r8c43QB6wx",
@@ -13471,7 +13788,9 @@
         "对既有垂直又有平行边的图形进行分类"
       ],
       "assessmentPrompt": "如果你给 {{name}} 一组混合的三角形和四边形，他能按“至少有一个直角的图形”或“有平行边的图形”这样的标准把它们分组——并解释他的理由吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.04"
+      ]
     },
     {
       "id": "mt_qUGMyMYn9m",
@@ -13489,7 +13808,9 @@
         "说明 45° 的角转过了 45 个 1 度的角"
       ],
       "assessmentPrompt": "如果 {{name}} 知道一个整圆是 360 度，他能告诉你四分之一圈是多少度——并大致说明单独 1 度的样子吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_YUJ5pwalqL",
@@ -13507,7 +13828,9 @@
         "测量前先用估算把四个角从小到大排列"
       ],
       "assessmentPrompt": "如果你给 {{name}} 看纸上画着的三个不同的角，他能估算哪个最大，把每个标为锐角、钝角或优角——然后再用量角器核对吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_QysgF57dxh",
@@ -13525,7 +13848,10 @@
         "在给定图形中标记一个直角、一个锐角和一个钝角"
       ],
       "assessmentPrompt": "如果给 {{name}} 一张纸和一把尺，他能画一条线段、标一个点，然后过该点画另一条与第一条完全平行的直线吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.01",
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_4MFUAsbx_6",
@@ -13543,7 +13869,9 @@
         "识别钝角该用刻度盘上的哪一圈"
       ],
       "assessmentPrompt": "如果给 {{name}} 一个量角器和纸上画的一个角，他能准确量出它，然后再画一个你指定大小的角吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_89riIKwGYp",
@@ -13561,7 +13889,9 @@
         "解决：共点的角为 120°、90° 和 x°；求 x = 150°"
       ],
       "assessmentPrompt": "如果两个角紧挨着在一条直线上，其中一个是 65°，{{name}} 能算出另一个角吗——他知道平线上的角总加起来是 180°？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_8H2kO4k2B9",
@@ -13597,7 +13927,9 @@
         "解释反射/平移后的图形与原图形全等"
       ],
       "assessmentPrompt": "如果 {{name}} 在方格纸上滑动或翻转一个图形，他能精确描述它最终落在哪里，并确认图形本身的大小和角度没变吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ]
     },
     {
       "id": "mt_KFKUR_gBg_",
@@ -13615,7 +13947,10 @@
         "已知面积和一边长，求长方形缺失的一边"
       ],
       "assessmentPrompt": "如果 {{name}} 知道一个矩形花园的一边是 7 米，他能在不测量的情形下告诉你对边的长度和四个角的度数吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.04",
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_3S10OOGPqu",
@@ -13633,7 +13968,9 @@
         "解释为什么两条线在一点相交就形成一个角"
       ],
       "assessmentPrompt": "如果纸上从同一点画出两条线，{{name}} 能告诉你它们之间的空间是一个角——并指出它们相交的那个顶点吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_hdrMoiTgqu",
@@ -13651,7 +13988,10 @@
         "给定边长和内角，画一个正五边形"
       ],
       "assessmentPrompt": "如果你让 {{name}} 画一个边长 5 cm 和 7 cm、夹角 40° 的三角形，他能用量尺和量角器准确地画出来吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02",
+        "cn-math-2022:S2.GG.RC.01"
+      ]
     },
     {
       "id": "mt_REwgr0d_ss",
@@ -13669,7 +14009,9 @@
         "通过说出面、棱、顶点来描述的立体图形"
       ],
       "assessmentPrompt": "如果给 {{name}} 一张十字形的平面卡片（展开图），他能预测折叠后会做成什么立体图形——然后折出来验证吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ]
     },
     {
       "id": "mt_cdMlC7EpTJ",
@@ -13687,7 +14029,9 @@
         "由角和公式算出正六边形的内角"
       ],
       "assessmentPrompt": "如果 {{name}} 知道三角形内角和总是 180°，而三角形中两个角是 55° 和 70°，他能不测量就算出第三个角吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.01"
+      ]
     },
     {
       "id": "mt_liIW336odh",
@@ -13705,7 +14049,9 @@
         "识别所有平行四边形共有的性质，并解释菱形和长方形是特殊情形"
       ],
       "assessmentPrompt": "如果有人问 {{name}} “正方形也是长方形吗？”，他能解释为什么答案是肯定的——因为正方形具备长方形的全部性质，外加边相等吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.04"
+      ]
     },
     {
       "id": "mt_R4AY0LKxfl",
@@ -13742,7 +14088,8 @@
       ],
       "assessmentPrompt": "如果 {{name}} 看着一张带网格的地图，你把一个位置描述为“从原点向右 3、向上 5”，他能找到确切的点——并解释这两个数字各自告诉你什么吗？",
       "standards": [
-        "ccss-math:5.G.1"
+        "ccss-math:5.G.1",
+        "cn-math-2022:S3.GG.WY.02"
       ]
     },
     {
@@ -13761,7 +14108,9 @@
         "用自己的话解释半径与直径的关系"
       ],
       "assessmentPrompt": "如果你给 {{name}} 一个圆盘和一把尺，他能量出直径——并解释半径和直径相比如何吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.02"
+      ]
     },
     {
       "id": "mt_snlqRCiA1R",
@@ -13780,7 +14129,9 @@
       ],
       "assessmentPrompt": "如果你告诉 {{name}} 一段车程经过地图上的网格点 (2, 3)、(5, 7) 和 (8, 4)，他能标出这些点并描述这段行程的样子吗？",
       "standards": [
-        "ccss-math:5.G.2"
+        "ccss-math:5.G.2",
+        "cn-math-2022:S3.GG.WY.02",
+        "cn-math-2022:S3.NA.SL.05"
       ]
     },
     {
@@ -13799,7 +14150,9 @@
         "解释平移如何改变坐标（加/减），而反射改变其中一个坐标的符号"
       ],
       "assessmentPrompt": "如果 {{name}} 在网格上把三角形画在坐标 (1, 2)、(3, 2)、(2, 4)，他能把它沿 x 轴反射，并告诉你每个角点的新坐标吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ]
     },
     {
       "id": "mt_QDTO3GAgcq",
@@ -13817,7 +14170,9 @@
         "识别对顶角并利用其相等的性质求未知数"
       ],
       "assessmentPrompt": "如果两条直叉相交，{{name}} 能告诉你哪对角相等（对顶角）——并在你给出其中一个时求出一个缺失的角吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ]
     },
     {
       "id": "mt_nRksLqt-iR",
@@ -13837,7 +14192,8 @@
       "assessmentPrompt": "如果 {{name}} 像切豆罐一样把圆柱横着从中间切开，他能描述切口的形状吗？斜着切又怎样？",
       "standards": [
         "ccss-math:7.G.3",
-        "uk-nc-2013:KS3.Maths.Geo.15"
+        "uk-nc-2013:KS3.Maths.Geo.15",
+        "cn-math-2022:S3.GG.RC.05"
       ]
     },
     {
@@ -13859,7 +14215,9 @@
       "standards": [
         "ccss-math:7.G.6",
         "ccss-math:8.G.9",
-        "uk-nc-2013:KS3.Maths.Geo.1"
+        "uk-nc-2013:KS3.Maths.Geo.1",
+        "cn-math-2022:S3.GG.RC.03",
+        "cn-math-2022:S3.GG.RC.05"
       ]
     },
     {
@@ -13880,7 +14238,8 @@
       "assessmentPrompt": "如果 {{name}} 知道三角形的两个角是 50° 和 70°，他能算出第三个吗？他也能算出一个正五边形里的角吗？",
       "standards": [
         "ccss-math:8.G.5",
-        "uk-nc-2013:KS3.Maths.Geo.12"
+        "uk-nc-2013:KS3.Maths.Geo.12",
+        "cn-math-2022:S3.GG.RC.01"
       ]
     },
     {
@@ -13925,7 +14284,9 @@
       "assessmentPrompt": "如果给 {{name}} 一张 1 cm 代表 2 m 的建筑平面图，他能量出图上一间房，算出它在现实中的尺寸吗？",
       "standards": [
         "ccss-math:7.G.2",
-        "uk-nc-2013:KS3.Maths.Geo.3"
+        "uk-nc-2013:KS3.Maths.Geo.3",
+        "cn-math-2022:S2.GG.RC.02",
+        "cn-math-2022:S3.GG.WY.03"
       ]
     },
     {
@@ -13967,7 +14328,9 @@
       "assessmentPrompt": "如果你让 {{name}} 用规范的几何记法——用字母标出角和边——来描述一个三角形，他能描述得足够清楚，让他人可以照着画出来吗？",
       "standards": [
         "ccss-math:7.G.2",
-        "uk-nc-2013:KS3.Maths.Geo.5"
+        "uk-nc-2013:KS3.Maths.Geo.5",
+        "cn-math-2022:S2.GG.RC.01",
+        "cn-math-2022:S3.GG.WY.04"
       ]
     },
     {
@@ -14051,7 +14414,8 @@
       "assessmentPrompt": "如果 {{name}} 想知道自行车轮转一整圈走了多远，他能用车轮直径和 π（pi）算出周长吗？",
       "standards": [
         "ccss-math:7.G.4",
-        "uk-nc-2013:KS3.Maths.Geo.2"
+        "uk-nc-2013:KS3.Maths.Geo.2",
+        "cn-math-2022:S3.GG.RC.02"
       ]
     },
     {
@@ -14072,7 +14436,8 @@
       "assessmentPrompt": "如果 {{name}} 想把一张照片放大到三倍大，他能算出新的尺寸——并解释形状不变、只是所有长度都按同一因子增大吗？",
       "standards": [
         "ccss-math:8.G.4",
-        "uk-nc-2013:KS3.Maths.Geo.9"
+        "uk-nc-2013:KS3.Maths.Geo.9",
+        "cn-math-2022:S3.GG.WY.03"
       ]
     },
     {
@@ -14156,7 +14521,10 @@
         "精确地使用位置词（上面、下面、旁边）描述物体在哪里"
       ],
       "assessmentPrompt": "当 {{name}} 谈论数学——比如比较数字或描述图形——时，他们用对词吗，比如“大于”“少于”“旁边”或“角”？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.01",
+        "cn-math-2022:HX.FH"
+      ]
     },
     {
       "id": "mt_RFeVlw0QvX",
@@ -14174,7 +14542,10 @@
         "利用重复规律（如百数表上 +10 总向下移一行）来预测答案"
       ],
       "assessmentPrompt": "当 {{name}} 在数数或做重复加法时，他们是否开始注意到规律——比如“5、10、15、20……”——并用来不逐个计数就预测下一个数？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:S1.NA.SL.02"
+      ]
     },
     {
       "id": "mt_20WfHhnL39",
@@ -14192,7 +14563,10 @@
         "解释为什么为某个问题选择了特定工具（如方块而非手指）"
       ],
       "assessmentPrompt": "当 {{name}} 在解一道数学题时，他们会去拿有用的工具——比如用手指、计数块或数轴——来辅助思考吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_WkKkb7W9Qd",
@@ -14210,7 +14584,10 @@
         "得出答案后，检查它是否合理（如重新数物体来验证总数）"
       ],
       "assessmentPrompt": "当 {{name}} 拿到一道一时不会解的数学题时，他们会停下来想想题目在问什么——也许画张图——再入手吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_IM1G_7QzTa",
@@ -14228,7 +14605,10 @@
         "把某个动作（合起来、拿走）与对应的运算联系起来"
       ],
       "assessmentPrompt": "如果 {{name}} 在解一道生活化的数学题——比如把 8 颗糖分给 2 个人——他能在写任何数字之前，用物体或画图来表现发生了什么吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.JH"
+      ]
     },
     {
       "id": "mt_nyK25mNOeR",
@@ -14246,7 +14626,9 @@
         "听同伴的解释，并说自己同意还是不同意"
       ],
       "assessmentPrompt": "{{name}} 解出一道数学题后，能解释他是怎么得到答案的吗——用计数块、画图或语言——而不只是写下最后的数字？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_uG2mjHFOlO",
@@ -14264,7 +14646,10 @@
         "在物体或数字的序列中发现规律并预测下一个"
       ],
       "assessmentPrompt": "{{name}} 是否注意到按不同顺序加数答案一样——比如 3 + 5 和 5 + 3 都等于 8——并且能解释为什么这说得通？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02",
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_fLOkq-HfPB",
@@ -14282,7 +14667,10 @@
         "用模型回答关于该情境的问题"
       ],
       "assessmentPrompt": "如果你给 {{name}} 描述一个简单的生活情境——比如“栅栏上有 3 只鸟，又落下 2 只”——他能写出像 3 + 2 = 5 这样的算式来表示吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:S1.NA.SL.01"
+      ]
     },
     {
       "id": "mt_f67qGDhyfi",
@@ -14300,7 +14688,10 @@
         "在情境中解读数值答案（如“15 cm 表示丝带长 15 厘米”）"
       ],
       "assessmentPrompt": "当 {{name}} 通过画条形模型或列方程来解一道文字题时，他能同时解释答案在真实情境中意味着什么——比如“那表示每个孩子得到 4 颗糖”吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.YY",
+        "cn-math-2022:HX.MX"
+      ]
     },
     {
       "id": "mt_EBYGhd8X3x",
@@ -14318,7 +14709,10 @@
         "在实物模型和符号方程之间转换，描述每个数字代表什么"
       ],
       "assessmentPrompt": "当 {{name}} 解一道文字题时，他能画一张图或写一个算式来展示思路——然后解释图和数字如何对应真实情况吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.FH"
+      ]
     },
     {
       "id": "mt_kJ5wYzO8qC",
@@ -14336,7 +14730,9 @@
         "识别并解释例题或同伴解法中的错误"
       ],
       "assessmentPrompt": "如果你问 {{name}} “你是怎么算出来的？”，他能给你看一张图，或用简单的语言说出他的步骤吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_fZTn0W_iZR",
@@ -14354,7 +14750,10 @@
         "描述一个规律规则并用来延伸或预测（如“每次加 5，个位在 0 和 5 间交替”）"
       ],
       "assessmentPrompt": "当 {{name}} 在练习乘法表或数字规律时，他会发现捷径吗——比如“如果 6 × 7 = 42，那么 6 × 8 一定是 48”——并用已知事实算出还没记住的那些？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02",
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_O_UOTiMvT_",
@@ -14372,7 +14771,10 @@
         "用估算或另一种方法检查答案的合理性"
       ],
       "assessmentPrompt": "如果 {{name}} 算出 3 个孩子各得 12 颗糖却得出 5，他会停下来想想“这好像不对”，而不是只写下来吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_zMEvtigoM3",
@@ -14390,7 +14792,10 @@
         "解释为什么某种表示（如数轴 vs 方块）对某个问题更有帮助"
       ],
       "assessmentPrompt": "当 {{name}} 在解一道数学题时，他会选有用的工具吗——比如加法用数轴、数数用百数表——而不是总在脑子里算？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.SG"
+      ]
     },
     {
       "id": "mt_TMoHjMhRS2",
@@ -14408,7 +14813,9 @@
         "描述立体图形时用“棱”“顶点”“面”等精确术语，比较数字时用“大于”“小于”"
       ],
       "assessmentPrompt": "当 {{name}} 写出或谈论一个数学答案时，他会带上单位吗——比如“5 厘米”而非只是“5”——并用对 = 或 < 这样的符号吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ]
     },
     {
       "id": "mt_DW2D1c0fKx",
@@ -14426,7 +14833,10 @@
         "认识图形间的结构相似（如长方形和正方形都有 4 边和 4 个直角）"
       ],
       "assessmentPrompt": "当 {{name}} 发现数学作业中的规律——比如乘 10 总是添一个零——时，他会用这个规律更快解类似的问题吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:HX.YS"
+      ]
     },
     {
       "id": "mt_mQcWGh02no",
@@ -14444,7 +14854,10 @@
         "判断何时数轴比十进制积木更适合某个问题"
       ],
       "assessmentPrompt": "当 {{name}} 面对一道数学题时，他会想想哪种方法最合适吗——比如简单的在脑子里算、大的计算用竖式、几何的画个图？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:S2.NA.SL.02"
+      ]
     },
     {
       "id": "mt_2jbUekyTu4",
@@ -14462,7 +14875,10 @@
         "描述一个递增规律（如“每次加 50”）并用来预测后续项"
       ],
       "assessmentPrompt": "当 {{name}} 在学乘法表时，他会用已知事实推出不确定的那些吗——比如用 5 × 6 = 30 来算出 6 × 6 = 36？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02",
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_pyMD_SIiYO",
@@ -14480,7 +14896,9 @@
         "为某个一般陈述构造简单论证（如“两个偶数相加总得偶数”）"
       ],
       "assessmentPrompt": "如果 {{name}} 听到别的孩子解释他怎么解一道数学题，他能说这推理说得通吗——如果不通，准确指出逻辑在哪里出错吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_RKeheOL9uo",
@@ -14498,7 +14916,10 @@
         "用另一种方法或逆运算检查答案，必要时修正"
       ],
       "assessmentPrompt": "如果 {{name}} 得到一个对数学题来说显得过大或过小的答案，他会在你没指出来时就注意到并回去检查吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SL.05",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_FAXjFkgG6X",
@@ -14516,7 +14937,10 @@
         "按结构性质（边数、直角、平行线）对图形分类"
       ],
       "assessmentPrompt": "当 {{name}} 在乘大数或处理更大的数字时，他会用自己关于位值或数字关系的知识来简化计算吗——比如把 24 × 3 拆成 20 × 3 + 4 × 3？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_dXq9VWm31W",
@@ -14534,7 +14958,10 @@
         "解释数轴上的图如何与文字题中的数量相关"
       ],
       "assessmentPrompt": "当 {{name}} 解一道涉及分数或三位数的数学题时，他能在画图、用数轴和写方程之间切换——并解释每个展示了什么吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.JH"
+      ]
     },
     {
       "id": "mt_HY8Yycu_rz",
@@ -14552,7 +14979,9 @@
         "用正确记法写方程，包括 £/p、>、<、= 和分数符号"
       ],
       "assessmentPrompt": "当 {{name}} 给出涉及度量或分数的数学答案时，他会带上正确的单位吗——比如“3½ 米”或“2.5 kg”——并全程用对符号吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ]
     },
     {
       "id": "mt_iQYPw8bMfN",
@@ -14570,7 +14999,10 @@
         "根据测量数据绘制线图，并借助它回答真实情境中的问题"
       ],
       "assessmentPrompt": "当{{name}}解决生活中的数学问题——比如计算一个项目需要多少布料——时，能否选对表征方式（图示、表格或算式），并说明答案在真实情境中意味着什么？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_d-WZC2OyMB",
@@ -14588,7 +15020,10 @@
         "计算出长×宽后，用直尺和方格纸数方格来验证面积"
       ],
       "assessmentPrompt": "{{name}}做数学时，能否选对方法——简单的在心里算，复杂的动笔演算，遇到涉及图形或分数的问题就画出示意图？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:S2.NA.SL.02"
+      ]
     },
     {
       "id": "mt_3VmBdlAeOZ",
@@ -14606,7 +15041,10 @@
         "把数轴上的一个小数转化为分数，并说明两者等价"
       ],
       "assessmentPrompt": "当{{name}}做涉及小数或分数的数学题时，能否在分数条、数轴和笔算算式之间切换——并说明每种方式在展示什么？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.MX"
+      ]
     },
     {
       "id": "mt_a3dov8CZkq",
@@ -14624,7 +15062,9 @@
         "陈述一条推理链：因为 6×8=48 且 6×2=12，所以 6×10=60，故 6×8=60−12=48"
       ],
       "assessmentPrompt": "如果有同学说“分数相乘不可能得到更大的结果”，{{name}}能否想清楚这是否永远成立——并举出例子来支持或反驳这个说法？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_mywsN77hGZ",
@@ -14642,7 +15082,9 @@
         "用 24 小时制写出 15:45，并说明它与下午 3:45 的区别"
       ],
       "assessmentPrompt": "当{{name}}写出涉及角、分数或货币的数学答案时，能否使用精确的用语和正确的符号——比如写“锐角”“3/4”或“£2.50”，而不是含糊的描述？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ]
     },
     {
       "id": "mt_K3R0yaHVcx",
@@ -14660,7 +15102,10 @@
         "用条形图模型列出一道单位换算题（米换算为厘米）"
       ],
       "assessmentPrompt": "当{{name}}解决生活中的问题——比如算出房间多少平方米——时，能否选对适用的数学工具，并把最终数字放到真实情境中去理解？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_SmghasIvbT",
@@ -14678,7 +15123,10 @@
         "用估算检验“求一个数的几分之几”的答案：20 的 3/5 一定大于 20 的一半"
       ],
       "assessmentPrompt": "当{{name}}攻克一道涉及面积、分数和多步的复杂数学题时，能否先规划思路——算之前先估算答案大概是多少，最后再检验是否合理？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SL.05",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_aivrWs6jrS",
@@ -14696,7 +15144,10 @@
         "由 8×5=40 加上 8×2=16 推导出 8×7，并把这种思路说成一般方法"
       ],
       "assessmentPrompt": "当{{name}}发现某个规律——比如乘 4 等同于连乘两次 2——时，能否运用这个归纳结论更高效地解决类似问题？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:S2.NA.SL.05"
+      ]
     },
     {
       "id": "mt__Itf4aQZUj",
@@ -14714,7 +15165,10 @@
         "利用“正方形是特殊的长方形”这一事实来推断四边形的性质"
       ],
       "assessmentPrompt": "当{{name}}比较分数或计算百分数时，能否寻找背后的规律——比如发现 50% 永远是一半，或者等值的分数在数轴上都落在同一点？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_IwEOCN6bL1",
@@ -14732,7 +15186,10 @@
         "比较分数大小时，在通分法与基准数比较法之间选择，并说明原因"
       ],
       "assessmentPrompt": "当{{name}}遇到几何或比例问题，能否选对工具——比如量角器量角、分数条比大小——而不是总是只用一种方法？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:HX.JH"
+      ]
     },
     {
       "id": "mt_GpltXPoaoc",
@@ -14750,7 +15207,10 @@
         "发现某个超过 100% 的百分数答案在情境中说不通"
       ],
       "assessmentPrompt": "当{{name}}面对涉及百分数、大数或分数的复杂多步数学题时，能否先停下来弄清已知，估算一个答案，然后检查最终结果是否合理？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.06",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_hlGKg5M7qJ",
@@ -14768,7 +15228,10 @@
         "把“平角等于 180°”作为结构工具来求未知角"
       ],
       "assessmentPrompt": "当{{name}}意识到分数、小数和百分数只是同一事物的不同写法时，能否在计算更简便时，在它们之间自如切换？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:HX.YS"
+      ]
     },
     {
       "id": "mt_CUmjcE7W6c",
@@ -14786,7 +15249,10 @@
         "把从折线图上读到的信息转化为减法算式来求差"
       ],
       "assessmentPrompt": "当{{name}}解决涉及百分数或多位数乘法的问题时，能否用条形图模型、数轴和算式把同一情境都展示出来——并说明每种方式代表什么？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.MX"
+      ]
     },
     {
       "id": "mt_xfwv0M83mJ",
@@ -14804,7 +15270,9 @@
         "正确使用 5² 的记法，并读作“5 的平方”"
       ],
       "assessmentPrompt": "当{{name}}口头或书面谈及涉及质数、百分数或多边形的数学内容时，能否准确而自信地使用专业用语——比如“质因数”“钝角”“正六边形”？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ]
     },
     {
       "id": "mt_8xVHooT4aI",
@@ -14822,7 +15290,10 @@
         "用百分数条形图模型求打折后的价格，并用英镑说明答案"
       ],
       "assessmentPrompt": "当{{name}}解决真实情境中的数学问题——比如按比例调整食谱或换算单位——时，能否选一个合理的表征方式，完成运算，再说明结果在真实情境中意味着什么？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_jCy07DyBNU",
@@ -14840,7 +15311,9 @@
         "归纳出：求 10% 就除以 10，求 5% 再把 10% 取半，并由此求任意数的 35%"
       ],
       "assessmentPrompt": "当{{name}}看到一组等值分数——比如 1/2、2/4、3/6……——时，能否描述规律并用它找出后面几项，或快速在分数与百分数之间换算？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_2ESZh70NyS",
@@ -14858,7 +15331,9 @@
         "用撕拼的方法，陈述一条推理链来证明三角形内角和为 180°"
       ],
       "assessmentPrompt": "如果{{name}}和同学用不同方法解同一道数学题，{{name}}能否比较两种方法，说明哪种更高效，并指出任一方演算中的错误？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_3rTIyJDw7-",
@@ -14876,7 +15351,9 @@
         "呈现体积计算时正确写出单位（如 60 cm³ 而非仅 60）"
       ],
       "assessmentPrompt": "当{{name}}整理涉及代数或立体图形的数学内容时，能否使用精确的语言——比如“代数式”“立方厘米”“坐标”——并在全程使用正确符号？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ]
     },
     {
       "id": "mt_FieL-vVTI_",
@@ -14894,7 +15371,10 @@
         "在定稿前先用估算判断一道小数除法答案是否合理"
       ],
       "assessmentPrompt": "当{{name}}面对涉及代数、比或多步分数的复杂数学题时，能否把它拆成可处理的部分，估算合理范围，并用另一种方法验证答案？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.06",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_ZJC7JnnPCu",
@@ -14912,7 +15392,10 @@
         "选用基于公式的方法而非数方块，来高效求体积"
       ],
       "assessmentPrompt": "当{{name}}选择如何攻克一道数学题时，能否挑出最高效的做法——复杂归纳用代数，几何问题用坐标网格，简单计算用心算？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:HX.JH"
+      ]
     },
     {
       "id": "mt_j5YqQnN6xe",
@@ -14930,7 +15413,9 @@
         "构造反例来推翻一个错误猜想（如“乘法总让结果变大”）"
       ],
       "assessmentPrompt": "当{{name}}呈现一道多步数学解答时，能否把推理交代得足够清楚，让别人能一步步跟下来——并且一旦发现范例解法里有逻辑错误，能挑出毛病？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ]
     },
     {
       "id": "mt_iyovKgZC1q",
@@ -14948,7 +15433,11 @@
         "归纳出：对任意整数，除以 n 在分数里总得到分母为 n"
       ],
       "assessmentPrompt": "当{{name}}找到数列的规律——比如“每次加 7”或“用序号乘 3”——时，能否直接用这条规律求出任意一项，而不必把前面的项全列出来？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:HX.CX",
+        "cn-math-2022:S3.NA.SL.03"
+      ]
     },
     {
       "id": "mt_hImiKNiaNh",
@@ -14966,7 +15455,10 @@
         "灵活运用 1/8=0.125=12.5% 的等值关系来解比较题"
       ],
       "assessmentPrompt": "当{{name}}化简代数式或比较比时，能否寻找底层结构——比如运用运算顺序，或看出两个比相等——来让计算更省力？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:HX.YS"
+      ]
     },
     {
       "id": "mt_yqZiX6vS7D",
@@ -14984,7 +15476,10 @@
         "判断测量答案是否需要四舍五入，以及保留到什么精度"
       ],
       "assessmentPrompt": "当{{name}}用数学解决真实问题——比如算容器的体积或求打折的百分比——时，能否先决定答案需要精确到什么程度，并说明它在情境中意味着什么？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.YY"
+      ]
     },
     {
       "id": "mt_9KmVWCuh5_",
@@ -15002,7 +15497,10 @@
         "说明饼图、分数和百分数如何表示同一个比例"
       ],
       "assessmentPrompt": "当{{name}}做代数或比的问题时，能否在图像、数值表、笔算方程和真实情境故事之间自如切换——并说明每种表征展示的是同一关系？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.MX"
+      ]
     },
     {
       "id": "mt_zkFbMLpu3U",
@@ -15022,7 +15520,9 @@
       "assessmentPrompt": "如果{{name}}有两只大小不同的杯子，能否说出哪只装水更多——并把其中一只说成比另一只“更满”或“更空”？",
       "standards": [
         "ccss-math:K.MD.1",
-        "uk-nc-2013:Maths/Y1/M/3"
+        "uk-nc-2013:Maths/Y1/M/3",
+        "cn-math-2022:HX.LG",
+        "cn-math-2022:S3.GG.RC.04"
       ]
     },
     {
@@ -15042,7 +15542,8 @@
       ],
       "assessmentPrompt": "如果{{name}}比兄弟姐妹先吃完晚饭，能否说出谁更早吃完——以及谁更快？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/4"
+        "uk-nc-2013:Maths/Y1/M/4",
+        "cn-math-2022:S1.IP.ZT.03"
       ]
     },
     {
@@ -15064,7 +15565,9 @@
       "standards": [
         "ccss-math:K.MD.1",
         "ccss-math:K.MD.2",
-        "uk-nc-2013:Maths/Y1/M/1"
+        "uk-nc-2013:Maths/Y1/M/1",
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:HX.LG"
       ]
     },
     {
@@ -15084,7 +15587,8 @@
       ],
       "assessmentPrompt": "如果{{name}}拿起一个水壶和一本书，能否不用任何测量工具，就说出哪个更重、哪个更高？",
       "standards": [
-        "ccss-math:K.MD.1"
+        "ccss-math:K.MD.1",
+        "cn-math-2022:HX.LG"
       ]
     },
     {
@@ -15106,7 +15610,9 @@
       "standards": [
         "ccss-math:K.MD.1",
         "ccss-math:K.MD.2",
-        "uk-nc-2013:Maths/Y1/M/2"
+        "uk-nc-2013:Maths/Y1/M/2",
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:HX.LG"
       ]
     },
     {
@@ -15126,7 +15632,8 @@
       ],
       "assessmentPrompt": "如果让{{name}}按顺序描述今天上午发生的事，能否用“首先”“然后”“在那之后”这类词——把吃早饭排在出门上学之前？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/10"
+        "uk-nc-2013:Maths/Y1/M/10",
+        "cn-math-2022:S1.IP.ZT.03"
       ]
     },
     {
@@ -15146,7 +15653,8 @@
       ],
       "assessmentPrompt": "如果{{name}}用小杯子往量壶里倒水，能否数出一共倒了几杯——并明白这表示的正是量壶能装多少？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/7"
+        "uk-nc-2013:Maths/Y1/M/7",
+        "cn-math-2022:S3.GG.RC.04"
       ]
     },
     {
@@ -15166,7 +15674,8 @@
       ],
       "assessmentPrompt": "如果给{{name}}一把硬币，能否一一叫出名称——比如 2便士、5便士、20便士——并按面值从小到大排好？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/9"
+        "uk-nc-2013:Maths/Y1/M/9",
+        "cn-math-2022:S1.IP.ZT.02"
       ]
     },
     {
@@ -15186,7 +15695,9 @@
       ],
       "assessmentPrompt": "如果问{{name}}今天是星期几、昨天是星期几、现在是几月，能否三个都答上——再告诉你一年有几个月？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/11"
+        "uk-nc-2013:Maths/Y1/M/11",
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
       ]
     },
     {
@@ -15206,7 +15717,9 @@
       ],
       "assessmentPrompt": "如果{{name}}把小立方体一个接一个排开量一本书的长度，能否数出用了多少块——然后再试着用直尺量同一本书？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/5"
+        "uk-nc-2013:Maths/Y1/M/5",
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S1.IP.ZT.05"
       ]
     },
     {
@@ -15226,7 +15739,8 @@
       ],
       "assessmentPrompt": "如果{{name}}用托盘天平比较两个物体，能否说出哪个更重——若给一些 100克 的砝码，能否在天平上把物体配平？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/6"
+        "uk-nc-2013:Maths/Y1/M/6",
+        "cn-math-2022:S2.IP.ZT.02"
       ]
     },
     {
@@ -15246,7 +15760,8 @@
       ],
       "assessmentPrompt": "如果指向一个显示 3 点或半过 2 点的钟，{{name}}能否说出时间——再在空白钟面上画出你报出的时刻？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/12"
+        "uk-nc-2013:Maths/Y1/M/12",
+        "cn-math-2022:S1.IP.ZT.03"
       ]
     },
     {
@@ -15266,7 +15781,8 @@
       ],
       "assessmentPrompt": "如果{{name}}看着秒针在钟面上转完一整圈，能否数出这是一分钟——再估算自己最爱的电视节目大概有几分钟？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/M/8"
+        "uk-nc-2013:Maths/Y1/M/8",
+        "cn-math-2022:S1.IP.ZT.03"
       ]
     },
     {
@@ -15286,7 +15802,8 @@
       ],
       "assessmentPrompt": "如果{{name}}要正好凑出 30便士，能否用不同的硬币组合找出两三种凑法？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/4"
+        "uk-nc-2013:Maths/Y2/M/4",
+        "cn-math-2022:S1.IP.ZT.02"
       ]
     },
     {
@@ -15306,7 +15823,10 @@
       ],
       "assessmentPrompt": "如果问{{name}}游泳池和一张纸该用厘米还是米来量，能否为每件都挑出合理的单位——并说明原因？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/1"
+        "uk-nc-2013:Maths/Y2/M/1",
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:S3.GG.RC.04"
       ]
     },
     {
@@ -15326,7 +15846,9 @@
       ],
       "assessmentPrompt": "如果{{name}}量出三段绳子分别是 15厘米、9厘米、22厘米，能否从最短到最长排好——并用 < 符号写出来？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/2"
+        "uk-nc-2013:Maths/Y2/M/2",
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S2.IP.ZT.02"
       ]
     },
     {
@@ -15346,7 +15868,8 @@
       ],
       "assessmentPrompt": "如果{{name}}有三支长短不同的铅笔，但每次只能比较两支，能否借助第三支当“中介”，判断出哪支最长？",
       "standards": [
-        "ccss-math:1.MD.1"
+        "ccss-math:1.MD.1",
+        "cn-math-2022:S1.GG.RC.02"
       ]
     },
     {
@@ -15366,7 +15889,9 @@
       ],
       "assessmentPrompt": "如果{{name}}用一模一样的小积木量桌子长度，能否把它们首尾相接、不留空隙——并告诉你桌子相当于多少块积木长？",
       "standards": [
-        "ccss-math:1.MD.2"
+        "ccss-math:1.MD.2",
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S1.IP.ZT.05"
       ]
     },
     {
@@ -15386,7 +15911,8 @@
       ],
       "assessmentPrompt": "如果{{name}}买一份 45便士的零食、付了一张 1英镑 硬币，能否算出该找回多少零钱——并倒着数出来？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/5"
+        "uk-nc-2013:Maths/Y2/M/5",
+        "cn-math-2022:S1.IP.ZT.02"
       ]
     },
     {
@@ -15406,7 +15932,9 @@
       ],
       "assessmentPrompt": "如果{{name}}知道一小时有 60 分钟，能否说出 2 小时是多少分钟——以及一整天合多少小时？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/8"
+        "uk-nc-2013:Maths/Y2/M/8",
+        "cn-math-2022:S1.IP.ZT.03",
+        "cn-math-2022:S2.IP.ZT.01"
       ]
     },
     {
@@ -15426,7 +15954,8 @@
       ],
       "assessmentPrompt": "如果{{name}}拿起面值 50便士、20便士、10便士的硬币，能否用 p 符号写出总额——并告诉你够不够买一件 75便士的东西？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/3"
+        "uk-nc-2013:Maths/Y2/M/3",
+        "cn-math-2022:S1.IP.ZT.02"
       ]
     },
     {
@@ -15446,7 +15975,8 @@
       ],
       "assessmentPrompt": "如果{{name}}知道一部电影 2 小时、一趟车程 45 分钟，能否说出哪个更久——再把几件日常活动按耗时排个序？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/M/6"
+        "uk-nc-2013:Maths/Y2/M/6",
+        "cn-math-2022:S1.IP.ZT.03"
       ]
     },
     {
@@ -15467,7 +15997,8 @@
       "assessmentPrompt": "如果时钟显示差一刻到四点，{{name}}能否说出时间——并在空白钟面上画出 3点20分 的指针？",
       "standards": [
         "ccss-math:1.MD.3",
-        "uk-nc-2013:Maths/Y2/M/7"
+        "uk-nc-2013:Maths/Y2/M/7",
+        "cn-math-2022:S1.IP.ZT.03"
       ]
     },
     {
@@ -15487,7 +16018,9 @@
       ],
       "assessmentPrompt": "如果{{name}}有一根 75厘米 长的绳子、剪掉 28厘米，能否算出剩下多长——并画一条数轴示意图来表示？",
       "standards": [
-        "ccss-math:2.MD.5"
+        "ccss-math:2.MD.5",
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S1.NA.SL.01"
       ]
     },
     {
@@ -15507,7 +16040,10 @@
       ],
       "assessmentPrompt": "如果{{name}}往量壶里倒了 350毫升、又加了 275毫升，能否算出总量——并告诉你离 1升 还差多少？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/M/1"
+        "uk-nc-2013:Ma/KS2/Y3/M/1",
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:S3.GG.RC.04"
       ]
     },
     {
@@ -15527,7 +16063,9 @@
       ],
       "assessmentPrompt": "如果铅笔 16厘米、蜡笔 9厘米，{{name}}能否不把它们并排摆，就算出铅笔长多少？",
       "standards": [
-        "ccss-math:2.MD.4"
+        "ccss-math:2.MD.4",
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S1.NA.SL.01"
       ]
     },
     {
@@ -15547,7 +16085,9 @@
       ],
       "assessmentPrompt": "如果{{name}}下午 4:15 开始做饭、5:00 结束，能否算出做了多久？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/M/7"
+        "uk-nc-2013:Ma/KS2/Y3/M/7",
+        "cn-math-2022:S1.IP.ZT.03",
+        "cn-math-2022:S2.IP.ZT.01"
       ]
     },
     {
@@ -15567,7 +16107,8 @@
       ],
       "assessmentPrompt": "如果一档电视节目下午 5:17 开始、5:43 结束，{{name}}能否算出播了多久——并用分钟表示？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/M/5"
+        "uk-nc-2013:Ma/KS2/Y3/M/5",
+        "cn-math-2022:S1.IP.ZT.03"
       ]
     },
     {
@@ -15587,7 +16128,8 @@
       ],
       "assessmentPrompt": "如果{{name}}看着停在门外的一辆汽车，能否大致估算出它有几米长——再检验自己的猜测是否合理？",
       "standards": [
-        "ccss-math:2.MD.3"
+        "ccss-math:2.MD.3",
+        "cn-math-2022:S1.GG.RC.02"
       ]
     },
     {
@@ -15607,7 +16149,8 @@
       ],
       "assessmentPrompt": "如果{{name}}用一张 5英镑 纸币买了一本 3.50英镑 的书和一支 1.25英镑 的铅笔，能否精确算出应找回多少零钱？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/M/3"
+        "uk-nc-2013:Ma/KS2/Y3/M/3",
+        "cn-math-2022:S1.IP.ZT.02"
       ]
     },
     {
@@ -15627,7 +16170,8 @@
       ],
       "assessmentPrompt": "如果{{name}}有 2 枚25分、1 枚10分、3 枚1分硬币，能否算出总额——并告诉你够不够买一件 65分 的东西？",
       "standards": [
-        "ccss-math:2.MD.8"
+        "ccss-math:2.MD.8",
+        "cn-math-2022:S1.IP.ZT.02"
       ]
     },
     {
@@ -15647,7 +16191,8 @@
       ],
       "assessmentPrompt": "如果{{name}}要量一块约 80厘米 长的布，能否挑对工具——短直尺还是卷尺——并准确量出？",
       "standards": [
-        "ccss-math:2.MD.1"
+        "ccss-math:2.MD.1",
+        "cn-math-2022:S1.GG.RC.02"
       ]
     },
     {
@@ -15667,7 +16212,8 @@
       ],
       "assessmentPrompt": "如果{{name}}想给一个宽 20厘米、高 30厘米 的长方形相框镶边，能否算出需要的边框总长？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/M/2"
+        "uk-nc-2013:Ma/KS2/Y3/M/2",
+        "cn-math-2022:S2.GG.RC.05"
       ]
     },
     {
@@ -15687,7 +16233,9 @@
       ],
       "assessmentPrompt": "如果{{name}}把十片叶子的长度量到最接近的厘米并记录下来，能否把数据画在一张简单的数轴图上——把长度相同的叶子归在一起？",
       "standards": [
-        "ccss-math:2.MD.9"
+        "ccss-math:2.MD.9",
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S2.SP.SJ.01"
       ]
     },
     {
@@ -15707,7 +16255,8 @@
       ],
       "assessmentPrompt": "如果{{name}}先用厘米、再用英寸量同一本书，能否解释为什么数值不同、而书的大小没变？",
       "standards": [
-        "ccss-math:2.MD.2"
+        "ccss-math:2.MD.2",
+        "cn-math-2022:S1.GG.RC.02"
       ]
     },
     {
@@ -15728,7 +16277,9 @@
       "assessmentPrompt": "如果时钟显示上午 6:45，{{name}}能否用语言说出这是几点——并用 24小时制写出来？",
       "standards": [
         "ccss-math:2.MD.7",
-        "uk-nc-2013:Ma/KS2/Y3/M/4"
+        "uk-nc-2013:Ma/KS2/Y3/M/4",
+        "cn-math-2022:S1.IP.ZT.03",
+        "cn-math-2022:S2.IP.ZT.01"
       ]
     },
     {
@@ -15748,7 +16299,9 @@
       ],
       "assessmentPrompt": "如果问{{name}}九月有多少天、今年是不是闰年，能否两个都答上——再告诉你一分钟有几秒？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/M/6"
+        "uk-nc-2013:Ma/KS2/Y3/M/6",
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
       ]
     },
     {
@@ -15767,7 +16320,9 @@
         "把一组 12小时制与 24小时制时间配对"
       ],
       "assessmentPrompt": "如果列车时刻表显示 14:35 发车，{{name}}能否换算成 12小时制——并告诉你那是上午还是下午？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.01"
+      ]
     },
     {
       "id": "mt_y1n0Zwhoca",
@@ -15785,7 +16340,10 @@
         "通过数单位正方形比较两个图形的面积"
       ],
       "assessmentPrompt": "如果{{name}}在平方厘米方格纸上画一个图形，能否通过数格子求出面积——包括为不完整的格子做出合理估算？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_AQo4u7O4sM",
@@ -15803,7 +16361,10 @@
         "画出表示 5×(7+3) = 5×7 + 5×3 的面积模型"
       ],
       "assessmentPrompt": "如果{{name}}想把 6×13 拆成 6×10 和 6×3 来算，能否画一个分成两部分的长方形，说明这个方法为什么成立？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.04",
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_Jvvh5P06NV",
@@ -15821,7 +16382,9 @@
         "在方格纸上画长方形、铺满并写出乘法"
       ],
       "assessmentPrompt": "如果一个房间长 4米、宽 3米，{{name}}能否在脑中用它铺 1米 见方的格子算出面积——并说明为什么等于 4×3？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_eMtV6tBSJm",
@@ -15839,7 +16402,10 @@
         "解决：房间为 L 形（3米×5米 加 2米×4米），总面积是多少？"
       ],
       "assessmentPrompt": "如果给{{name}}一张方格纸上的 L 形房间图，能否把它拆成两个长方形，分别求出各部分面积后相加得到总面积？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05",
+        "cn-math-2022:S3.GG.RC.03"
+      ]
     },
     {
       "id": "mt_d8al9JcajP",
@@ -15857,7 +16423,11 @@
         "把 5周 换算成 35天"
       ],
       "assessmentPrompt": "如果告诉{{name}}一段路程 3.5千米，能否换算成米——再把 2小时15分钟 也化成分钟？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
+      ]
     },
     {
       "id": "mt_mFJ-2ZF6Tk",
@@ -15875,7 +16445,10 @@
         "计算 3 件标价 £2.45、£1.30、£0.75 的物品总价"
       ],
       "assessmentPrompt": "如果{{name}}在比较三件标价 £2.85、£3.10、£2.50 的物品，能否从最便宜到最贵排好——并算出总价？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.02",
+        "cn-math-2022:S2.NA.SL.01"
+      ]
     },
     {
       "id": "mt_ghK1mnEstc",
@@ -15911,7 +16484,10 @@
         "解决：3 袋每袋 250克，总质量是多少？"
       ],
       "assessmentPrompt": "如果{{name}}要把一瓶 2升 果汁分装到每个 250毫升 的小瓶里，能否算出能装满几瓶？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:S3.GG.RC.04"
+      ]
     },
     {
       "id": "mt_IL86kadLSS",
@@ -15929,7 +16505,10 @@
         "用数轴表示两件事之间经过的时间"
       ],
       "assessmentPrompt": "如果{{name}}下午 3:20 开始足球训练、持续 75分钟，能否借助数轴算出几点结束？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
+      ]
     },
     {
       "id": "mt_WtcFrxGOgw",
@@ -15947,7 +16526,9 @@
         "画出两个周长都是 24厘米 但面积不同的长方形"
       ],
       "assessmentPrompt": "如果长方形周长 24厘米、其中一边 8厘米，{{name}}能否不画图就算出另一边多长？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_UNzojLkNdm",
@@ -15965,7 +16546,9 @@
         "把指针式与数字式时间按分钟配对"
       ],
       "assessmentPrompt": "如果时钟的分针刚过 9，{{name}}能否算出精确到分钟的确切时间——并用数字形式写出来？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03"
+      ]
     },
     {
       "id": "mt_GzcJEVkNRn",
@@ -15983,7 +16566,9 @@
         "解决：一块地长 8米、宽 5米，面积是多少？"
       ],
       "assessmentPrompt": "如果{{name}}要给一个 5米×4米 的房间铺地毯，能否用乘法而非数格子，算出要买多少地毯？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_6xNmQLzuqm",
@@ -16001,7 +16586,10 @@
         "区分面积与周长这两个不同的度量"
       ],
       "assessmentPrompt": "如果{{name}}数出方格纸上长方形里的小格子，能否说出面积——并解释“一平方单位”是什么意思？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05",
+        "cn-math-2022:S2.GG.RC.03"
+      ]
     },
     {
       "id": "mt_Zks8xyInSG",
@@ -16019,7 +16607,11 @@
         "把 2千克350克 表示为 2,350克"
       ],
       "assessmentPrompt": "如果{{name}}要把 3.5千克 换算成克，能否自信完成——再填好一张简单的两列表，用千克和克表示同样的测量结果？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:S1.IP.ZT.03"
+      ]
     },
     {
       "id": "mt_eiB3-6pu6a",
@@ -16037,7 +16629,9 @@
         "估算画在平方厘米网格上的不规则池塘面积"
       ],
       "assessmentPrompt": "如果{{name}}想给一个 6.5米×4米 的房间铺地毯，能否算出面积——再算出四周踢脚线需要多少米？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_NSC3LT_-ch",
@@ -16055,7 +16649,9 @@
         "通过与已知的升量比较，估算量壶的容量"
       ],
       "assessmentPrompt": "如果{{name}}有一个小纸盒，能否估算里面能放多少个 1立方厘米 的方块——再用方糖装满来验证？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.04"
+      ]
     },
     {
       "id": "mt_5HV4mbgSGH",
@@ -16073,7 +16669,10 @@
         "三条丝带分别长 0.75米、1.2米、0.95米，总长多少？"
       ],
       "assessmentPrompt": "如果{{name}}计划走 4.5千米，已经走了 1.75千米，能否算出还剩多远——并估算剩下的路大概要走多久？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.06"
+      ]
     },
     {
       "id": "mt_42QD6nYjiZ",
@@ -16127,7 +16726,9 @@
         "画一个周长为 40厘米 的复合直线图形"
       ],
       "assessmentPrompt": "如果给{{name}}一张标齐所有边长的 L 形花园平面图，能否把各边相加求出总周长？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_2yas4Unc8o",
@@ -16145,7 +16746,10 @@
         "8周零3天是多少天？"
       ],
       "assessmentPrompt": "如果{{name}}要把 2小时35分钟 只化成分钟，能否做到——再把 180秒 化成几分几秒？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
+      ]
     },
     {
       "id": "mt_ML5t7n2-U8",
@@ -16163,7 +16767,9 @@
         "说明为什么三角形面积是相关平行四边形面积的一半"
       ],
       "assessmentPrompt": "如果{{name}}在剪底 8厘米、高 5厘米 的三角形布片，能否用公式算出每片的面积？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.03"
+      ]
     },
     {
       "id": "mt_d7XktBQPxm",
@@ -16181,7 +16787,9 @@
         "用正确的立方单位记法表示测得的体积"
       ],
       "assessmentPrompt": "如果{{name}}在示意图里看到一个用小方块搭成的立体图形，能否数出它包含多少块——包括藏在后面的那些——从而求出体积？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.04"
+      ]
     },
     {
       "id": "mt_2VpdPjvewx",
@@ -16199,7 +16807,10 @@
         "用 10 的幂说明毫米、厘米、米、千米之间的关系"
       ],
       "assessmentPrompt": "如果{{name}}要把 5厘米 换算成米并用小数写出，能否做到——再把 2.45千克 换算成克？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S2.GG.RC.03"
+      ]
     },
     {
       "id": "mt_nTL-owFJTF",
@@ -16217,7 +16828,9 @@
         "比较两个长方体的体积，认出哪个容量更大"
       ],
       "assessmentPrompt": "如果{{name}}想算出一个长 40厘米、宽 20厘米、深 15厘米 的种植箱能装多少土，能否用公式算出体积？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ]
     },
     {
       "id": "mt_SqhXQhAEUf",
@@ -16235,7 +16848,10 @@
         "解决涉及时间、距离和单位换算的多步问题"
       ],
       "assessmentPrompt": "如果{{name}}在往一个 60升 的鱼缸里注水，水龙头每分钟进 3.5升，能否算出多久能注满？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.06",
+        "cn-math-2022:S2.GG.RC.03"
+      ]
     },
     {
       "id": "mt_IuHa5UI5od",
@@ -16253,7 +16869,9 @@
         "通过数装满小立体所需的单位立方体，确定其体积"
       ],
       "assessmentPrompt": "如果{{name}}用小方块搭出一个立体，能否数方块求出体积——并用日常说法解释“一立方厘米”是什么意思？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.04"
+      ]
     },
     {
       "id": "mt_3tPI0HqqcN",
@@ -16289,7 +16907,9 @@
         "说明为什么细长的长方形与正方形可以面积相同而周长不同"
       ],
       "assessmentPrompt": "如果{{name}}有 12块 正方形瓷砖可拼摆，能否拼出不同形状的长方形，并注意到面积始终是 12块、而周长各不相同？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ]
     },
     {
       "id": "mt_5TBUFnCy5-",
@@ -16307,7 +16927,9 @@
         "说明为什么把组合立体拆成长方体就能算出总体积"
       ],
       "assessmentPrompt": "如果 L 形游泳池由两段长方体组成，{{name}}能否分别求出每段的体积再相加，得到泳池的总体积？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ]
     },
     {
       "id": "mt_LpSuPgL31x",
@@ -16326,7 +16948,8 @@
       ],
       "assessmentPrompt": "如果{{name}}有 12 颗葡萄要平均分给 3 个朋友，能否算出每人得 4 颗——并说明自己怎么做的？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/MD/1"
+        "uk-nc-2013:Maths/Y1/MD/1",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -16346,7 +16969,8 @@
       ],
       "assessmentPrompt": "如果{{name}}看到盒子里鸡蛋排成 3 行、每行 4 个，能否借助这个网格布局，既算出“3×4=12”、又算出“12÷3=4”？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/MD/1"
+        "uk-nc-2013:Maths/Y1/MD/1",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -16366,7 +16990,8 @@
       ],
       "assessmentPrompt": "如果{{name}}要数 4 个袋子、每袋 3 个苹果，能否意识到与其一个个数完 12 个，不如算 3+3+3+3——或者说“4 组、每组 3 个”？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/MD/1"
+        "uk-nc-2013:Maths/Y1/MD/1",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -16386,7 +17011,9 @@
       ],
       "assessmentPrompt": "{{name}}是否知道 4×7 与 7×4 答案相同——因而可以选乘法表里更好记的那个顺序？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/MD/3"
+        "uk-nc-2013:Maths/Y2/MD/3",
+        "cn-math-2022:S1.NA.SY.05",
+        "cn-math-2022:S2.NA.SY.04"
       ]
     },
     {
@@ -16406,7 +17033,9 @@
       ],
       "assessmentPrompt": "如果告诉{{name}}“你有 5 个袋子、每个装 4 颗弹珠，一共几颗？”，能否借助实物、画图或心算加法算出来？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/MD/4"
+        "uk-nc-2013:Maths/Y2/MD/4",
+        "cn-math-2022:S1.NA.SY.05",
+        "cn-math-2022:S1.NA.SL.01"
       ]
     },
     {
@@ -16426,7 +17055,8 @@
       ],
       "assessmentPrompt": "如果给{{name}}一个像 37 或 84 这样的数，能否立刻说出它是奇数还是偶数——并说明怎么知道的？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/MD/1"
+        "uk-nc-2013:Maths/Y2/MD/1",
+        "cn-math-2022:S3.NA.SY.01"
       ]
     },
     {
@@ -16446,7 +17076,8 @@
       ],
       "assessmentPrompt": "如果在纸上写下“6×4=24”或“15÷3=5”，{{name}}能否说出乘号、除号和等号各自的意思？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/MD/2"
+        "uk-nc-2013:Maths/Y2/MD/2",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -16466,7 +17097,8 @@
       ],
       "assessmentPrompt": "{{name}}能否快速背出 2、5、10 的乘法口诀——比如“5×6=30”“20÷2=10”——正反都行？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/MD/1"
+        "uk-nc-2013:Maths/Y2/MD/1",
+        "cn-math-2022:S1.NA.SY.05"
       ]
     },
     {
@@ -16486,7 +17118,8 @@
       ],
       "assessmentPrompt": "如果{{name}}看到一版贴纸排成 4 行、每行 5 张，能否用连加“5+5+5+5”求出总数，并写成算式？",
       "standards": [
-        "ccss-math:2.OA.4"
+        "ccss-math:2.OA.4",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -16506,7 +17139,9 @@
       ],
       "assessmentPrompt": "如果 4 人份的食谱需要 3 个鸡蛋，{{name}}能否算出 8 人份要几个——并认出这是一道翻倍/缩放题？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/MD/3"
+        "uk-nc-2013:Ma/KS2/Y3/MD/3",
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:S2.NA.SL.05"
       ]
     },
     {
@@ -16526,7 +17161,8 @@
       ],
       "assessmentPrompt": "{{name}}能否画线把一个长方形分成整齐的等大方格网，再数出所有格子求总数？",
       "standards": [
-        "ccss-math:2.G.2"
+        "ccss-math:2.G.2",
+        "cn-math-2022:S2.GG.RC.05"
       ]
     },
     {
@@ -16546,7 +17182,8 @@
       ],
       "assessmentPrompt": "{{name}}能否不每次重算，就快速背出 3、4、8 的乘法口诀——比如“8×7=56”“36÷4=9”？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/MD/1"
+        "uk-nc-2013:Ma/KS2/Y3/MD/1",
+        "cn-math-2022:S1.NA.SY.05"
       ]
     },
     {
@@ -16566,7 +17203,8 @@
       ],
       "assessmentPrompt": "{{name}}能否算出“23×4”或“68÷4”——不论是凭借乘法表在心里算，还是一步步写出来？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/MD/2"
+        "uk-nc-2013:Ma/KS2/Y3/MD/2",
+        "cn-math-2022:S2.NA.SY.01"
       ]
     },
     {
@@ -16586,7 +17224,8 @@
       ],
       "assessmentPrompt": "{{name}}能否快速准确地背出 12 以内任意一句乘除口诀——比如“9×8=72”“132÷12=11”？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/MD/1"
+        "uk-nc-2013:Ma/KS2/Y4/MD/1",
+        "cn-math-2022:S1.NA.SY.05"
       ]
     },
     {
@@ -16606,7 +17245,8 @@
       ],
       "assessmentPrompt": "{{name}}能否用“8 乘几得 32？”来求 32÷8——靠的是乘法表，而不是另用一套除法方法？",
       "standards": [
-        "ccss-math:3.OA.6"
+        "ccss-math:3.OA.6",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -16626,7 +17266,9 @@
       ],
       "assessmentPrompt": "如果{{name}}要算“4×15”，能否看出把它拆成“4×5×3=20×3=60”是个聪明的捷径——用因数对让计算变简单？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/MD/3"
+        "uk-nc-2013:Ma/KS2/Y4/MD/3",
+        "cn-math-2022:S2.NA.SY.04",
+        "cn-math-2022:S3.NA.SY.01"
       ]
     },
     {
@@ -16646,7 +17288,8 @@
       ],
       "assessmentPrompt": "{{name}}能否快速答出 10×10 以内的任意乘法口诀——还能给出对应的除法事实，比如由“9×7=63”推出“63÷9=7”？",
       "standards": [
-        "ccss-math:3.OA.7"
+        "ccss-math:3.OA.7",
+        "cn-math-2022:S1.NA.SY.05"
       ]
     },
     {
@@ -16666,7 +17309,9 @@
       ],
       "assessmentPrompt": "{{name}}能否在心里立刻算出“6×0”“1×35”或“100÷100”——靠的是已有的知识，而不是每次都从零算起？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/MD/2"
+        "uk-nc-2013:Ma/KS2/Y4/MD/2",
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S2.NA.SY.04"
       ]
     },
     {
@@ -16686,7 +17331,8 @@
       ],
       "assessmentPrompt": "如果告诉{{name}}“有 7 个盒子、每盒 9 支铅笔，共几支？”，能否认出这是乘法题并正确解答？",
       "standards": [
-        "ccss-math:3.OA.3"
+        "ccss-math:3.OA.3",
+        "cn-math-2022:S1.NA.SL.01"
       ]
     },
     {
@@ -16706,7 +17352,9 @@
       ],
       "assessmentPrompt": "如果{{name}}要算“5×23”，能否把它拆成“5×20+5×3=100+15=115”——而不是径直去列竖式？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/MD/5"
+        "uk-nc-2013:Ma/KS2/Y4/MD/5",
+        "cn-math-2022:S2.NA.SY.04",
+        "cn-math-2022:S2.NA.SY.03"
       ]
     },
     {
@@ -16726,7 +17374,8 @@
       ],
       "assessmentPrompt": "{{name}}能否先算一位数乘法、再补上 0，快速算出“7×40”或“6×80”——分别得 280 和 480？",
       "standards": [
-        "ccss-math:3.NBT.3"
+        "ccss-math:3.NBT.3",
+        "cn-math-2022:S2.NA.SY.01"
       ]
     },
     {
@@ -16746,7 +17395,8 @@
       ],
       "assessmentPrompt": "{{name}}能否在乘法表中发现规律——比如 5 的倍数个位都是 0 或 5——并说明为什么会出现这种规律？",
       "standards": [
-        "ccss-math:3.OA.9"
+        "ccss-math:3.OA.9",
+        "cn-math-2022:S1.NA.SL.02"
       ]
     },
     {
@@ -16766,7 +17416,8 @@
       ],
       "assessmentPrompt": "{{name}}能否用“拆数”的小窍门——把“6×14”算成“6×10+6×4=60+24=84”——来让乘法更省力？",
       "standards": [
-        "ccss-math:3.OA.5"
+        "ccss-math:3.OA.5",
+        "cn-math-2022:S2.NA.SY.04"
       ]
     },
     {
@@ -16786,7 +17437,8 @@
       ],
       "assessmentPrompt": "如果纸上写着“8×?=48”或“?÷6=7”，{{name}}能否想出空格里该填什么数？",
       "standards": [
-        "ccss-math:3.OA.4"
+        "ccss-math:3.OA.4",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -16806,7 +17458,8 @@
       ],
       "assessmentPrompt": "{{name}}能否说明“56÷8”可以理解为“把 56 个东西平均分给 8 个人，每人得几个？”——而不只是背出答案“7”？",
       "standards": [
-        "ccss-math:3.OA.2"
+        "ccss-math:3.OA.2",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -16826,7 +17479,8 @@
       ],
       "assessmentPrompt": "如果{{name}}看到写下的“5×7”，能否说明它表示 5 组、每组 7 个——而不只是背出“35”？",
       "standards": [
-        "ccss-math:3.OA.1"
+        "ccss-math:3.OA.1",
+        "cn-math-2022:S1.NA.SY.03"
       ]
     },
     {
@@ -16846,7 +17500,8 @@
       ],
       "assessmentPrompt": "{{name}}能否用正式的竖式算出“347×6”——逐位相乘、需要时进位？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/MD/4"
+        "uk-nc-2013:Ma/KS2/Y4/MD/4",
+        "cn-math-2022:S2.NA.SY.01"
       ]
     },
     {
@@ -16865,7 +17520,9 @@
         "用乘除关系检验除法答案"
       ],
       "assessmentPrompt": "{{name}}能否用“巴士站”式短除法算出“2,457÷6”，并决定剩下的余数该怎么处理？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_p-nbe0w_lf",
@@ -16883,7 +17540,10 @@
         "用 n 表示未知数，把两步问题列成方程"
       ],
       "assessmentPrompt": "如果{{name}}读到“学校买 7 盒、每盒 24 支笔，平均分给 8 个班”，能否一步步算完，并合理决定余数怎么处理？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S2.NA.SL.05"
+      ]
     },
     {
       "id": "mt_FHIAv6dfhU",
@@ -16904,7 +17564,9 @@
         "判断一个给定数（如 97）是否为质数并说明理由"
       ],
       "assessmentPrompt": "{{name}}能否列出像 36 这样的数的所有因数对——(1, 36)、(2, 18)、(3, 12)、(4, 9)、(6, 6)——并找出两个数共有的因数？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01"
+      ]
     },
     {
       "id": "mt_0Wg5F97osg",
@@ -16922,7 +17584,9 @@
         "用因数对把 24×25 简化成 6×(4×25)=6×100=600"
       ],
       "assessmentPrompt": "如果让{{name}}找出小于 100 的所有平方数，能否有步骤地算出来，并给出正确列表：1、4、9、16、25、36、49、64、81？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01"
+      ]
     },
     {
       "id": "mt_q9EaJc2FP8",
@@ -16940,7 +17604,9 @@
         "画 45×23 的面积模型，并与笔算方法对应"
       ],
       "assessmentPrompt": "{{name}}能否用正式的竖式算出“2,346×7”或“43×28”——仔细列好、一步步算完？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_8A3pZNOp7Z",
@@ -16958,7 +17624,9 @@
         "心算 360÷9：用 36÷9=4"
       ],
       "assessmentPrompt": "{{name}}能否在心里算出“24×5”或“360÷8”——靠的是与已知事实的巧妙联系，而不必写下来？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_6-j1NO2ZUH",
@@ -16976,7 +17644,10 @@
         "说明为什么“萨姆多 5 个”是加法关系，而“萨姆是其 5 倍”是乘法关系"
       ],
       "assessmentPrompt": "如果你说“玛雅的贴纸是汤姆的 4 倍，汤姆有 6 张，玛雅有几张？”，{{name}}能否认出这是乘法题并解答？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:S2.NA.SL.05"
+      ]
     },
     {
       "id": "mt_U4cIBXVug4",
@@ -16994,7 +17665,9 @@
         "在应用题中区分倍数比较与加法比较"
       ],
       "assessmentPrompt": "{{name}}能否看着“35=5×7”，把它说成“35 是 7 的 5 倍”——理解为一种比较，而不只是乘法事实？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SL.05"
+      ]
     },
     {
       "id": "mt_LlMl2PbaZe",
@@ -17012,7 +17685,10 @@
         "说明乘 10 会把每个数字左移一位"
       ],
       "assessmentPrompt": "{{name}}能否快速算出“4.7×100”或“3,600÷1,000”——因为他们知道乘或除时，数字会在位值表里向左或右移？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_y1XCVsIelg",
@@ -17030,7 +17706,9 @@
         "凭记忆列出 19 以内的所有质数"
       ],
       "assessmentPrompt": "{{name}}能否告诉你什么数叫“质数”——即只能被 1 和它本身整除——并举出 7、11、13 这样的例子？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01"
+      ]
     },
     {
       "id": "mt_A-FyLLLLzy",
@@ -17048,7 +17726,10 @@
         "说明为什么从 2 开始、每次加 4 总得到偶数"
       ],
       "assessmentPrompt": "如果告诉{{name}}“从 3 开始、每次乘 2”，能否写出规律——3、6、12、24、48——并发现它增长方式上有趣的特征？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02",
+        "cn-math-2022:S2.NA.SL.05"
+      ]
     },
     {
       "id": "mt_gxCIASSezX",
@@ -17084,7 +17765,10 @@
         "把图形按 1/2 的比例缩放，求出新的尺寸"
       ],
       "assessmentPrompt": "如果一份食谱做 4 人份、{{name}}想做 6 人份，能否把每种配料都按比例放大——比如把“2 杯面粉”改成“3 杯”？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.04"
+      ]
     },
     {
       "id": "mt_8jFSnXxqQD",
@@ -17103,7 +17787,8 @@
       ],
       "assessmentPrompt": "{{name}}能否看着“3×(4+5)”、先算括号——得到“3×9=27”——而不是只管从左往右乘？",
       "standards": [
-        "ccss-math:5.OA.1"
+        "ccss-math:5.OA.1",
+        "cn-math-2022:S2.NA.SY.03"
       ]
     },
     {
@@ -17122,7 +17807,9 @@
         "用面积图或展开式表示小数乘法"
       ],
       "assessmentPrompt": "{{name}}能否算出“3.47×6”——让小数点对齐在正确位置，并逐位正确进位？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_FvEq4heNBx",
@@ -17140,7 +17827,9 @@
         "在度量情境中把余数理解为小数或分数"
       ],
       "assessmentPrompt": "{{name}}能否用短除法算出“2,184÷12”——盯住每一位，把余数带进下一列？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_lU-2aTRB9f",
@@ -17158,7 +17847,9 @@
         "解决需要把小数金额均分的应用题（如把 £18.60 平均分给 5 人）"
       ],
       "assessmentPrompt": "{{name}}能否用笔算算出“17÷4=4.25”——把除法越过小数点继续算，得到小数答案而非余数？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_WsM4EmdOLe",
@@ -17176,7 +17867,10 @@
         "说明四位数÷两位数的长除法每一步"
       ],
       "assessmentPrompt": "{{name}}能否用长除法算出“1,848÷24”——一步步走“除、乘、减、移下”直到得出答案？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S3.NA.SY.03"
+      ]
     },
     {
       "id": "mt_ilPrU0cbtT",
@@ -17194,7 +17888,9 @@
         "通过与快速心算估算的比较，发现不合理的答案"
       ],
       "assessmentPrompt": "在{{name}}算一道大乘除之前，能否先估算答案大概是多少——再检查最终答案是否落在合理范围？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.02"
+      ]
     },
     {
       "id": "mt_XLP1IM3Qbb",
@@ -17212,7 +17908,9 @@
         "把四位数乘两位数，过程不出错"
       ],
       "assessmentPrompt": "{{name}}能否用长乘法算出“2,347×24”——列成两行，一行算个位、一行算十位，再把结果相加？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_wPgpMJ0-PA",
@@ -17231,7 +17929,9 @@
       ],
       "assessmentPrompt": "{{name}}能否算出“4.6÷1,000=0.0046”——因为他们知道每除以 10，数字就右移一位，即便越过小数点？",
       "standards": [
-        "uk-nc-2013:Ma6/2.3g"
+        "uk-nc-2013:Ma6/2.3g",
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
       ]
     },
     {
@@ -17250,7 +17950,10 @@
         "找出并纠正多步解答中因用错运算而出的错"
       ],
       "assessmentPrompt": "如果给{{name}}一道混合不同运算的多步题——比如算几件不同价格物品的总价——能否正确规划并完成每一步？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.06",
+        "cn-math-2022:S2.NA.SY.03"
+      ]
     },
     {
       "id": "mt_jHgRQ4hR0g",
@@ -17269,7 +17972,8 @@
       ],
       "assessmentPrompt": "如果{{name}}看到“8+4×3”，能否得到 20——而不是 36——因为他们知道先乘后加？",
       "standards": [
-        "uk-nc-2013:Ma6/2.2f"
+        "uk-nc-2013:Ma6/2.2f",
+        "cn-math-2022:S2.NA.SY.03"
       ]
     },
     {
@@ -17288,7 +17992,10 @@
         "心算像 250×3+500 这样的多步混合题，并说明所用策略"
       ],
       "assessmentPrompt": "{{name}}能否完全在心里算出像“(200×6)+350−75”这样的混合运算——一步步跟踪、不用写下来？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S2.NA.SY.04"
+      ]
     },
     {
       "id": "mt_QU5R7Aajy9",
@@ -17306,7 +18013,9 @@
         "解决需要结合情境解释未取整小数答案的问题（如需要几个整容器）"
       ],
       "assessmentPrompt": "如果{{name}}算出 8.63、而题目要求精确到整数，能否正确取整为 9——并说明这种精度在情境中为何重要？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.02"
+      ]
     },
     {
       "id": "mt_4WaKWECpcv",
@@ -17324,7 +18033,10 @@
         "比较两个算式，不计算就判断哪个更大"
       ],
       "assessmentPrompt": "{{name}}能否看着“4×(5+3)”，说“那是 5 加 3 的结果的 4 倍”——把算式当作对运算的描述来读，而不必先算出来？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S3.NA.SL.03"
+      ]
     },
     {
       "id": "mt_xhoOWnhtHq",
@@ -17344,7 +18056,8 @@
       "assessmentPrompt": "{{name}}能否求出 24 与 36 的最大公因数——算出能同时整除两者的最大数——并说明自己是怎么找到的？",
       "standards": [
         "ccss-math:6.NS.4",
-        "uk-nc-2013:KS3.Maths.Num.3"
+        "uk-nc-2013:KS3.Maths.Num.3",
+        "cn-math-2022:S3.NA.SY.01"
       ]
     },
     {
@@ -17408,7 +18121,9 @@
       ],
       "assessmentPrompt": "如果{{name}}算出“252÷7=36”，能否立刻用逆运算检验——“36×7=252”——而不必重做除法？",
       "standards": [
-        "uk-nc-2013:KS3.Maths.Num.6"
+        "uk-nc-2013:KS3.Maths.Num.6",
+        "cn-math-2022:S1.NA.SY.03",
+        "cn-math-2022:S2.NA.SY.03"
       ]
     },
     {
@@ -17428,7 +18143,8 @@
       ],
       "assessmentPrompt": "{{name}}能否写出“fourteen”或“twenty”这样的数字词语——并在生日贺卡或故事书里认读它们而不需帮助？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/NPV/5"
+        "uk-nc-2013:Maths/Y1/NPV/5",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17447,7 +18163,8 @@
       ],
       "assessmentPrompt": "{{name}}能否认读并书写 100 以内的任意数——既能写数字，也能说出它的含义？",
       "standards": [
-        "uk-nc-2013:Maths/Y1/NPV/2"
+        "uk-nc-2013:Maths/Y1/NPV/2",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17468,7 +18185,8 @@
       "assessmentPrompt": "{{name}}能否读出纸上写的“17”、自己也能写出来——并知道每一位数字是什么意思？",
       "standards": [
         "ccss-math:K.CC.3",
-        "uk-nc-2013:Maths/Y1/NPV/5"
+        "uk-nc-2013:Maths/Y1/NPV/5",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17489,7 +18207,8 @@
       "assessmentPrompt": "如果{{name}}有 14 块积木，能否把它看成一个满 10 的塔再加 4 块——理解为“十几”就是“十加几个”？",
       "standards": [
         "ccss-math:1.NBT.2.b",
-        "ccss-math:K.NBT.1"
+        "ccss-math:K.NBT.1",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17509,7 +18228,8 @@
       ],
       "assessmentPrompt": "{{name}}能否立刻告诉你 43 多 10 是多少、71 少 10 是多少——而不必一个一个往上或往下数？",
       "standards": [
-        "ccss-math:1.NBT.5"
+        "ccss-math:1.NBT.5",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -17529,7 +18249,8 @@
       ],
       "assessmentPrompt": "{{name}}能否说明 10 个单件物体捆在一起就成了“一个十”——也正因如此，我们把 10 写成十位是 1、个位是 0？",
       "standards": [
-        "ccss-math:1.NBT.2.a"
+        "ccss-math:1.NBT.2.a",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17550,7 +18271,8 @@
       "assessmentPrompt": "如果给{{name}}看 34、67、21 这三个数，能否从小到大排好——并正确使用 > 或 < 符号？",
       "standards": [
         "ccss-math:1.NBT.3",
-        "uk-nc-2013:Maths/Y2/NPV/4"
+        "uk-nc-2013:Maths/Y2/NPV/4",
+        "cn-math-2022:S1.NA.SY.02"
       ]
     },
     {
@@ -17570,7 +18292,8 @@
       ],
       "assessmentPrompt": "{{name}}能否把“seventy-four”或“one hundred and three”写成数字词语——并在书上或标牌上看到时正确认读？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/NPV/5"
+        "uk-nc-2013:Maths/Y2/NPV/5",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17590,7 +18313,9 @@
       ],
       "assessmentPrompt": "如果问{{name}}“47 和 54 哪个更接近 50？”，能否用数的知识快速回答并说明原因？",
       "standards": [
-        "uk-nc-2013:Maths/Y2/NPV/6"
+        "uk-nc-2013:Maths/Y2/NPV/6",
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SL.01"
       ]
     },
     {
@@ -17610,7 +18335,8 @@
       ],
       "assessmentPrompt": "{{name}}能否从 120 以内的任意数开始数——比如从 87 起一直数到 120 而不乱？",
       "standards": [
-        "ccss-math:1.NBT.1"
+        "ccss-math:1.NBT.1",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17634,7 +18360,8 @@
       "assessmentPrompt": "{{name}}能否用不同方式展示像 346 这样的数——十进制方块、数轴或画图——并说明每种表示展示了什么？",
       "standards": [
         "uk-nc-2013:Ma/KS2/Y3/NPV/4",
-        "uk-nc-2013:Maths/Y2/NPV/3"
+        "uk-nc-2013:Maths/Y2/NPV/3",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17654,7 +18381,8 @@
       ],
       "assessmentPrompt": "{{name}}能否说明 60 表示 6 个十、没有一——也正因如此，个位上要用 0 占位？",
       "standards": [
-        "ccss-math:1.NBT.2.c"
+        "ccss-math:1.NBT.2.c",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17675,7 +18403,8 @@
       "assessmentPrompt": "如果{{name}}看到 47，能否告诉你它有 4 个十（四十）和 7 个一——而不是只把数字读成“四七”？",
       "standards": [
         "ccss-math:1.NBT.2",
-        "uk-nc-2013:Maths/Y2/NPV/2"
+        "uk-nc-2013:Maths/Y2/NPV/2",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17696,7 +18425,9 @@
       "assessmentPrompt": "{{name}}能否在心里快速算出“342 多 10”或“875 少 100”——并知道哪一位变、哪一位不变？",
       "standards": [
         "ccss-math:2.NBT.8",
-        "uk-nc-2013:Ma/KS2/Y3/NPV/1"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/1",
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SY.04"
       ]
     },
     {
@@ -17716,7 +18447,8 @@
       ],
       "assessmentPrompt": "{{name}}能否说明 10 个满的“十”叠在一起就是“一个百”——也正因如此，100 的百位上是 1、其余位是 0？",
       "standards": [
-        "ccss-math:2.NBT.1.a"
+        "ccss-math:2.NBT.1.a",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17736,7 +18468,8 @@
       ],
       "assessmentPrompt": "如果{{name}}有一组 14 个物体，能否告诉你这个数是奇数还是偶数——比如把它们两两配对，看是否剩下单个？",
       "standards": [
-        "ccss-math:2.OA.3"
+        "ccss-math:2.OA.3",
+        "cn-math-2022:S3.NA.SY.01"
       ]
     },
     {
@@ -17757,7 +18490,8 @@
       "assessmentPrompt": "如果给{{name}}一组三位数，如 456、231、789，能否排好顺序并正确使用 > 和 <？",
       "standards": [
         "ccss-math:2.NBT.4",
-        "uk-nc-2013:Ma/KS2/Y3/NPV/3"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/3",
+        "cn-math-2022:S1.NA.SY.02"
       ]
     },
     {
@@ -17777,7 +18511,9 @@
       ],
       "assessmentPrompt": "如果告诉{{name}}“我有 4 个百、3 个十、7 个一，是多少？”，能否拼起来告诉你 437？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y3/NPV/6"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/6",
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SL.01"
       ]
     },
     {
@@ -17798,7 +18534,8 @@
       "assessmentPrompt": "{{name}}能否认读并书写 1000 以内的数——既写数字也写词语——比如把 642 读成“six hundred and forty-two”？",
       "standards": [
         "ccss-math:2.NBT.3",
-        "uk-nc-2013:Ma/KS2/Y3/NPV/5"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/5",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17818,7 +18555,8 @@
       ],
       "assessmentPrompt": "{{name}}能否说明 700 表示 7 个百、没有十也没有一——并用十进制方块或画图展示它的样子？",
       "standards": [
-        "ccss-math:2.NBT.1.b"
+        "ccss-math:2.NBT.1.b",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17839,7 +18577,8 @@
       "assessmentPrompt": "如果{{name}}看到 348，能否告诉你它有 3 个百、4 个十、8 个一——而不是只把数字读成“三四八”？",
       "standards": [
         "ccss-math:2.NBT.1",
-        "uk-nc-2013:Ma/KS2/Y3/NPV/2"
+        "uk-nc-2013:Ma/KS2/Y3/NPV/2",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17859,7 +18598,8 @@
       ],
       "assessmentPrompt": "{{name}}能否在心里快速算出“3,456 多 1,000”或“7,200 少 1,000”——并知道只有千位数字会变？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/NPV/2"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/2",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17879,7 +18619,9 @@
       ],
       "assessmentPrompt": "{{name}}能否把 4,321、1,876、9,045 这样一组四位数从小到大排好——一位一位地比较？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/NPV/5"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/5",
+        "cn-math-2022:S1.NA.SY.02",
+        "cn-math-2022:S2.NA.SY.01"
       ]
     },
     {
@@ -17899,7 +18641,8 @@
       ],
       "assessmentPrompt": "{{name}}能否往回数穿过零进入负数——比如 3、2、1、0、−1、−2、−3——而在零处不迟疑？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/NPV/3"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/3",
+        "cn-math-2022:S3.IP.ZT.01"
       ]
     },
     {
@@ -17919,7 +18662,8 @@
       ],
       "assessmentPrompt": "{{name}}能否把像 6,400 这样的数大致标在 0 到 10,000 的数轴上合适的位置——并说明自己是怎么决定放在哪里的？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/NPV/6"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/6",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17939,7 +18683,8 @@
       ],
       "assessmentPrompt": "如果{{name}}看到 5,347，能否告诉你每一位的数值——5 表示 5,000、3 表示 300、4 表示 40、7 表示 7？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/NPV/4"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/4",
+        "cn-math-2022:S1.NA.SY.01"
       ]
     },
     {
@@ -17959,7 +18704,8 @@
       ],
       "assessmentPrompt": "如果问{{name}}“用 3、7、1、8 这四个数字能组成的最大四位偶数是多少？”，能否有条理地算出来并给出答案？",
       "standards": [
-        "uk-nc-2013:Ma/KS2/Y4/NPV/8"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/8",
+        "cn-math-2022:S2.NA.SY.01"
       ]
     },
     {
@@ -18000,7 +18746,9 @@
       "assessmentPrompt": "{{name}}能否把 4,738 分别四舍五入到 10（4,740）、100（4,700）或 1000（5,000）——并说明自己看的是哪一位来决定？",
       "standards": [
         "ccss-math:3.NBT.1",
-        "uk-nc-2013:Ma/KS2/Y4/NPV/7"
+        "uk-nc-2013:Ma/KS2/Y4/NPV/7",
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S2.NA.SL.01"
       ]
     },
     {
@@ -18019,7 +18767,9 @@
         "认出接下来三项：375,000；475,000；575,000；……"
       ],
       "assessmentPrompt": "{{name}}能否从任意起点起、按 1,000 或 10,000 的步长正着数和倒着数——比如 34,500、44,500、54,500——而不乱套？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_1KkvzwYxbR",
@@ -18037,7 +18787,9 @@
         "从 3 开始倒着一十一十地数：3、2、1、0、–1、–2。"
       ],
       "assessmentPrompt": "如果夜间气温降到 −5°C，白天升到 3°C，{{name}} 能把这两个温度都标在数轴上，并说出白天气温高了几度吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.IP.ZT.01"
+      ]
     },
     {
       "id": "mt_QqG6IdmTSE",
@@ -18055,7 +18807,9 @@
         "说出 50,000 中 5 所代表的数值比 5,000 中 5 大多少倍。"
       ],
       "assessmentPrompt": "{{name}} 能说明在 700 中，7 所代表的数值是 70 中 7 的 10 倍吗——因为向左移动一位，数值就乘以 10？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_JwP9QFv6gQ",
@@ -18073,7 +18827,9 @@
         "把四个六位数从小到大排序。"
       ],
       "assessmentPrompt": "{{name}} 能读写达到百万的数——例如 1,340,000——并把一组大数正确排序吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_To9HdLy8vq",
@@ -18109,7 +18865,9 @@
         "用取整估算 387,412 + 214,560 的和。"
       ],
       "assessmentPrompt": "{{name}} 能把像 346,712 这样的大数四舍五入到最接近的 1,000（347,000）或 10,000（350,000）吗——并说出每次取整要看哪一位数字？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_xMt1TLTs--",
@@ -18127,7 +18885,9 @@
         "把五座城市的人口排序，并求最多与最少之间的差值。"
       ],
       "assessmentPrompt": "如果告诉 {{name}} 某城市人口为 2,347,819，他们能正确读出这个数，并大致说出约有多少百万吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt__casygEB85",
@@ -18145,7 +18905,9 @@
         "用取整估算 4.83 × 2.17 ≈ 5 × 2 = 10。"
       ],
       "assessmentPrompt": "{{name}} 能把像 3.748 这样的小数保留一位小数（3.7）或两位小数（3.75）吗——并说明看哪一位数字来做决定？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_RVK655t391",
@@ -18163,7 +18925,9 @@
         "把 −7、−3、0、2、5 在数轴上排序，并求从 −7 到 5 的间隔。"
       ],
       "assessmentPrompt": "如果一个银行账户从 −£45 变为 +£120，{{name}} 能算出总变化——数过零点得到 £165 吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.IP.ZT.01"
+      ]
     },
     {
       "id": "mt_XNmGwNggdU",
@@ -18181,7 +18945,10 @@
         "把三场活动的出席人数各自四舍五入到最接近的 100,000 后估算总人数。"
       ],
       "assessmentPrompt": "如果 {{name}} 读到月球距离约为 384,400 千米，他们能把它四舍五入到最接近的 10,000 千米，并判断它更接近 380,000 还是 390,000 吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S3.IP.ZT.01"
+      ]
     },
     {
       "id": "mt_HLUqHJ9Y7n",
@@ -18199,7 +18966,9 @@
         "不计算预测 2.56 × 10³，并说明规律。"
       ],
       "assessmentPrompt": "{{name}} 能说明为什么 10² = 100、10³ = 1,000，以及为什么乘 10 只是添一个零——把零的规律与位值联系起来吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ]
     },
     {
       "id": "mt_EDgw64OmfA",
@@ -18217,7 +18986,10 @@
         "比较 6,000 与 0.006 中 6 的数值。"
       ],
       "assessmentPrompt": "{{name}} 能说明在 4.56 中，数字 5 代表 5 个十分之一——比 54 中的 5 小十倍，又比 0.056 中的 5 大十倍吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_Ac7oMWhyPw",
@@ -18235,7 +19007,9 @@
         "把“五又千分之六十二”写成 5.062。"
       ],
       "assessmentPrompt": "{{name}} 能读写像 3.047 或 0.625 这样的小数，说出每位数字的含义（3 个一、0 个十分之一、4 个百分之一、7 个千分之一），并把一组小数排序吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ]
     },
     {
       "id": "mt_Gag_h98jWP",
@@ -18253,7 +19027,9 @@
         "说出 7,045,200 中 7 的数值为七百万。"
       ],
       "assessmentPrompt": "{{name}} 能读写直到千万的数——例如 4,302,617——并说出数中任意一位数字的数值吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ]
     },
     {
       "id": "mt_lNGpnILM5C",
@@ -18272,7 +19048,8 @@
       ],
       "assessmentPrompt": "在 4.378 这个数中，{{name}} 能告诉你 7 代表 7 个百分之一——而不是 7 个十分之一或 7 个千分之一吗？",
       "standards": [
-        "uk-nc-2013:Ma6/2.3g"
+        "uk-nc-2013:Ma6/2.3g",
+        "cn-math-2022:S3.NA.SY.02"
       ]
     },
     {
@@ -18292,7 +19069,8 @@
       ],
       "assessmentPrompt": "{{name}} 能把像 12.3746 千米这样的测量值保留两位小数为 12.37 千米，或保留三位有效数字为 12.4 千米吗——并说明每种精度何时应采用？",
       "standards": [
-        "uk-nc-2013:KS3.Maths.Num.13"
+        "uk-nc-2013:KS3.Maths.Num.13",
+        "cn-math-2022:S3.NA.SY.02"
       ]
     },
     {
@@ -18460,7 +19238,9 @@
         "各举一个等可能与不等可能结果的例子，并说明区别。"
       ],
       "assessmentPrompt": "{{name}} 能区分公平情境——例如掷普通骰子时每个数字机会相同——与不公平的情境，例如一袋里某一种颜色远多于另一种吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.SP.KN.02"
+      ]
     },
     {
       "id": "mt_iFFKZd-Vgv",
@@ -18478,7 +19258,10 @@
         "说明为什么从多数是红球的袋子里取出红球是“很可能”但不是“一定”。"
       ],
       "assessmentPrompt": "{{name}} 能正确使用“一定”“很可能”“不太可能”“不可能”这些词吗——例如知道在普通骰子上掷出 7 是不可能的，而掷出偶数是很可能的？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.SP.KN.01",
+        "cn-math-2022:S3.SP.KN.02"
+      ]
     },
     {
       "id": "mt_UcGn2hjhYU",
@@ -18496,7 +19279,9 @@
         "说明为什么有些事件更接近“一半可能”，有些更接近“一定”或“不可能”。"
       ],
       "assessmentPrompt": "如果一个袋子有 8 个红球和 2 个蓝球，{{name}} 理解取到红球比取到蓝球更可能吗——并且能把不同事件按从最不可能到最可能排序吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.SP.KN.02"
+      ]
     },
     {
       "id": "mt_-c4Ca_nBzX",
@@ -18532,7 +19317,11 @@
         "从袋中取棋子，记录结果，并说明结果是否符合预测。"
       ],
       "assessmentPrompt": "{{name}} 是否做过像多次掷硬币或掷骰子、把结果记在计数表中、并注意出现了什么规律这样的实验？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.SP.KN.01",
+        "cn-math-2022:S3.SP.KN.02",
+        "cn-math-2022:HX.SJ"
+      ]
     },
     {
       "id": "mt_Zt30Gxi-qp",
@@ -18752,7 +19541,10 @@
         "将条形图与表格、双数轴等其他表征比较，说明各自何时有用。"
       ],
       "assessmentPrompt": "如果 {{name}} 要把 30 张贴纸按 2:3 分给两个朋友，他们能画一张条形图——把一条分成 5 个相等格子——并由此算出每人应得多少，而不是瞎猜吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04",
+        "cn-math-2022:HX.JH"
+      ]
     },
     {
       "id": "mt_ESgc4YBw-a",
@@ -18770,7 +19562,11 @@
         "定义“比例因子”，用它说明一个图形被放大或缩小了多少。"
       ],
       "assessmentPrompt": "如果 {{name}} 把东西按 3 份和 2 份分配，他们能说清比（如 3:2）与比例（如 5 份中的 3 份）的区别——表明知道每个词的含义吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04",
+        "cn-math-2022:S3.GG.WY.03",
+        "cn-math-2022:S3.SP.SJ.04"
+      ]
     },
     {
       "id": "mt_PNSyfH56eQ",
@@ -18788,7 +19584,9 @@
         "用已知的百分数事实，说明求任意数量百分数的策略。"
       ],
       "assessmentPrompt": "如果一件毛衣原价 £40，打八五折，{{name}} 能算出折扣多少、打折后售价多少吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.04"
+      ]
     },
     {
       "id": "mt_h0gJcSuwdL",
@@ -18806,7 +19604,9 @@
         "在比的情境中说明两个量之间的倍数关系。"
       ],
       "assessmentPrompt": "如果一个配方中每 200 克面粉用 3 个鸡蛋，{{name}} 能算出 600 克面粉需要多少个鸡蛋吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04"
+      ]
     },
     {
       "id": "mt_2OtRUM_0zW",
@@ -18824,7 +19624,9 @@
         "用比例尺放大或缩小一个图形，并验证各边都成相同比。"
       ],
       "assessmentPrompt": "如果 {{name}} 有一张比例尺为 1 厘米代表 5 米的图，图上某房间长 3.5 厘米，他们能量出房间的实际长度吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.GG.WY.03"
+      ]
     },
     {
       "id": "mt_FnUJMXPUZX",
@@ -18842,7 +19644,9 @@
         "用分数知识说明，按 2:3 分配意味着其中一人得到总数的 2/5。"
       ],
       "assessmentPrompt": "如果三个朋友分 24 颗糖，其中一人得到的是另外两人的两倍，{{name}} 能算出每人各得多少吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04"
+      ]
     },
     {
       "id": "mt_kLQOzZYrd5",
@@ -18863,7 +19667,8 @@
       "standards": [
         "ccss-math:6.RP.3b",
         "ccss-math:7.RP.1",
-        "uk-nc-2013:KS3.Maths.Ratio.10"
+        "uk-nc-2013:KS3.Maths.Ratio.10",
+        "cn-math-2022:S2.NA.SL.03"
       ]
     },
     {
@@ -18884,7 +19689,8 @@
       "assessmentPrompt": "如果 £60 按 2:3 分给两人，{{name}} 能算出每人各得多少吗？",
       "standards": [
         "ccss-math:6.RP.3",
-        "uk-nc-2013:KS3.Maths.Ratio.5"
+        "uk-nc-2013:KS3.Maths.Ratio.5",
+        "cn-math-2022:S3.NA.SL.04"
       ]
     },
     {
@@ -18905,7 +19711,9 @@
       "assessmentPrompt": "如果班上有 15 名男生和 20 名女生，{{name}} 能把男生数表示为全班总数的分数，并说清这个分数小于还是大于二分之一吗？",
       "standards": [
         "ccss-math:6.RP.1",
-        "uk-nc-2013:KS3.Maths.Ratio.3"
+        "uk-nc-2013:KS3.Maths.Ratio.3",
+        "cn-math-2022:S3.NA.SY.03",
+        "cn-math-2022:S3.NA.SY.04"
       ]
     },
     {
@@ -18926,7 +19734,8 @@
       "assessmentPrompt": "如果一家商店说一台电视的价钱是其原价的 130%，{{name}} 理解这是什么意思吗——并能由原价算出新价吗？",
       "standards": [
         "ccss-math:6.RP.3c",
-        "uk-nc-2013:KS3.Maths.Num.10"
+        "uk-nc-2013:KS3.Maths.Num.10",
+        "cn-math-2022:S3.SP.SJ.04"
       ]
     },
     {
@@ -18945,7 +19754,10 @@
         "用复合计量计算——例如算出一辆 2 小时行驶 120 英里的汽车的速度。"
       ],
       "assessmentPrompt": "如果 {{name}} 在解一道关于速度或密度的问题，他们能解释“复合单位”的意思，并分清正比例（一个量增多另一个也增多）与反比例（一个增多另一个减少）吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04",
+        "cn-math-2022:S3.NA.SL.05"
+      ]
     },
     {
       "id": "mt_FspV_imUGK",
@@ -18963,7 +19775,9 @@
         "读比例图求未知值——例如“若 3 千克 £6，则 5 千克多少钱？”"
       ],
       "assessmentPrompt": "如果 {{name}} 在比较购买不同张数电影票的费用，他们能画一张比例图——一条过零点的直线——并据此读出任意张数的费用，而不必每次重新计算吗？",
-      "standards": []
+      "standards": [
+        "cn-math-2022:S3.NA.SL.05"
+      ]
     },
     {
       "id": "mt_XWSGuFW7It",
@@ -18983,7 +19797,8 @@
       "assessmentPrompt": "如果一种冰沙用橙汁和芒果汁按 3:2 调配，{{name}} 能化简这个比、把它写成分数，并算出给定总量中各需多少吗？",
       "standards": [
         "ccss-math:6.RP.1",
-        "uk-nc-2013:KS3.Maths.Ratio.4"
+        "uk-nc-2013:KS3.Maths.Ratio.4",
+        "cn-math-2022:S3.NA.SL.04"
       ]
     },
     {
@@ -19004,7 +19819,8 @@
       "assessmentPrompt": "如果 {{name}} 看一张 1 厘米 = 50 千米的地图，他们能量出图上相距 4.5 厘米的两座城市的实际距离吗？",
       "standards": [
         "ccss-math:7.RP.2b",
-        "uk-nc-2013:KS3.Maths.Ratio.2"
+        "uk-nc-2013:KS3.Maths.Ratio.2",
+        "cn-math-2022:S3.GG.WY.03"
       ]
     },
     {
@@ -19025,7 +19841,11 @@
       "assessmentPrompt": "{{name}} 能自信地在单位间换算吗——例如千米换米、千克换克，或小时和分钟统一为分钟——包括多步问题？",
       "standards": [
         "ccss-math:6.RP.3d",
-        "uk-nc-2013:KS3.Maths.Ratio.1"
+        "uk-nc-2013:KS3.Maths.Ratio.1",
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S3.GG.RC.03",
+        "cn-math-2022:S3.GG.RC.04",
+        "cn-math-2022:S2.IP.ZT.02"
       ]
     },
     {
@@ -19046,7 +19866,8 @@
       "assessmentPrompt": "如果一辆自行车原价 £250，涨价 8%，{{name}} 能算出新价吗——而若一个储蓄账户年单利 3%，£500 存 4 年能得多少利息？",
       "standards": [
         "ccss-math:7.RP.3",
-        "uk-nc-2013:KS3.Maths.Ratio.8"
+        "uk-nc-2013:KS3.Maths.Ratio.8",
+        "cn-math-2022:S3.SP.SJ.04"
       ]
     },
     {
@@ -19068,7 +19889,8 @@
       "standards": [
         "ccss-math:7.RP.2",
         "ccss-math:7.RP.2d",
-        "uk-nc-2013:KS3.Maths.Ratio.9"
+        "uk-nc-2013:KS3.Maths.Ratio.9",
+        "cn-math-2022:S3.NA.SL.05"
       ]
     },
     {
@@ -19092,7 +19914,8 @@
         "ccss-math:7.RP.2a",
         "ccss-math:7.RP.2c",
         "uk-nc-2013:KS3.Maths.Ratio.6",
-        "uk-nc-2013:KS3.Maths.Ratio.7"
+        "uk-nc-2013:KS3.Maths.Ratio.7",
+        "cn-math-2022:S3.NA.SL.04"
       ]
     },
     {

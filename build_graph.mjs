@@ -69,7 +69,7 @@ for (const d of deps) {
 const cnCurricula = cnStdRaw.curricula || [];
 // 1) 启发式对应：把中国课标条目挂到现有节点（同主题 + 年龄重叠 + 领域/名称关键词）
 for (const cur of cnCurricula) for (const t of cur.topics || []) {
-  if (t.selfOnly || !t.matchSubject) continue;
+  if (t.selfOnly || t.supersededBy || !t.matchSubject) continue; // 已被细粒度课标取代的条目不再启发式挂载
   const subj = t.matchSubject, kws = t.matchDomains || [], lo = t.ageLo ?? 0, hi = t.ageHi ?? 99;
   for (const n of nodes) {
     if (n.subject !== subj) continue;

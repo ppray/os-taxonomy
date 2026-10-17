@@ -1,0 +1,6592 @@
+{
+  "curriculum": "cn-math-2022",
+  "subject": "数学",
+  "note": "每个数学微主题（mt_*）对《义务教育数学课程标准（2022年版）》小学部分的对齐记录。status: aligned=对上了课标条目；beyond-primary=中国课标中属于初中及以后；cn-out-of-scope=中国课标没有（如英制单位、罗马数字）。relation: exact=主题与条目基本一致；partial=主题只覆盖条目的一部分，或条目只覆盖主题的一部分。cnStage=所对条目中最早的学段（不计核心素养 HX.*）。review: llm-draft=由 Claude 依据课标逐条起草、尚未经教师审校；审校后改为 teacher-reviewed。topics.json 中 cn-math-2022:* 的 key 由 scripts/sync-cn-alignment.mjs 从本文件同步，请只改本文件。",
+  "method": "LLM 起草：按领域分批，每个微主题只在对应领域的课标条目中选择；参考其原有 CCSS/英国课程编码判断年级。",
+  "alignmentCount": 503,
+  "alignments": [
+    {
+      "topicId": "mt_yJmvUCCym7",
+      "topicName": "加法与减法应用题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "10以内加减解决问题，一年级\"解决问题\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_OvyoRo47K-",
+      "topicName": "加法即合并两组",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "加法的意义（合并）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_e8CZ7E5qW7",
+      "topicName": "凑十（10的组合）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "凑十，20以内进位加法的基础",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_7XcCG43ZZW",
+      "topicName": "把10以内的数拆成数对",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "10以内数的分与合",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_PgsHGYJMH-",
+      "topicName": "用直观方式表示加减法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "用实物和图示表示加减法的意义",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_zuKAX6lcYR",
+      "topicName": "减法即拿走或分开",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "减法的意义（去掉、分开）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_mr_Vk7FGzK",
+      "topicName": "加法与减法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "20以内加减法（含0的运算）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_VAWV_l7J0D",
+      "topicName": "早期应用题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "20以内一步解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ghF3Vv6taM",
+      "topicName": "5以内熟练加减",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "5以内加减法，一年级上册起点",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_s2mfRBoTal",
+      "topicName": "数的组合",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "熟练口算20以内加减法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_8RmpkDxT9L",
+      "topicName": "认读 +、− 和 = 符号",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "认识 +、−、= 符号",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_I5j1ZWo2cn",
+      "topicName": "两位数加减整十的心算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "两位数加减整十数，百以内口算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Zx1xZM-RbX",
+      "topicName": "三个小数相加",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "连加，可用凑十",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_UQnAFPs83F",
+      "topicName": "两个两位数相加",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "两位数加减两位数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_glPPG-kTQY",
+      "topicName": "100以内的加法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "100以内加法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_PpWSHA-0kv",
+      "topicName": "加法与减法策略",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "接着数、倒着数的计算策略",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_m1W6nTQJ2b",
+      "topicName": "20以内的加法与减法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "凑十法、破十法，20以内加减",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_QCgbiVrwnp",
+      "topicName": "加法顺序任意",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04",
+        "cn-math-2022:S2.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "一年级体验交换加数，加法交换律正式学习在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ezc2m_0dzN",
+      "topicName": "求加法中的未知数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "减法是加法的逆运算（想加算减）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt__we2TDqnJx",
+      "topicName": "10以内熟练加减",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "10以内加减法熟练",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3e_PQxwC12",
+      "topicName": "熟练的加法与减法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "20以内加减熟练并推到百以内",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_T76hKqXf0z",
+      "topicName": "分组相加",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "加法结合律属第二学段运算律",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ehGS_uVSJv",
+      "topicName": "逆运算：加法抵消减法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "加减互逆，用于验算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_AKAtWEwpcj",
+      "topicName": "两位数加减的心算（6岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "两位数加减一位数口算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_wzAZ8qFDc4",
+      "topicName": "加法与减法的心算和笔算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04",
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "口算笔算加减并解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_HJTuIGHvcR",
+      "topicName": "减去整十数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "整十数加减整十数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3JgrHY221M",
+      "topicName": "加减法中的未知数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "求加减式中的未知数（□+5=8），依据加减关系",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_oIzycTBeE4",
+      "topicName": "等号的含义",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "等号表示相等，课标\"感悟相等和不等关系\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_SrrsLiJkr3",
+      "topicName": "加法与减法（7岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "三位数加减法笔算（第一学段学业要求）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_TiQbi027PE",
+      "topicName": "把数相加",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "多个两位数连加",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_zxST3MarI9",
+      "topicName": "加法与减法策略（7岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "课标强调\"探索加减法的算理与算法\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ewmuMMPAzP",
+      "topicName": "1000以内的加法与减法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "1000以内加减法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_QaYfeVL-0C",
+      "topicName": "用四舍五入估算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "估算属第二学段；\"四舍五入\"求近似数在课标中未单列",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_cChv2j_-Da",
+      "topicName": "100以内熟练加减",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "100以内加减熟练",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt__t4afSyZRm",
+      "topicName": "20以内熟练加减",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "熟练口算20以内加减法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_oDU_8zMZjp",
+      "topicName": "两位数加减的心算（7岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "三位数加减一位数口算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xPqczp7zPX",
+      "topicName": "三位数加减几百的心算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "三位数加减整百数口算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_aHQ9kNt3is",
+      "topicName": "三位数加减几十的心算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "三位数加减整十数口算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_XuHmIn2xje",
+      "topicName": "缺数问题（7岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03",
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "填未知数的加减题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_19j_5AuuQI",
+      "topicName": "数轴上的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "课标小学未单列\"数轴\"，教材在直线上表示数；负数时才引入数轴概念",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_yTWxkzzoOZ",
+      "topicName": "两步应用题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "100以内两步加减解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_mpS-JK_p_m",
+      "topicName": "加法与减法（8岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "课标第一学段止于三位数加减，四位数加减为自然延伸",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_HFRYjTb-Z5",
+      "topicName": "1000以内熟练加减",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "1000以内加减熟练",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_CDa5AVakLE",
+      "topicName": "两步加法与减法问题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S2.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "两步问题，整数混合运算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_anAe11HAEH",
+      "topicName": "两步方程",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S3.NA.SL.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "两步问题属第二学段；\"列方程\"2022版移至初中，小学只到用字母表示",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_-F_Lv_apzH",
+      "topicName": "加法与减法（9岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S2.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "多步加减解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_G3sVFQNCme",
+      "topicName": "用四舍五入验算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SL.01",
+        "cn-math-2022:S3.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "用估算检验结果",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Yw1_4Nfsql",
+      "topicName": "熟练的加法与减法（9岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "多位数加减竖式，课标只明确到三位数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_MWXPiaTnEu",
+      "topicName": "加法与减法的心算（9岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "更大数的加减口算，课标未单列",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_M1tnXqmYbn",
+      "topicName": "加法与减法（10岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.06"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "含大数和小数的多步问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_JH_6RpNWjr",
+      "topicName": "加法与减法策略（10岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "一位小数加减在第二学段，到百分位属第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_9QzSnn8m80",
+      "topicName": "正数与负数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.IP.ZT.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "负数的意义在第三学段综合与实践；负数运算属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_YFS7JFk64p",
+      "topicName": "含两个未知数的方程",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "用字母表示并枚举满足条件的数对；二元方程属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hBZwbst0ow",
+      "topicName": "线性数列",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.55,
+      "rationale": "探索数列规律；含负数的数列属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_fxPtngwUfz",
+      "topicName": "数字规律的关系",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.05",
+        "cn-math-2022:S3.GG.WY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "由规则生成数对并在方格纸上描点",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_gu0NPDvlhY",
+      "topicName": "系统列举",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.KN.01",
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.55,
+      "rationale": "有序列举所有可能（教材\"数学广角·搭配\"）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Jvg8X0N5u0",
+      "topicName": "使用简单公式",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "用字母表示周长、面积公式并求值",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_i9rJbuFO3p",
+      "topicName": "列代数方程",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.55,
+      "rationale": "用字母表示未知数属小学；列方程解应用题2022版移至初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_KwdjWEmMNo",
+      "topicName": "代数记法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.55,
+      "rationale": "字母式子的简写（3y、ab）属小学；a²属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_z5iwdZyeDr",
+      "topicName": "代数变形",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "在表达式、表格和图像间转换（函数表示）属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_nNNVrLqPW3",
+      "topicName": "合并同类项",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "合并同类项（整式加减）属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hVpGOEz2kG",
+      "topicName": "坐标（11岁+）",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.85,
+      "rationale": "四象限坐标属初中；小学只用自然数数对",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_FX4a2Q8XXN",
+      "topicName": "展开单层括号",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "去括号展开属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_g_fkAqmz72",
+      "topicName": "表达式与方程词汇",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.8,
+      "rationale": "方程、不等式概念2022版均在初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_yXO7lQ9Yn7",
+      "topicName": "生成数列",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "等差、等比数列的通项属初中及以上",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_i2F1nWxJjv",
+      "topicName": "数轴上的数",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "不等式及其解集属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_QhFEDyIwSO",
+      "topicName": "解线性方程",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "解一元一次方程属初中（2022版小学不再教简易方程）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_vHzVa3SURC",
+      "topicName": "代入公式",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "把数值代入含字母的式子求值",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_uESbzWCZIq",
+      "topicName": "因式分解表达式",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "因式分解属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_WBdHkc2HTf",
+      "topicName": "线性函数图",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "一次函数图像属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_HRKzwEQJgO",
+      "topicName": "第n项规律",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.85,
+      "rationale": "数列通项属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_-3udyo6VyB",
+      "topicName": "绘制线性图",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "画一次函数图像属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3qrCtdoVAU",
+      "topicName": "简单公式",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "小学只做 s=vt 与 v=s÷t 这类简单变式；一般的公式变形属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Yw27nweoTj",
+      "topicName": "估算答案（13岁+）",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "用函数图像估计方程近似解属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_KhS7K1Mgrw",
+      "topicName": "展开双层括号",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "多项式乘法属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_GZuoYaDdWd",
+      "topicName": "二次函数图",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "二次函数属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_mqgu72aCMz",
+      "topicName": "联立方程",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "二元一次方程组属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt__h7hvT4tEb",
+      "topicName": "比较群组：多还是少",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "一年级\"比多少\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_dmNvjroCPT",
+      "topicName": "一共多少个？",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "数数与基数，1~10的认识",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_sYpKWbq5ra",
+      "topicName": "每次多一个",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "数的顺序，后一个数比前一个多1",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_WcfaSfVT33",
+      "topicName": "一一对应地数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "一一对应地数，教学提示\"对应的方法\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_pAcaehday5",
+      "topicName": "用物体表示数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "用小棒、圆片等表示数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_nvdpxAJTBG",
+      "topicName": "2个2个数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "2个2个、5个5个地数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_yqAL6O5i_v",
+      "topicName": "数到20的物体",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "20以内数的认识",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_M5PPDJStGm",
+      "topicName": "背数到100",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "100以内数的认识与数数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt__YRJ23GuIK",
+      "topicName": "比较1到10的两个数字",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "比较10以内数的大小",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_aHAM29nidj",
+      "topicName": "正数与倒数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "按3递增数数，与乘法口诀相关",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_OkSJfrmFb_",
+      "topicName": "正数与倒数（6岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "按10数数，百以内数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_M2v1A9OEuM",
+      "topicName": "1000 以内的数数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "1000以内数数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_IzQvs7k_sE",
+      "topicName": "跳数（4、8、50、100）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.05",
+        "cn-math-2022:S1.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "按4、8数数，关联乘法口诀",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_7rJM8eWUfw",
+      "topicName": "按 6 跳数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "按6、7、9数数关联乘法口诀；中国二年级已学完表内乘法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xppl18avyY",
+      "topicName": "分类整理",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.SP.FL.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "按类别分类并数出每类数量",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_c29FaCTNsx",
+      "topicName": "象形统计图与统计表",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.SP.FL.01",
+        "cn-math-2022:S2.SP.SJ.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "象形统计图、统计表与记录方法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_u5HkSxZECM",
+      "topicName": "象形统计图与统计表（6 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.01",
+        "cn-math-2022:S2.SP.SJ.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.55,
+      "rationale": "数据收集与呈现的用语；连续数据等术语课标未要求",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ylXdiVRAYv",
+      "topicName": "把数据分类整理",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.SP.FL.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "把数据分成几类并整理",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_1VSfm9yiLn",
+      "topicName": "把数据分类整理（6 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.SP.FL.01",
+        "cn-math-2022:S2.SP.SJ.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "根据分类结果回答多少、相差多少",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_VhBH8wrFC6",
+      "topicName": "图片统计图与条形图",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "条形统计图在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ChjMU2GDJa",
+      "topicName": "条形图",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.03",
+        "cn-math-2022:S3.SP.SJ.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "条形图属第二学段；折线图属第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_r8XnXwRA6g",
+      "topicName": "用物体表示数（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "一格表示多个单位的条形统计图",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_H6LlpWgEYS",
+      "topicName": "读取并比较条形图",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "读条形统计图解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Cqm8iy48UI",
+      "topicName": "读取表格",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.04",
+        "cn-math-2022:S2.IP.ZT.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "读统计表与列车时刻表（24时记时法）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_fmm-P17Vka",
+      "topicName": "统计分析词汇",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.05",
+        "cn-math-2022:S3.SP.SJ.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.45,
+      "rationale": "平均数、扇形图属小学；中位数、众数、散点图属初中及以上",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Cg8VPguS_V",
+      "topicName": "计算平均数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.SP.SJ.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "平均数的计算与意义（中国第二学段）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_bESTSBB0wK",
+      "topicName": "折线图（10 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.85,
+      "rationale": "扇形统计图与折线统计图",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_IHipFGTFEY",
+      "topicName": "理解分数",
+      "status": "cn-out-of-scope",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.65,
+      "rationale": "原文为 line plot（点状图），中国课标没有；bewho 译本误作\"折线图\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_XSXnTQoQ4l",
+      "topicName": "比较测量值",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "中位数、众数、极差比较分布属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_eKJG-0eC6D",
+      "topicName": "象形统计图与统计表（11 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.02",
+        "cn-math-2022:S2.SP.SJ.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.55,
+      "rationale": "按数据类型选统计图；分组数据的频数分布属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_BdAeZJUOir",
+      "topicName": "散点图",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "散点图与相关性超出义务教育课标（高中统计）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_8atyuvPUZc",
+      "topicName": "散点图与相关",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "散点图与最佳拟合线超出义务教育课标（高中统计）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_g3W0mdADVu",
+      "topicName": "找出二等分和四等分（5 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "四分之一；分数的初步认识在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_-hTTat0mBR",
+      "topicName": "什么是二等分？",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "一半；分数的初步认识在第二学段，一年级只有\"平均分\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hyvHv2BCwb",
+      "topicName": "把图形分成更多等分",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "平均分的份数越多每份越小",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_vKcxX6iNOA",
+      "topicName": "分数记法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "分数各名称；真分数、假分数、带分数、最简分数在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_cFltwUQi-d",
+      "topicName": "求一个量的几分之几",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "一个整体或一些物体的几分之几",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xACS3rWWDp",
+      "topicName": "图形的二等分与四等分",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "把圆、长方形平均分成2份、4份",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_MyGblah2yY",
+      "topicName": "理解分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "简单分数与2/4=1/2的直观体会",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_IfEgu0X449",
+      "topicName": "比较分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "比较几分之一和同分母分数的大小",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_SsLWS_APM7",
+      "topicName": "比较分数（7 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "分数的简单应用",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_FbDKeLfBCo",
+      "topicName": "等值分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "等值分数（分数的基本性质）在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Kr3IyA6m-O",
+      "topicName": "数轴上的分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "在直线上表示简单分数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_a1FdAsRKOF",
+      "topicName": "简单的分数加法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "同分母分数加减（不超过1）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Xp-rj46S2w",
+      "topicName": "把图形分成相等的部分（7 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "平均分成2、3、4份并用几分之一描述",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_YzM5goBctT",
+      "topicName": "十分之一",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "十分之几与一位小数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_k2WE0-22-4",
+      "topicName": "单位分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "一些物体的几分之几",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_CBHwluE6Lp",
+      "topicName": "同分母分数加法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "同分母加减属第二学段；结果大于1涉及假分数属第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_HnKbuCliNS",
+      "topicName": "比较分数（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "比较分子相同或分母相同的分数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_TqDq6jyOmL",
+      "topicName": "十分之一和百分之一的十进制等值",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "十分之几、百分之几与小数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_W17Kbwm0-u",
+      "topicName": "小数与百分数记法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.SP.SJ.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "小数与百分数的记法；百分数在统计与概率领域",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Fl7b8q9pI1",
+      "topicName": "小数位值",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.55,
+      "rationale": "小数的近似数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_IegHBHERVa",
+      "topicName": "小数位值（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "比较两位小数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_wB-GBDkoNr",
+      "topicName": "小数与分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "用分数和小数解决度量和钱的问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_kDMKJ5Ztt6",
+      "topicName": "除以 10 和 100",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "除以10、100引起的小数点移动",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_FP-mjXaq3B",
+      "topicName": "等值分数（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "等值分数（分数的基本性质）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Ep7TDFuYUa",
+      "topicName": "数轴上的等值分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "数轴上的等值分数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_DRlbMok2lT",
+      "topicName": "分数—小数等值",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "常见分数与小数互化",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_idbKDrf9qZ",
+      "topicName": "作为图形一部分的分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "用面积平均分理解几分之一",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3y7xKP9MjU",
+      "topicName": "求一个量的几分之几（较难）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "求一个数的几分之几：三年级有简单应用，分数乘法在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ndGqFPWyen",
+      "topicName": "整体的几分之几",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "分数单位与几个分数单位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_AYzE1EAvI0",
+      "topicName": "整体的几分之几（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "假分数与整数的关系",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_NoB20kVa4w",
+      "topicName": "数轴上的分数（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "在直线上表示分数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_doX1BhmFgk",
+      "topicName": "十分之一（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "百分之一与两位小数（小数的意义）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_70qDTI14td",
+      "topicName": "带分数的加减",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "带分数加减",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_-V7EnqU7gG",
+      "topicName": "异分母分数加法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "异分母分数加减（通分）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ZLqYE7la4Z",
+      "topicName": "加法与减法文字题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "同分母分数加减解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_933BohS9BH",
+      "topicName": "比较小数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "比较小数大小",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_SXbZ3bC9z7",
+      "topicName": "比较分数（9 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "比较异分母分数大小",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_NaqEP8xDhZ",
+      "topicName": "把十分之一转换为百分之一",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "十分之几化成百分之几再相加",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Ii1hV4V5ql",
+      "topicName": "小数位值（9 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "两位小数的近似数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Vi4Vo5xs_g",
+      "topicName": "十分之一与百分之一的小数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "小数的意义：十分之几、百分之几",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_sA2OvTiech",
+      "topicName": "三位小数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "三位小数的计算问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ebPelt-qAl",
+      "topicName": "等值分数（9 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "分数的基本性质",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_VgOePicFYK",
+      "topicName": "分数加法概念",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "分数加减是分数单位的合并与拆分",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_HJA2Oz-Zh1",
+      "topicName": "整体的几分之几（9 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "分数乘整数解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_o_p-3tCxiM",
+      "topicName": "带分数与假分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "真分数、假分数和带分数互化",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_TgHxujL81r",
+      "topicName": "分数乘法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "分数乘整数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_4ubP_RMg9o",
+      "topicName": "百分数与小数等值",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.04",
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "百分数与小数、分数互化；百分数在统计与概率领域",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_kdWoAel3Zl",
+      "topicName": "十分之一（9 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "千分之几与三位小数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_09sySPqM9Z",
+      "topicName": "理解分数（9 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "几分之几是几个分数单位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ZM9mhHsyYZ",
+      "topicName": "理解百分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "百分数的意义（2022版放在统计与概率领域）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_14T5yPXUq_",
+      "topicName": "异分母分数加法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "异分母分数（含带分数）加减",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_gx6KQK5-Kx",
+      "topicName": "分数面积",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.55,
+      "rationale": "用面积模型理解分数乘分数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_PL9VkDwXfh",
+      "topicName": "比较分数（10 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "比较并排列分数（含假分数）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_4K1dr204Hi",
+      "topicName": "小数与分数（10 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.03",
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "分数与除法的关系，分数化小数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_1PAWhRhpdg",
+      "topicName": "除以分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "整数除以分数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ifPDOYvUqm",
+      "topicName": "除以分数（单位分数）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "分数除以整数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_rCMdwG-YOE",
+      "topicName": "单位分数与整数的除法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.06"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "分数除法解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_4Km38F4L-6",
+      "topicName": "整体的几分之几（10 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.85,
+      "rationale": "分数与除法的关系 a/b=a÷b",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_e7filQgayF",
+      "topicName": "分数文字题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "异分母分数加减解决问题并估算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_VKW8lOcFaw",
+      "topicName": "乘法即缩放",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "积与因数的大小关系",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_AabJisinfi",
+      "topicName": "分数乘法（10 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "分数乘法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_lvaSGHwvQ5",
+      "topicName": "真实情境中的分数乘法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.06"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "分数乘法解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_b7T-CjOYUR",
+      "topicName": "约分",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01",
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "约分与通分（用公因数、公倍数）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_SBkTGjiZjZ",
+      "topicName": "小数与分数（11 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "小数与分数互化",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_9Y96vxG_LH",
+      "topicName": "分数除法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "分数除以分数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_gNUE4B3vuk",
+      "topicName": "带分数与假分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "分数小数四则属小学；含负数的运算属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_J339bO7qLe",
+      "topicName": "分数乘法（11 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.SP.SJ.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "求一个数的几分之几、百分之几",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_KJeEeTutJI",
+      "topicName": "平面图形",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "认识圆、三角形、长方形、正方形",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Qcp2d_kuta",
+      "topicName": "立体图形",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "第一学段认识长方体、正方体、圆柱、球；圆锥在第三学段，棱锥小学不学",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_qeZYF6HZ4o",
+      "topicName": "位置语言",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "上下、前后、左右描述位置（主题活动\"我的教室\"）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_yGv8doDAmp",
+      "topicName": "立体图形（5 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "直观描述平面与立体图形的特征",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_2VR963szuk",
+      "topicName": "搭建与绘制图形",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "动手搭建和画图形",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_XjwUlmxdCT",
+      "topicName": "组合简单图形",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "用简单图形拼图",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_mnEVZNkX3p",
+      "topicName": "平面图形与立体图形",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "区分平面图形与立体图形",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Y9XKzLrUAZ",
+      "topicName": "转动与方向",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.WY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.5,
+      "rationale": "整圈、半圈等转动；课标在第二学段才感受旋转现象",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_UooUHC_V7U",
+      "topicName": "立体图形上的平面图形",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "说出立体图形某个面的形状（例24）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_sBcRdUfAzV",
+      "topicName": "平面图形（6 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01",
+        "cn-math-2022:S2.GG.WY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "平面图形的边数；对称现象在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_bfhng6mOuy",
+      "topicName": "三角形中的角（6 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "按本质特征辨认图形（与颜色、方向、大小无关）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_QNxFnxikCN",
+      "topicName": "用立体图形搭建",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "用立体图形搭组合体",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_MqqR7VUoz1",
+      "topicName": "组合图形",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "平面图形的拼组（七巧板）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Mnodea7mG_",
+      "topicName": "棱、顶点与面",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "长方体的面、棱、顶点在第三学段；第一学段只直观描述",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_WXW0hjNhph",
+      "topicName": "规律与数列",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "找规律（图形与数的排列）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_TdV9YGJEoY",
+      "topicName": "位置、方向与运动",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.04",
+        "cn-math-2022:S2.GG.WY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "位置与方向在第一学段；旋转在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_fEuoBYw6bU",
+      "topicName": "平面与立体图形的分类",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01",
+        "cn-math-2022:S1.SP.FL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "按特征给图形和物品分类",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_vJUa62bxeR",
+      "topicName": "平面图形（7 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.06",
+        "cn-math-2022:S1.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "画平面图形，从不同角度观察立体图形",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_zuOGOGFAKb",
+      "topicName": "三角形中的角（7 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.01",
+        "cn-math-2022:S2.GG.RC.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "按特征辨认三角形、四边形等多边形",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_u23IGDxOpk",
+      "topicName": "平行线与垂线",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "平行与垂直",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_MFfYcnv6Tv",
+      "topicName": "直角与转动",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "直角及其与平角、周角的关系",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_8OAGVdeTJ_",
+      "topicName": "理解角",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "角的初步认识",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hRZyKvz1KN",
+      "topicName": "平面图形（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04",
+        "cn-math-2022:S2.GG.WY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "轴对称现象在第二学段；对称轴与补全在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_i5_HnoFOYw",
+      "topicName": "坐标（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "用数对在方格纸上确定点（第三学段）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Uq5vYqboCR",
+      "topicName": "描述运动",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "在方格纸上描述平移（第三学段）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_jBQS-CicNn",
+      "topicName": "第一象限坐标",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "用有序数对（自然数）表示位置",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hR2Y7NhMSY",
+      "topicName": "对称轴",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "补全轴对称图形",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_vnJEztczji",
+      "topicName": "立体图形的展开图",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "长方体、正方体、圆柱的展开图；棱柱棱锥展开图属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_SH7QgFl8-v",
+      "topicName": "网格上的变换",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "方格纸上的平移、旋转、轴对称；斜对称轴与向量属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_h0CVtqI2xo",
+      "topicName": "角的类型",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "锐角、钝角与角的大小比较",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_e4V6hvcuEJ",
+      "topicName": "角的类型（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.5,
+      "rationale": "角的记法；几何作图标记约定小学不系统要求",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Xt1cRqaBOW",
+      "topicName": "理解角（8 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "四边形分类与包含关系；菱形小学不学",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_wUSbRt3-qw",
+      "topicName": "立体图形（9 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.06",
+        "cn-math-2022:S3.GG.RC.06"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "由平面表示识别立体图形",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_oqziWKry-L",
+      "topicName": "角的求和规则",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.55,
+      "rationale": "平角180°、周角360°在第二学段；对顶角属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_r8c43QB6wx",
+      "topicName": "按线的性质对图形分类",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "按平行、垂直和角给图形分类",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_qUGMyMYn9m",
+      "topicName": "度数与转动",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "角的度量单位\"度\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_YUJ5pwalqL",
+      "topicName": "估算角",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "估计角的大小；优角小学不学",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_QysgF57dxh",
+      "topicName": "线、射线与角",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.01",
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "线段、射线、直线、角、平行与垂直",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_4MFUAsbx_6",
+      "topicName": "测量角",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.9,
+      "rationale": "用量角器量角和画角",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_89riIKwGYp",
+      "topicName": "测量角（9 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "角的度数可以相加减；列方程求角属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_8H2kO4k2B9",
+      "topicName": "正多边形与不规则多边形",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "正多边形属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_efOeaGFyGM",
+      "topicName": "网格上的变换",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "方格纸上平移、轴对称，图形形状大小不变",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_KFKUR_gBg_",
+      "topicName": "理解角（9 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.04",
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "用长方形的特征求边长和角",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3S10OOGPqu",
+      "topicName": "什么是角？",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "角由一个顶点和两条射线组成",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hdrMoiTgqu",
+      "topicName": "平面图形（10 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02",
+        "cn-math-2022:S2.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "用直尺、量角器画图形",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_REwgr0d_ss",
+      "topicName": "立体图形（10 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "立体图形与展开图",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_cdMlC7EpTJ",
+      "topicName": "三角形中的角（10 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "三角形内角和求未知角；正多边形内角属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_liIW336odh",
+      "topicName": "按性质对图形分类",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "四边形的共性与区别（例28）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_R4AY0LKxfl",
+      "topicName": "坐标（10 岁+）",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.85,
+      "rationale": "四象限坐标属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_oDlduFnemk",
+      "topicName": "数轴上的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.55,
+      "rationale": "有序数对属小学；坐标轴与原点属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xq3YHZ2zeR",
+      "topicName": "圆的各部分",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.85,
+      "rationale": "圆的半径、直径、周长",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_snlqRCiA1R",
+      "topicName": "在第一象限标出点",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.02",
+        "cn-math-2022:S3.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "在方格纸上描点并解读（含正比例数据）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_lxaM6iVpdr",
+      "topicName": "平移与反射图形",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "方格纸上平移和轴对称；坐标轴反射属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_QDTO3GAgcq",
+      "topicName": "理解角（10 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.5,
+      "rationale": "平角、周角属小学；对顶角属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_nRksLqt-iR",
+      "topicName": "立体图形（11 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "长方体、圆柱、圆锥属小学；棱柱、棱锥和截面属初中及以上",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_tAJH5BrpOx",
+      "topicName": "三角形中的角（11 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.03",
+        "cn-math-2022:S3.GG.RC.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "三角形、平行四边形、梯形面积和长方体、圆柱体积公式",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_J03RFlVdas",
+      "topicName": "三角形与多边形的内角和",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "三角形内角和属小学；多边形内角和公式属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_K0Y15w48SY",
+      "topicName": "坐标变换",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "图形变换的性质与全等属初中\"图形的变化\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Jf8xcX4UTq",
+      "topicName": "测量角（11 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.02",
+        "cn-math-2022:S3.GG.WY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "量角画角与比例尺图",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_DNYQLahbfa",
+      "topicName": "三角形与四边形的性质",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "推导并说明图形性质（几何推理）属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_WtIFJSCQIT",
+      "topicName": "角的类型（11 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.01",
+        "cn-math-2022:S3.GG.WY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.5,
+      "rationale": "几何术语与对称；正多边形属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_tedML_iu4Y",
+      "topicName": "理解角（11 岁+）",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "对顶角、邻补角的多步求角属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_167X6Ax8P7",
+      "topicName": "三角形中的角（12 岁+）",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.95,
+      "rationale": "全等三角形判定属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_H_pNJ3ZI_S",
+      "topicName": "平行线中的角",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.95,
+      "rationale": "平行线与截线的角属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_svFa6_mjO_",
+      "topicName": "圆：周长与面积",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.85,
+      "rationale": "圆的周长和面积公式（中国六年级）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_y-BuQAfw4B",
+      "topicName": "坐标（12 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.45,
+      "rationale": "按比例放大缩小属小学；位似与相似属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ZrsqGVG-Wt",
+      "topicName": "理解角（12 岁+）",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "垂直平分线、角平分线尺规作图属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_KB_Czd7RQH",
+      "topicName": "三角学基础",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.95,
+      "rationale": "锐角三角函数属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_1VmTUxBrNd",
+      "topicName": "角的类型（13 岁+）",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.95,
+      "rationale": "勾股定理属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_lMz9nAs7VO",
+      "topicName": "早期数学词汇",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.01",
+        "cn-math-2022:HX.FH"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.55,
+      "rationale": "尝试使用数学词语（主题活动\"数学游戏分享\"）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_RFeVlw0QvX",
+      "topicName": "寻找高效方法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:S1.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "发现重复并用来更快地数或推测",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_20WfHhnL39",
+      "topicName": "动手解决问题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "借助实物、手指等工具解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_WkKkb7W9Qd",
+      "topicName": "理解题意",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "理解题意并用实物或图表示问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_IM1G_7QzTa",
+      "topicName": "从生活到数学的联系",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.JH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "在生活情境与数学表示之间转换",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_nyK25mNOeR",
+      "topicName": "展示你的过程",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "说出自己是怎么想的",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_uG2mjHFOlO",
+      "topicName": "发现数学规律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02",
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "发现简单规律与结构",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_fLOkq-HfPB",
+      "topicName": "用物体建模真实问题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "用实物、图画或算式表示生活问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_f67qGDhyfi",
+      "topicName": "把数学联系到生活",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.YY",
+        "cn-math-2022:HX.MX"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.65,
+      "rationale": "用算式或图表示生活问题并解释结果",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_EBYGhd8X3x",
+      "topicName": "联通各种表示",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.FH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "在情境、图和算式之间建立联系",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_kJ5wYzO8qC",
+      "topicName": "解释数学推理",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "exact",
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "用图、算式或语言解释推理",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_fZTn0W_iZR",
+      "topicName": "概括规律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02",
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "从计算中发现规律并用来推测",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_O_UOTiMvT_",
+      "topicName": "引导下的多步问题解决",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "在指导下解决多步问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_zMEvtigoM3",
+      "topicName": "数轴上的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.SG"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "借助百数表、直尺等工具解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_TMoHjMhRS2",
+      "topicName": "精确的数学交流",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "准确使用数学用语、符号和单位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_DW2D1c0fKx",
+      "topicName": "图形规律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:HX.YS"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "利用运算性质和位值结构简化计算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_mQcWGh02no",
+      "topicName": "选择合适的策略",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:S2.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "在口算、笔算和计算器之间选择策略",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_2jbUekyTu4",
+      "topicName": "延伸表格规律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02",
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "延伸乘法口诀表的规律",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_pyMD_SIiYO",
+      "topicName": "论证数学推理",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "exact",
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "给出有条理的推理并找出错误",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_RKeheOL9uo",
+      "topicName": "多步问题解决",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SL.05",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "在支持下解决多步问题并检查合理性",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_FAXjFkgG6X",
+      "topicName": "图形规律（7 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "利用位值和乘除关系的结构",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_dXq9VWm31W",
+      "topicName": "理解分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.JH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "在情境、图示和算式之间转换",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_HY8Yycu_rz",
+      "topicName": "理解分数（7 岁+）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "准确使用位值和分数用语与单位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_iQYPw8bMfN",
+      "topicName": "货币的实际运用",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.65,
+      "rationale": "为钱、时间、度量问题建立数学模型",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_d-WZC2OyMB",
+      "topicName": "选择合适数学工具",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:S2.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "选择计算方法并用计算器验算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3VmBdlAeOZ",
+      "topicName": "数轴上的分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.MX"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "在多种表征之间转换",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_a3dov8CZkq",
+      "topicName": "论证数学推理（8岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "exact",
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "陈述多步推理并评价他人的推理",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_mywsN77hGZ",
+      "topicName": "数学表达的精确性",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "准确使用用语、单位和符号",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_K3R0yaHVcx",
+      "topicName": "用乘法与分数建模",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.65,
+      "rationale": "为乘法、面积、分数问题建立模型",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_SmghasIvbT",
+      "topicName": "多步问题解决",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SL.05",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "拆分步骤解决多步问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_aivrWs6jrS",
+      "topicName": "乘法口诀表（8岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:S2.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "从已知事实推出未知并归纳规律",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt__Itf4aQZUj",
+      "topicName": "运用数学结构",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "利用位值、分配律等结构计算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_IwEOCN6bL1",
+      "topicName": "有策略地选择表征方式",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:HX.JH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "按问题需要选择工具和表征",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_GpltXPoaoc",
+      "topicName": "复杂多步问题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.06",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "复杂多步问题并用估算检验",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hlGKg5M7qJ",
+      "topicName": "分数、小数与百分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:HX.YS"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.5,
+      "rationale": "利用分数、小数、百分数之间的关系；正多边形属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_CUmjcE7W6c",
+      "topicName": "数轴上的分数（9岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.MX"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "在线段图、数轴和算式之间转换",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xfwv0M83mJ",
+      "topicName": "准确的数学用语",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.5,
+      "rationale": "准确使用质数、角、单位等用语",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_8xVHooT4aI",
+      "topicName": "真实情境中的数学建模",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.65,
+      "rationale": "为比例、单位换算、面积和百分数问题建模",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_jCy07DyBNU",
+      "topicName": "运用等值关系推理",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "从等值关系中归纳规律",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_2ESZh70NyS",
+      "topicName": "理解分数（9岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "exact",
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "有条理地论证并评价他人的思路",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3rTIyJDw7-",
+      "topicName": "进阶数学用语",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.FH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.45,
+      "rationale": "准确使用数学用语；英里等英制单位与代数用语超出中国小学",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_FieL-vVTI_",
+      "topicName": "进阶多步问题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.06",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "复杂多步问题；代数和负数运算属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ZJC7JnnPCu",
+      "topicName": "选择数学工具",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.YS",
+        "cn-math-2022:HX.JH"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.5,
+      "rationale": "选择计算工具；代数方法和坐标系属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_j5YqQnN6xe",
+      "topicName": "构建数学论证",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.55,
+      "rationale": "有条理的论证属小学推理意识；形式化推理属初中推理能力",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_iyovKgZC1q",
+      "topicName": "用重复推理进行归纳",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:HX.CX",
+        "cn-math-2022:S3.NA.SL.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "归纳规律并用具体例子验证；第n项代数式属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hImiKNiaNh",
+      "topicName": "运算顺序（10岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.TL",
+        "cn-math-2022:HX.YS"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.5,
+      "rationale": "利用运算顺序和图形层级的结构",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_yqZiX6vS7D",
+      "topicName": "真实情境中的数学建模",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.MX",
+        "cn-math-2022:HX.YY"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "为比例尺、体积、单位换算问题建模",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_9KmVWCuh5_",
+      "topicName": "理解分数（10岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.JH",
+        "cn-math-2022:HX.MX"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.5,
+      "rationale": "在表格、图和式子之间转换；代数式和坐标属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_zkFbMLpu3U",
+      "topicName": "比较容量",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.LG",
+        "cn-math-2022:S3.GG.RC.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "直观比较容量；容积及单位在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_TcG90kS8nu",
+      "topicName": "比较时长",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "体会时间的长短（主题活动\"时间在哪里\"）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_uhuxX8sg9f",
+      "topicName": "比较长短与高矮",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:HX.LG"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "比较长短、高矮",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_NtJYlJdUe9",
+      "topicName": "物体的可测量属性",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:HX.LG"
+      ],
+      "relation": "partial",
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "物体的可测量属性（量感）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_-P1kdZhHbL",
+      "topicName": "测量质量与重量（4岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:HX.LG"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.55,
+      "rationale": "比较轻重；质量单位在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_-vvVxpOHG2",
+      "topicName": "按时间顺序排列事件",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "把生活事件与时间建立联系",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_4lp_b5Pzik",
+      "topicName": "容量与体积",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.55,
+      "rationale": "容积与容积单位在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_cPZwlUk8Nd",
+      "topicName": "硬币的面值",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "认识人民币面值（主题活动\"欢乐购物街\"）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_bj1YCgNWUx",
+      "topicName": "日、周、月与年",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "年、月、日在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_KaF0SQvaiu",
+      "topicName": "测量长度与高度（5岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S1.IP.ZT.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "用非标准单位和米、厘米测量长度",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_zd0YkB3xNj",
+      "topicName": "测量质量与重量",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "质量单位克、千克在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_0XxyaQLRhn",
+      "topicName": "认识时间：整点与半点",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "认识整时和半时",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt__N55B7u7HD",
+      "topicName": "认识时间：精确到分钟",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "时、分、秒",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_AF2BeFQwfX",
+      "topicName": "凑钱与找零",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "用不同的人民币组合付同样的钱",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_DOe893F6gN",
+      "topicName": "选择合适的测量单位",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:S3.GG.RC.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "选择合适的长度、质量、容积单位；温度不在数学课标",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_BFJ-ch_8QU",
+      "topicName": "比较与排列测量结果",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S2.IP.ZT.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "比较长度、质量的大小",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_skYly2Qm01",
+      "topicName": "测量长度",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "比较长短（含间接比较）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_cqSf213hSa",
+      "topicName": "测量长度（6岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S1.IP.ZT.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "用同样的单位首尾相接地量，体会统一度量单位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_6J1wmCWf41",
+      "topicName": "货币的加减",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "简单的人民币计算与找零",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_2XDGT5tei1",
+      "topicName": "一小时的分钟数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03",
+        "cn-math-2022:S2.IP.ZT.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "1时=60分属第一学段；1日=24时属第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_pbuhUQJjtt",
+      "topicName": "英镑与便士的记法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "原为英镑、便士记法，本地化为人民币元、角、分",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_6XCURuNwPw",
+      "topicName": "排列时间间隔",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "比较时间的长短",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_HNOPGJYiRK",
+      "topicName": "认识时间：精确到五分钟",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "认读几时几分",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_DLcEzmmj2r",
+      "topicName": "加减法应用题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "长度加减解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_6oxQPNLHNv",
+      "topicName": "测量量的计算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:S3.GG.RC.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "长度、质量、容积的测量与计算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xWg0lI_gG4",
+      "topicName": "通过测量比较长度",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "量出一个物体比另一个长多少",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_4emC463IyW",
+      "topicName": "比较活动时长",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03",
+        "cn-math-2022:S2.IP.ZT.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "计算经过的时间",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3XJkeIn6J6",
+      "topicName": "估算答案（7岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "估计和认读时间，精确到分",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_OzRZ89GrQW",
+      "topicName": "估算长度",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "估测长度；本地化时去掉英寸、英尺，只保留米和厘米",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_6_O6THdEDK",
+      "topicName": "找零",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "购物找零，本地化为人民币",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3tz3Otap5j",
+      "topicName": "二分之一与四分之一（7岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "原为美元硬币问题，本地化为人民币元、角、分",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_e4x3l2JeLI",
+      "topicName": "测量长度（7岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "选用直尺、米尺、卷尺量长度",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_wE7-Gs9ENL",
+      "topicName": "测量周长",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "测量简单图形的周长",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_mayItsxMUu",
+      "topicName": "测量与绘制长度",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02",
+        "cn-math-2022:S2.SP.SJ.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.5,
+      "rationale": "测量并整理数据；点状图（line plot）不在中国课标",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_jHv4BgRK8B",
+      "topicName": "用不同单位测量",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.GG.RC.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "用不同单位量同一物体，体会统一单位的必要性",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_4m8BimI4G5",
+      "topicName": "认识时间：精确到分钟（7岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03",
+        "cn-math-2022:S2.IP.ZT.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "认读时间；24时记时法在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_EXlmTURK_o",
+      "topicName": "时间单位与日历常识",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "大月、小月、平年、闰年",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_WfrE_4r-kY",
+      "topicName": "12小时制与24小时制",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "普通记时法与24时记时法互换",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_y1n0Zwhoca",
+      "topicName": "面积（8岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "数单位正方形求面积；本地化时去掉平方英寸、平方英尺",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_AQo4u7O4sM",
+      "topicName": "面积与分配律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.04",
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "用长方形面积解释乘法分配律",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Jvvh5P06NV",
+      "topicName": "用铺砖求面积",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "用单位正方形铺长方形，推导面积公式",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_eMtV6tBSJm",
+      "topicName": "组合图形的面积",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05",
+        "cn-math-2022:S3.GG.RC.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "组合图形的面积",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_d8al9JcajP",
+      "topicName": "换算测量单位",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "长度与时间单位换算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_mFJ-2ZF6Tk",
+      "topicName": "估算与比较货币",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.02",
+        "cn-math-2022:S2.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "估计和比较钱数，本地化为人民币",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ghK1mnEstc",
+      "topicName": "二分之一与四分之一（8岁以上）",
+      "status": "cn-out-of-scope",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.85,
+      "rationale": "英制单位（半英寸、四分之一英寸）与点状图不在中国课标",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_-af65bxfdp",
+      "topicName": "测量液体与质量",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:S3.GG.RC.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "质量单位在第二学段；升、毫升在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_IL86kadLSS",
+      "topicName": "数轴上的时间",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "求经过的时间",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_WtcFrxGOgw",
+      "topicName": "多边形的周长",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "多边形周长；周长相同面积不同",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_UNzojLkNdm",
+      "topicName": "认识时间：精确到分钟（8岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "认读几时几分（中国第一学段）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_GzcJEVkNRn",
+      "topicName": "理解角（8岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "长方形面积=长×宽",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_6xNmQLzuqm",
+      "topicName": "理解面积",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05",
+        "cn-math-2022:S2.GG.RC.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "面积的意义与面积单位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Zks8xyInSG",
+      "topicName": "换算测量单位（9岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S2.IP.ZT.02",
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "长度、质量、时间单位之间的换算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_eiB3-6pu6a",
+      "topicName": "估算答案（9岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.9,
+      "rationale": "长方形、正方形的周长和面积公式",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_NSC3LT_-ch",
+      "topicName": "估算体积",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "用小正方体估计体积，用排水法测容积",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_5HV4mbgSGH",
+      "topicName": "数轴上的分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.06"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "用分数、小数运算解决度量问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_42QD6nYjiZ",
+      "topicName": "测量线图",
+      "status": "cn-out-of-scope",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "以几分之一英寸为刻度的点状图不在中国课标",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_p6MhZJYYPN",
+      "topicName": "公制与英制换算",
+      "status": "cn-out-of-scope",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.95,
+      "rationale": "英制单位换算不在中国课标",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_n0AlyLQwC9",
+      "topicName": "组合图形的周长",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "组合图形的周长",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_2yas4Unc8o",
+      "topicName": "认识时间：精确到分钟（9岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.IP.ZT.01",
+        "cn-math-2022:S1.IP.ZT.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "时间单位换算问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ML5t7n2-U8",
+      "topicName": "三角形与平行四边形的面积",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.9,
+      "rationale": "平行四边形和三角形面积公式",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_d7XktBQPxm",
+      "topicName": "数单位立方体",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "数单位立方体求体积；本地化时去掉立方英寸、立方英尺",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_2VpdPjvewx",
+      "topicName": "小数的位值",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S2.GG.RC.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "用小数表示单位换算结果（如5厘米=0.05米）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_nTL-owFJTF",
+      "topicName": "估算答案（10岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.85,
+      "rationale": "长方体体积=长×宽×高=底面积×高",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_SqhXQhAEUf",
+      "topicName": "测量单位换算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.06",
+        "cn-math-2022:S2.GG.RC.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "多步单位换算问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_IuHa5UI5od",
+      "topicName": "测量长度（10岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.85,
+      "rationale": "体积的意义与体积单位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3tPI0HqqcN",
+      "topicName": "英里与千米",
+      "status": "cn-out-of-scope",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.95,
+      "rationale": "英里与千米换算不在中国课标",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_MJZA90uc6H",
+      "topicName": "周长（10岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "面积相同周长不同的探究",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_5TBUFnCy5-",
+      "topicName": "体积具有可加性",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "组合立体图形的体积",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_LpSuPgL31x",
+      "topicName": "除法即平均分配",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "平均分，除法的意义",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_GRWwTDZ3wD",
+      "topicName": "用阵列表示乘法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "用点子图（阵列）表示乘法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_PZ909yPrEC",
+      "topicName": "乘法即连加",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.9,
+      "rationale": "乘法是相同加数相加的简便运算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_C9ZfT-4cgn",
+      "topicName": "乘法的交换律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.05",
+        "cn-math-2022:S2.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "一句口诀算两道乘法；乘法交换律正式学习在第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_wh3UqnWsa7",
+      "topicName": "乘法即连加（6岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.05",
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "用连加、口诀解决乘除问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_0u4KLbvBa1",
+      "topicName": "奇数与偶数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "奇数偶数在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_zOWwLxa77y",
+      "topicName": "认读 ×、÷、= 符号",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "认识 ×、÷ 符号",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_HhuSDxwDNM",
+      "topicName": "乘法口诀表",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "2、5、10的乘法口诀与除法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_B1zj1RwQ3a",
+      "topicName": "用阵列表示乘法（7岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "用阵列和连加理解乘法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_EmR5n58jZt",
+      "topicName": "多步乘除",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:S2.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "乘除解决问题，含搭配类问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_UTnDKQkVX5",
+      "topicName": "长方形的行与列",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "用单位正方形铺长方形，是面积的基础（面积在第二学段）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_wQ89AEXhz3",
+      "topicName": "乘法口诀表（7岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "3、4、8的乘法口诀与除法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_DyGBW3ZHh3",
+      "topicName": "笔算乘除",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "多位数乘一位数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_K5jM7vlVhA",
+      "topicName": "12×12 以内全部乘法表",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "中国乘法口诀只到9×9且二年级学完，11、12的乘法表不背",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_GDG9_SZmsO",
+      "topicName": "除法即求未知因数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "除法是乘法的逆运算，用口诀求商",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_nZkL5-XjRX",
+      "topicName": "因数对与交换律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.04",
+        "cn-math-2022:S3.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "交换律属第二学段，因数对属第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_WX30dzi4dt",
+      "topicName": "熟练的乘除事实",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.05"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "熟练口算表内乘除法（中国二年级）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_pjfmCMMPjO",
+      "topicName": "心算乘除",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S2.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "乘除口算、0和1的运算、连乘",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Zdv-b-iW5K",
+      "topicName": "乘除应用题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "表内乘除解决问题（中国二年级）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_AR-K72OIIO",
+      "topicName": "乘加混合问题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.04",
+        "cn-math-2022:S2.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "乘法分配律与混合运算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_isojCL9yy-",
+      "topicName": "乘整十数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "一位数乘整十数口算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_w6MxaaoMXZ",
+      "topicName": "乘法表中的规律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "乘法口诀表中的规律",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Lb2ZnMdkYR",
+      "topicName": "运算的性质",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "运算律（交换、结合、分配）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xZvDCYA5Ae",
+      "topicName": "乘除中的未知数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "依据乘除关系求未知数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_iNdrM2-oJf",
+      "topicName": "除法的含义",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "除法的意义（平均分、包含除）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_gtTl3R5buH",
+      "topicName": "乘法的含义",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "乘法的意义（几个几）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_18fK9sQdIz",
+      "topicName": "笔算乘法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "多位数乘一位数笔算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_MCu_SNg_OW",
+      "topicName": "用阵列表示乘法（9岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "除数是一位数的除法；有余数的除法教材在二年级",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_p-nbe0w_lf",
+      "topicName": "带余数的除法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S2.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "含余数的多步问题；列方程在2022版移至初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_FHIAv6dfhU",
+      "topicName": "因数、倍数与质数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.85,
+      "rationale": "因数、倍数、公因数、公倍数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_0Wg5F97osg",
+      "topicName": "因数、倍数与质数（9岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "因数倍数属第三学段；平方数、立方数课标未列（乘方属初中）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_q9EaJc2FP8",
+      "topicName": "长乘法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "两位数乘两位数、三位数笔算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_8A3pZNOp7Z",
+      "topicName": "心算乘除（9岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "多位数乘除口算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_6-j1NO2ZUH",
+      "topicName": "倍数比较",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.01",
+        "cn-math-2022:S2.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.65,
+      "rationale": "倍的认识与求一个数的几倍（教材三年级上）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_U4cIBXVug4",
+      "topicName": "倍数比较",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "倍数关系；写成方程属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_LlMl2PbaZe",
+      "topicName": "乘除与小数点移位",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "乘除以10、100、1000引起的小数点移动",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_y1XCVsIelg",
+      "topicName": "质数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "质数与合数；分解质因数课标未明确要求",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_A-FyLLLLzy",
+      "topicName": "图形规律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SL.02",
+        "cn-math-2022:S2.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "按规则生成数或图形的规律",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_gxCIASSezX",
+      "topicName": "平方数与立方数",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "乘方及其记法属初中第四学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ZOJ6EbdPOb",
+      "topicName": "理解分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04",
+        "cn-math-2022:S3.NA.SL.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.55,
+      "rationale": "求一个数的几分之几、简单比率",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_8jFSnXxqQD",
+      "topicName": "算式中的括号",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "小括号和中括号（中国在第二学段，课标不要求大括号）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_SoDP1fSQEB",
+      "topicName": "小数的位值",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "小数乘整数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_FvEq4heNBx",
+      "topicName": "除以两位数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "除数是两位数的除法（两位数除三位数）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_lU-2aTRB9f",
+      "topicName": "小数除法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "小数除法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_WsM4EmdOLe",
+      "topicName": "带余数的除法（10岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S3.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "两位数除法；余数写成分数涉及分数与除法的关系",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ilPrU0cbtT",
+      "topicName": "用估算检验计算结果",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "用估算检验计算结果",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_XLP1IM3Qbb",
+      "topicName": "长乘法（10岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "多位数乘两位数（课标明确到两位数乘三位数）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_wPgpMJ0-PA",
+      "topicName": "乘除与小数点移位（10岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02",
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "小数点位置移动引起小数大小变化",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_RXnyhCRYXA",
+      "topicName": "多步问题：选择运算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.06",
+        "cn-math-2022:S2.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "选择运算解决多步问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_jHgRQ4hR0g",
+      "topicName": "运算顺序",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "四则运算顺序（中国在第二学段）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_vmW2cb5c7A",
+      "topicName": "比（10岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S2.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "源数据名称为Ratio但描述是混合运算口算与简算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_QU5R7Aajy9",
+      "topicName": "对答案取整",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "按要求取近似值",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_4WaKWECpcv",
+      "topicName": "书写算式",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.03",
+        "cn-math-2022:S3.NA.SL.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "列综合算式并理解算式含义",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xhoOWnhtHq",
+      "topicName": "因数、倍数与质数（11岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "公因数公倍数属第三学段；分解质因数和唯一分解定理课标未要求",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_X5cypSGoGU",
+      "topicName": "比（11岁以上）",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "含乘方、开方的运算顺序属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_rxInpOQ74w",
+      "topicName": "乘法的符号规则",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "有理数乘除法则属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_VUQNveSYjQ",
+      "topicName": "运用逆运算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.03",
+        "cn-math-2022:S2.NA.SY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "运算之间的互逆关系用于验算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_9IzhGUZ30z",
+      "topicName": "二十以内的数字写法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "英文数词书写；中文对应为认、读、写20以内的数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_x8TshvbbQT",
+      "topicName": "认读与书写 100 以内的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "读写100以内的数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_fR0UtsSREU",
+      "topicName": "认读与书写 20 以内的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "读写20以内的数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xmmgAzxe5j",
+      "topicName": "十几的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "11~20各数的认识：一个十和几个一",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_kw7xmp68rU",
+      "topicName": "多 10 或少 10",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "两位数加减10的口算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_r0VXbfAmsH",
+      "topicName": "一个十就是十个一",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "10个一是1个十（教学提示：9再加1是十）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_U0waNfD8PB",
+      "topicName": "比较与排列数字",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "比较两位数大小",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_76SPWvdI7r",
+      "topicName": "100 以内的数字写法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.6,
+      "rationale": "英文数词；中文对应为读写100以内的数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_kJGCjnuelW",
+      "topicName": "位值理解与数的事实",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "用位值解决问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_XV0B4kWwqL",
+      "topicName": "认读与书写 120 以内的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "读写百以内数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_9L3NQqgqRd",
+      "topicName": "数的多种表示",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "用多种方式表示数并估数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_zfy1gOEewd",
+      "topicName": "十的倍数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "整十数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_THl9GLxwoL",
+      "topicName": "两位数的两个数位",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "数位：十位和个位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_izien3ZX51",
+      "topicName": "多 10 或少 100",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "千以内数加减10、100",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_8gy7uxRlF6",
+      "topicName": "一百就是十个十",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "10个十是1个百",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hniI4E-OCE",
+      "topicName": "奇数还是偶数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "奇偶数在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_AQcVRBddko",
+      "topicName": "排列 1000 以内的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "比较千以内数的大小",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_98c2qwEF7Q",
+      "topicName": "1000 以内的位值",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01",
+        "cn-math-2022:S1.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "千以内数的位值问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_VFsuftfvYM",
+      "topicName": "认读与书写 1000 以内的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "读写千以内的数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_R2ccrI-nKD",
+      "topicName": "百的倍数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "整百数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_aPBzD28_mT",
+      "topicName": "三位数的三个数位",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "三位数的数位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_9XVFje6Tyr",
+      "topicName": "多 1000 或少 1000",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.7,
+      "rationale": "万以内数加减1000",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_MHaiUd2FLA",
+      "topicName": "比较大数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.02",
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S1",
+      "confidence": 0.75,
+      "rationale": "万以内比较属第一学段，万以上属第二学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_vXRzMbiPff",
+      "topicName": "负数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.IP.ZT.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "负数在第三学段综合与实践中认识",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_lC_Q5mSL_I",
+      "topicName": "10000 以内的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.8,
+      "rationale": "万以内的数（中国在第一学段，二年级下）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_jY7uf0Cb7o",
+      "topicName": "每位数字的意义",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S1.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S1",
+      "confidence": 0.85,
+      "rationale": "四位数的数位",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt__sMrmOv3bx",
+      "topicName": "位值问题解决",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "大数的位值问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_MewIRdzpzz",
+      "topicName": "100 以内的罗马数字",
+      "status": "cn-out-of-scope",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "罗马数字不在中国课标；课标对应的是\"用算盘表示多位数\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_NLSfvB9vUl",
+      "topicName": "四舍五入到 10、100、1000",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S2.NA.SL.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "四舍五入求近似数（教材在四年级\"大数的认识\"），课标未单列",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_tAtMET4EIU",
+      "topicName": "正着数与倒着数（9岁以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "十进制计数法",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_1KkvzwYxbR",
+      "topicName": "情境中的负数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.IP.ZT.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "情境中的负数（温度、海拔）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_QqG6IdmTSE",
+      "topicName": "位值 ×10 规律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.75,
+      "rationale": "十进制：相邻计数单位间进率是十",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_JwP9QFv6gQ",
+      "topicName": "读数与写数（9 岁及以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.85,
+      "rationale": "读写比较万以上的数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_To9HdLy8vq",
+      "topicName": "1000 以内的罗马数字",
+      "status": "cn-out-of-scope",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "罗马数字不在中国课标",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_5NwqN6pf_A",
+      "topicName": "大数取整",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "用\"万\"\"亿\"作单位求近似数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xMt1TLTs--",
+      "topicName": "大数的运用",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "大数的实际问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt__casygEB85",
+      "topicName": "小数位值",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "小数的近似数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_RVK655t391",
+      "topicName": "测量温度",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.IP.ZT.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "负数的情境意义属第三学段；跨零计算间隔属初中有理数运算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_XNmGwNggdU",
+      "topicName": "千万以内的数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S3.IP.ZT.01"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "千万以内的数；负数在第三学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_HLUqHJ9Y7n",
+      "topicName": "十的幂中的规律",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "小数点移动规律属小学；10的乘方指数记法属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_EDgw64OmfA",
+      "topicName": "位值 ×10 与 ÷10",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01",
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.7,
+      "rationale": "十进制位值关系延伸到小数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Ac7oMWhyPw",
+      "topicName": "读数与写数（10 岁及以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "小数的读写与大小比较",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Gag_h98jWP",
+      "topicName": "读数与写数到 10,000,000",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SY.01"
+      ],
+      "relation": "exact",
+      "cnStage": "S2",
+      "confidence": 0.8,
+      "rationale": "亿以内数的读写比较",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_lNGpnILM5C",
+      "topicName": "认识小数数位",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "小数各数位的意义",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_U9sme87C32",
+      "topicName": "小数位值（11 岁及以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "保留几位小数属小学；有效数字属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_PsylzZ9lHW",
+      "topicName": "数轴上的分数",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.75,
+      "rationale": "有理数与数轴属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_uDJY0X0hgo",
+      "topicName": "数轴上的分数（11 岁及以上）",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.8,
+      "rationale": "数轴上比较有理数属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_RWUY7_IXvw",
+      "topicName": "数轴上的数",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "绝对值属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_hCVPYlF-7Y",
+      "topicName": "平方数与立方数",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "乘方与开方属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_VVn1IXjkzn",
+      "topicName": "用取整估算",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "近似数误差界，初中只要求了解近似数",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_bO-njVOige",
+      "topicName": "十的幂记法",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "科学记数法属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_b4lbTOJYwI",
+      "topicName": "数的集合与无穷",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "无理数与实数属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xSgAgg9Ej_",
+      "topicName": "等可能结果",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.KN.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "判断等可能（游戏是否公平），只做定性判断",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_iFFKZd-Vgv",
+      "topicName": "可能性用语",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.KN.01",
+        "cn-math-2022:S3.SP.KN.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "用\"一定、可能、不可能\"描述可能性（中国第三学段）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_UcGn2hjhYU",
+      "topicName": "排列可能性大小",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.KN.02"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "比较并排列可能性的大小",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_-c4Ca_nBzX",
+      "topicName": "用分数表示概率",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.75,
+      "rationale": "2022版小学只做定性描述；用分数表示概率属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_J4j7d3iAfg",
+      "topicName": "简单的机会实验",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.KN.01",
+        "cn-math-2022:S3.SP.KN.02",
+        "cn-math-2022:HX.SJ"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "有放回摸球试验并记录，感受数据的随机性",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_Zt30Gxi-qp",
+      "topicName": "计算简单概率",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.85,
+      "rationale": "用公式计算概率属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_-bMnJcPJy8",
+      "topicName": "实验概率与理论概率",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "用频率估计概率属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_3fwYu7imd4",
+      "topicName": "概率之和为 1",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.85,
+      "rationale": "概率之和为1属初中及以上",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_t0g2SlP404",
+      "topicName": "0 到 1 的概率标尺",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "0到1的概率数值属初中；小学只定性",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_XfyqXLqzpx",
+      "topicName": "对立事件",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.9,
+      "rationale": "对立事件的概率属初中及以上",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_sHJqh6UUya",
+      "topicName": "实验概率",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.85,
+      "rationale": "相对频率估计概率属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_vmQJAtAFuy",
+      "topicName": "概率标尺",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.7,
+      "rationale": "概率标尺属初中；小学只用\"一定、可能、不可能\"",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_1YwOCMMwD8",
+      "topicName": "集合与韦恩图",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "集合运算属高中；小学教材\"重叠问题\"用韦恩图，但课标未列",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_GDtFU5fyUv",
+      "topicName": "树状图",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.85,
+      "rationale": "列表、树状图求概率属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_eSv_w46u6H",
+      "topicName": "韦恩图与计数结果",
+      "status": "beyond-primary",
+      "standards": [],
+      "relation": null,
+      "cnStage": null,
+      "confidence": 0.6,
+      "rationale": "韦恩图计数与乘法原理属初中及以上",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ePXg_XyCKU",
+      "topicName": "用条形图表示比",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04",
+        "cn-math-2022:HX.JH"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "用线段图表示比的问题",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ESgc4YBw-a",
+      "topicName": "百分数（9 岁及以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04",
+        "cn-math-2022:S3.GG.WY.03",
+        "cn-math-2022:S3.SP.SJ.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "比、比例尺、百分数等术语",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_PNSyfH56eQ",
+      "topicName": "计算百分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "求一个数的百分之几是多少",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_h0gJcSuwdL",
+      "topicName": "比的问题",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "两个量的相对大小（比）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_2OtRUM_0zW",
+      "topicName": "比例尺与相似图形",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "按比例放大缩小；相似图形属初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_FnUJMXPUZX",
+      "topicName": "理解分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "按比例分配",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_kLQOzZYrd5",
+      "topicName": "复合单位",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.NA.SL.03"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.65,
+      "rationale": "速度、单价属常见数量关系；密度属初中物理",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_nOCPx5qw0Z",
+      "topicName": "按比分配数量",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "按比分配",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_xAf2bu9wYK",
+      "topicName": "用分数表示一个量",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SY.03",
+        "cn-math-2022:S3.NA.SY.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "求一个数是另一个数的几分之几",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ALUrJpY0cZ",
+      "topicName": "百分数即分数",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.7,
+      "rationale": "百分数与分数小数互化、增长百分之几",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_ATYLKt0je-",
+      "topicName": "比例推理词汇",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04",
+        "cn-math-2022:S3.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "正比例属小学；反比例2022版移至初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_FspV_imUGK",
+      "topicName": "比例图",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.65,
+      "rationale": "成正比的量在方格纸上画图（过原点的直线）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_XWSGuFW7It",
+      "topicName": "比的记法",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.8,
+      "rationale": "比的意义与化简比",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_1badik7iKJ",
+      "topicName": "比例尺与相似图形（11 岁及以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.GG.WY.03"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.85,
+      "rationale": "比例尺：图上距离与实际距离换算",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_tpT9brpI6D",
+      "topicName": "单位换算",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S2.GG.RC.03",
+        "cn-math-2022:S3.GG.RC.03",
+        "cn-math-2022:S3.GG.RC.04",
+        "cn-math-2022:S2.IP.ZT.02"
+      ],
+      "relation": "partial",
+      "cnStage": "S2",
+      "confidence": 0.6,
+      "rationale": "长度、面积、体积、质量单位换算分散在各学段",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_iEXqN48w3x",
+      "topicName": "百分数（12 岁及以上）",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.SP.SJ.04"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.6,
+      "rationale": "折扣、税率、利息等百分数问题（课标教学提示列举）",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_5mIcmKRCgA",
+      "topicName": "比例",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.05"
+      ],
+      "relation": "partial",
+      "cnStage": "S3",
+      "confidence": 0.5,
+      "rationale": "正比例属小学；反比例2022版移至初中",
+      "review": "llm-draft"
+    },
+    {
+      "topicId": "mt_yK51ZnKA8m",
+      "topicName": "比的记法与关系",
+      "status": "aligned",
+      "standards": [
+        "cn-math-2022:S3.NA.SL.04"
+      ],
+      "relation": "exact",
+      "cnStage": "S3",
+      "confidence": 0.75,
+      "rationale": "比的记法与化简",
+      "review": "llm-draft"
+    }
+  ]
+}
