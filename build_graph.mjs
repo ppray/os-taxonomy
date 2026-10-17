@@ -84,6 +84,7 @@ for (const cur of cnCurricula) for (const t of cur.topics || []) {
   const subj = t.matchSubject, kws = t.matchDomains || [], lo = t.ageLo ?? 0, hi = t.ageHi ?? 99;
   for (const n of nodes) {
     if (n.subject !== subj) continue;
+    if (n.standards.some(k => k.startsWith('cn-math-2022:'))) continue; // 已逐条对齐的节点不再叠加粗粒度标签
     if (n.ageStart > hi || n.ageEnd < lo) continue;
     if (kws.length && !kws.some(k => (n.domain || '').includes(k) || (n.name || '').includes(k))) continue;
     if (!n.standards.includes(t.key)) n.standards.push(t.key);
