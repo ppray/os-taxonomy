@@ -16,7 +16,7 @@
       "relation": "partial",
       "cnStage": "S1",
       "confidence": 0.85,
-      "rationale": "10以内加减解决问题，一年级\"解决问题\"",
+      "rationale": "10以内加减解决问题（第一学段\"数量关系\"）",
       "review": "llm-draft"
     },
     {
@@ -121,7 +121,7 @@
       "relation": "partial",
       "cnStage": "S1",
       "confidence": 0.85,
-      "rationale": "5以内加减法，一年级上册起点",
+      "rationale": "5以内加减法，是第一学段整数加减法的起点",
       "review": "llm-draft"
     },
     {
@@ -239,7 +239,7 @@
       "relation": "partial",
       "cnStage": "S1",
       "confidence": 0.75,
-      "rationale": "一年级体验交换加数，加法交换律正式学习在第二学段",
+      "rationale": "第一学段计算中会体验交换加数；加法交换律作为运算律在第二学段",
       "review": "llm-draft"
     },
     {
@@ -527,7 +527,7 @@
       "relation": "partial",
       "cnStage": "S1",
       "confidence": 0.6,
-      "rationale": "课标小学未单列\"数轴\"，教材在直线上表示数；负数时才引入数轴概念",
+      "rationale": "课标小学部分未单列\"数轴\"，最接近的是认识数和数的顺序",
       "review": "llm-draft"
     },
     {
@@ -743,7 +743,7 @@
       "relation": "partial",
       "cnStage": "S3",
       "confidence": 0.55,
-      "rationale": "有序列举所有可能（教材\"数学广角·搭配\"）",
+      "rationale": "有序列举所有可能（第三学段学业要求：列出简单随机现象所有可能的结果）",
       "review": "llm-draft"
     },
     {
@@ -997,7 +997,7 @@
       "relation": "partial",
       "cnStage": "S1",
       "confidence": 0.8,
-      "rationale": "一年级\"比多少\"",
+      "rationale": "比较两组物体的多少，对应第一学段\"比较大小、感悟相等与不等\"",
       "review": "llm-draft"
     },
     {
@@ -1168,7 +1168,7 @@
       "relation": "partial",
       "cnStage": "S1",
       "confidence": 0.6,
-      "rationale": "按6、7、9数数关联乘法口诀；中国二年级已学完表内乘法",
+      "rationale": "按6、7、9数数关联乘法口诀；课标要求第一学段末熟练口算表内乘除法",
       "review": "llm-draft"
     },
     {
@@ -1430,7 +1430,7 @@
       "relation": "partial",
       "cnStage": "S2",
       "confidence": 0.65,
-      "rationale": "一半；分数的初步认识在第二学段，一年级只有\"平均分\"",
+      "rationale": "一半；分数的初步认识在第二学段",
       "review": "llm-draft"
     },
     {
@@ -1775,7 +1775,7 @@
       "relation": "partial",
       "cnStage": "S2",
       "confidence": 0.6,
-      "rationale": "求一个数的几分之几：三年级有简单应用，分数乘法在第三学段",
+      "rationale": "求一个数的几分之几：第二学段初步认识分数，分数乘法在第三学段",
       "review": "llm-draft"
     },
     {
@@ -3139,7 +3139,7 @@
       "relation": "exact",
       "cnStage": "S3",
       "confidence": 0.85,
-      "rationale": "圆的周长和面积公式（中国六年级）",
+      "rationale": "圆的周长和面积公式（第三学段）",
       "review": "llm-draft"
     },
     {
@@ -4940,7 +4940,7 @@
       "relation": "partial",
       "cnStage": "S1",
       "confidence": 0.75,
-      "rationale": "中国乘法口诀只到9×9且二年级学完，11、12的乘法表不背",
+      "rationale": "中国乘法口诀只到9×9，课标要求第一学段末熟练口算表内乘除法；11、12的乘法不要求背",
       "review": "llm-draft"
     },
     {
@@ -4980,7 +4980,7 @@
       "relation": "exact",
       "cnStage": "S1",
       "confidence": 0.85,
-      "rationale": "熟练口算表内乘除法（中国二年级）",
+      "rationale": "熟练口算表内乘除法（第一学段学业要求）",
       "review": "llm-draft"
     },
     {
@@ -5007,7 +5007,7 @@
       "relation": "partial",
       "cnStage": "S1",
       "confidence": 0.75,
-      "rationale": "表内乘除解决问题（中国二年级）",
+      "rationale": "用表内乘除解决问题（第一学段）",
       "review": "llm-draft"
     },
     {
@@ -5125,7 +5125,7 @@
       "relation": "partial",
       "cnStage": "S2",
       "confidence": 0.8,
-      "rationale": "除数是一位数的除法；有余数的除法教材在二年级",
+      "rationale": "除数是一位数的除法（第二学段多位数乘除）",
       "review": "llm-draft"
     },
     {
@@ -5205,7 +5205,7 @@
       "relation": "partial",
       "cnStage": "S1",
       "confidence": 0.65,
-      "rationale": "倍的认识与求一个数的几倍（教材三年级上）",
+      "rationale": "倍数比较问题：第一学段用乘除解决简单问题，第二学段进一步运用；课标未单列\"倍\"，具体年级需核对教材",
       "review": "llm-draft"
     },
     {
@@ -5836,7 +5836,7 @@
       "relation": "exact",
       "cnStage": "S1",
       "confidence": 0.8,
-      "rationale": "万以内的数（中国在第一学段，二年级下）",
+      "rationale": "万以内的数（第一学段，课标印刷页18）",
       "review": "llm-draft"
     },
     {
@@ -5887,7 +5887,7 @@
       "relation": "partial",
       "cnStage": "S2",
       "confidence": 0.65,
-      "rationale": "四舍五入求近似数（教材在四年级\"大数的认识\"），课标未单列",
+      "rationale": "四舍五入求近似数，课标未单列；对应第二学段大数的认识与估算，具体年级需核对教材",
       "review": "llm-draft"
     },
     {
@@ -6326,7 +6326,7 @@
       "relation": null,
       "cnStage": null,
       "confidence": 0.6,
-      "rationale": "集合运算属高中；小学教材\"重叠问题\"用韦恩图，但课标未列",
+      "rationale": "集合运算属高中；课标小学部分未列集合与韦恩图",
       "review": "llm-draft"
     },
     {
