@@ -767,7 +767,7 @@
 
   // ---------- 国外课标参考（六类译注）----------
   const CURRICULA_META = {
-    'cn-math-2022': { label: '中国数学课标（2022年版）', note: '义务教育数学课程标准 · 小学部分 · 逐条对齐' },
+    'cn-math-2022': { label: '中国数学课标（2022年版）', note: '义务教育数学课程标准 · 小学部分 · 逐条对齐（LLM 草稿，待教师审校）' },
     'cn-2022': { label: '中国课标（2022年版）', note: '义务教育课程方案与课程标准' },
     'uk-nc-2013': { label: '英国国家课程 2013', note: 'England National Curriculum 2013' },
     'ccss-ela': { label: '美国共同核心 · 英语语言艺术', note: 'CCSS-ELA · K–12' },
